@@ -73,7 +73,9 @@ class GRReader:
 				booklista = soup.findAll('a',{ "class" : "bookTitle" })
 				for tag in booklista:
 					href = tag['href'][0:-17]
-					good_title = tag.span.get_text()
+					good_title = tag.span
+					if good_title is not None:
+						good_title = good_title.get_text()
 					author_tag = tag.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling
 					good_author = author_tag.span.get_text()
 					minirating = author_tag.next_sibling.next_sibling.next_sibling.next_sibling.span.get_text().strip()
