@@ -22,7 +22,7 @@ args = parser.parse_args()
 class GRReader:
 
 		def __init__(self, csvfile):
-			self.linereader = self.UnicodeDictReader(open(csvfile))
+			self.linereader = self.UnicodeDictReader(open(csvfile, 'rU'))
 			csvfile_write  = open(args.csvout, 'wb')
 			self.linewriter = csv.writer(csvfile_write, delimiter=',')
 			self.linewriter.writerow(['id', 'title', 'author', 'avg_rating', 'ratings', 'url', 'img', 'pages', 'year'])
@@ -87,8 +87,16 @@ class GRReader:
 				url2 = 'https://www.goodreads.com' + href
 				print 'Visiting... ' + url2
 				soup2 = self.__visita_URL(url2)
-				img = soup2.find("img", {"id": "coverImage"})['src']
-				pages = soup2.find("span", {"itemprop": "numberOfPages"}).get_text()[0:-6]
+				img = soup2.find("img", {"id": "coverImage"})
+				if img is not None:
+					img = img['src']
+				else:
+					img = ""
+				pages = soup2.find("span", {"itemprop": "numberOfPages"})
+				if pages is not None:
+					pages = pages.get_text()[0:-6]			
+				else:
+					pages = ""
 
 				self.linewriter.writerow([row['id'], good_title.encode('utf-8'), good_author.encode('utf-8'), avg_rating, ratings, href, img, pages, row['year']])
 				print row['id'] + ' ' + good_title + ' by ' + good_author + ' ' + avg_rating + ' ' + ratings + ' ' +href + ' '+ img + ' ' + pages
