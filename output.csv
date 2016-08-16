@@ -1,11 +1,2 @@
 id,title,author,avg_rating,ratings,url,img,pages,year
-1,"Swann's Way (In Search of Lost Time, #1)",Marcel Proust,4.14,"27,509",/book/show/12749.Swann_s_Way,https://d2arxad8u2l0g7.cloudfront.net/books/1452956236l/12749.jpg,468,1913
-2,Ulysses,James Joyce,3.73,"77,652",/book/show/338798.Ulysses,https://d2arxad8u2l0g7.cloudfront.net/books/1428891345l/338798.jpg,810,1922
-3,Don Quixote,Miguel de Cervantes Saavedra,3.84,"145,341",/book/show/3836.Don_Quixote,https://d2arxad8u2l0g7.cloudfront.net/books/1364958765l/3836.jpg,982,1605
-4,"Moby-Dick; or, The Whale",Herman Melville,3.44,"368,900",/book/show/153747.Moby_Dick_or_The_Whale,https://d2arxad8u2l0g7.cloudfront.net/books/1327940656l/153747.jpg,663,1851
-5,Hamlet,William Shakespeare,really liked it 4.00,"525,347",/book/show/1420.Hamlet,https://d.gr-assets.com/books/1351051208l/1420.jpg,289,1601
-6,War and Peace,Leo Tolstoy,4.10,"162,114",/book/show/656.War_and_Peace,https://d.gr-assets.com/books/1413215930l/656.jpg,1392,1869
-7,The Odyssey,Homer,3.71,"664,569",/book/show/1381.The_Odyssey,https://d.gr-assets.com/books/1390173285l/1381.jpg,560,-700
-8,The Great Gatsby,F. Scott Fitzgerald,3.87,"2,511,787",/book/show/4671.The_Great_Gatsby,https://d2arxad8u2l0g7.cloudfront.net/books/1438728255l/4671.jpg,180,1925
-9,The Divine Comedy,Dante Alighieri,4.06,"80,929",/book/show/6656.The_Divine_Comedy,https://d2arxad8u2l0g7.cloudfront.net/books/1390760180l/6656.jpg,798,1472
-10,Madame Bovary,Gustave Flaubert,3.63,"163,928",/book/show/2175.Madame_Bovary,https://d.gr-assets.com/books/1335676143l/2175.jpg,329,1857
+20,Pride and Prejudice,Jane Austen,4.24,"1,937,815",/book/show/1885.Pride_and_Prejudice,https://d.gr-assets.com/books/1320399351l/1885.jpg,279,1813
