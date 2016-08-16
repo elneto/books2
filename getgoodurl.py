@@ -20,6 +20,9 @@ class GRReader:
 
 		def __init__(self, csvfile):
 			self.linereader = csv.DictReader(open(csvfile, 'rU'))
+			csvfile_write  = open('output.csv', 'wb')
+			self.linewriter = csv.writer(csvfile_write, delimiter=',')
+			self.linewriter.writerow(['id', 'title', 'author', 'avg_rating', 'ratings', 'url', 'img', 'pages', 'year'])
 
 		def lee(self):
 			for row in self.linereader:
@@ -32,22 +35,35 @@ class GRReader:
 				title = title.replace(' ', '+')
 				end = '&search_type=books&search%5Bfield%5D=title'
 				url = base+title+end
+
 				soup = BeautifulSoup(urllib2.urlopen(url).read())
 				href = ""
 				good_title = ""
 				good_author = ""
+				avg_rating = ""
+				ratings = ""
+
 				booklista = soup.findAll('a',{ "class" : "bookTitle" })
 				for tag in booklista:
-					href = tag['href'] 
+					href = tag['href'][0:-17]
 					good_title = tag.span.get_text()
-					#print good_title
 					author_tag = tag.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling
 					good_author = author_tag.span.get_text()
-					#print '**** Author' + ' ' + row['author'] + ' vs ' + good_author
-					#print good_author
+					minirating = author_tag.next_sibling.next_sibling.next_sibling.next_sibling.span.get_text().strip()
+					minirating_list = minirating.split(u' — ')
+					avg_rating = minirating_list[0][0:-11]
+					ratings = minirating_list[1][0:-8]
 					if (row['author'].strip() in good_author):
 						break
-				print good_title + ' by ' + good_author + ' ' + href
+
+				url2 = 'https://www.goodreads.com' + href
+				#print 'Visiting... ' + url2
+				soup2 = BeautifulSoup(urllib2.urlopen(url2).read())
+				img = soup2.find("img", {"id": "coverImage"})['src']
+				pages = soup2.find("span", {"itemprop": "numberOfPages"}).get_text()[0:-6]
+
+				self.linewriter.writerow([row['id'], good_title, good_author, avg_rating, ratings, href, img, pages, row['year']])
+				print good_title + ' by ' + good_author + ' ' + avg_rating + ' ' + ratings + ' ' +href + ' '+ img + ' ' + pages
 
 gr = GRReader(args.csvfile)
 #gr.lee()
