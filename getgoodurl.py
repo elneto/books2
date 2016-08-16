@@ -63,7 +63,7 @@ class GRReader:
 				pages = soup2.find("span", {"itemprop": "numberOfPages"}).get_text()[0:-6]
 
 				self.linewriter.writerow([row['id'], good_title, good_author, avg_rating, ratings, href, img, pages, row['year']])
-				print good_title + ' by ' + good_author + ' ' + avg_rating + ' ' + ratings + ' ' +href + ' '+ img + ' ' + pages
+				print row['id'] + ' ' + good_title + ' by ' + good_author + ' ' + avg_rating + ' ' + ratings + ' ' +href + ' '+ img + ' ' + pages
 
 gr = GRReader(args.csvfile)
 #gr.lee()
