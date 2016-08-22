@@ -76,8 +76,14 @@ class GRReader:
 					good_title = tag.span
 					if good_title is not None:
 						good_title = good_title.get_text()
+					else:
+						continue #skip this line
 					author_tag = tag.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling
-					good_author = author_tag.span.get_text()
+					good_author = author_tag.span
+					if good_author is not None:
+						good_author = good_author.get_text()
+					else:
+						good_author = ""
 					minirating = author_tag.next_sibling.next_sibling.next_sibling.next_sibling.span.get_text().strip()
 					minirating_list = minirating.split(u' — ')
 					avg_rating = minirating_list[0][0:-11]
