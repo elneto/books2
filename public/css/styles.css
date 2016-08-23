@@ -90,7 +90,7 @@ body{
   {
   position: absolute;
   z-index: 10;
-  visibility: hidden;
+  /*visibility: hidden;*/
   border: 1px solid #aaa;
   background-color:#fff;
   /*opacity: 0.9;*/

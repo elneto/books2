@@ -2,15 +2,13 @@
 <meta charset="utf-8">
 <style>
 
-.bar {
-  fill: steelblue;
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  width: 960px;
 }
 
-.bar:hover {
-  fill: brown;
-}
-
-.axis {
+.axis text {
   font: 10px sans-serif;
 }
 
@@ -21,12 +19,28 @@
   shape-rendering: crispEdges;
 }
 
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.bar:hover{
+  fill: red;
+}
+
 .x.axis path {
   display: none;
 }
 
+label {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
 </style>
-<body>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<label><input type="checkbox"> Sort values</label>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -35,7 +49,7 @@ var margin = {top: 20, right: 20, bottom: 30, left: 40},
     height = 500 - margin.top - margin.bottom;
 
 var x = d3.scale.ordinal()
-    .rangeRoundBands([0, width], .1);
+    .rangeBands([0, width], .1, 1);
 
 var y = d3.scale.linear()
     .range([height, 0]);
@@ -46,8 +60,7 @@ var xAxis = d3.svg.axis()
 
 var yAxis = d3.svg.axis()
     .scale(y)
-    .orient("left")
-    .ticks(10, "%");
+    .orient("left");
 
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
@@ -55,11 +68,16 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-d3.tsv("data.tsv", type, function(error, data) {
-  if (error) throw error;
+var tt = d3.select("#tooltip");
 
-  x.domain(data.map(function(d) { return d.letter; }));
-  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+d3.csv("output_corregido.csv", function(error, data) {
+
+  data.forEach(function(d) {
+    d.pages = +d.pages;
+  });
+
+  x.domain(data.map(function(d) { return d.id; }));
+  y.domain([0, d3.max(data, function(d) { return d.pages; })]);
 
   svg.append("g")
       .attr("class", "x axis")
@@ -74,21 +92,98 @@ d3.tsv("data.tsv", type, function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Frequency");
+      .text("Pages");
 
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.letter); })
+      .attr("x", function(d) { return x(d.id); })
       .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.frequency); })
-      .attr("height", function(d) { return height - y(d.frequency); });
+      .attr("y", function(d) { return y(d.pages); })
+      .attr("height", function(d) { return height - y(d.pages); })
+      .on("mouseover", function(d){ 
+          showTooltip(d, this, event.pageX, event.pageY);
+        });;
+
+  d3.select("input").on("change", change);
+
+  var sortTimeout = setTimeout(function() {
+    d3.select("input").property("checked", true).each(change);
+  }, 2000);
+
+  function showTooltip(d, node, x, y){
+      if (d.img != "0")
+        d3.select("#tt-img").attr("src", d.img);
+      else
+        d3.select("#tt-img").attr("src", "img/nopic.png");
+      d3.select("#tt-title").text(d.title);
+      d3.select("#tt-author").text(d.author);
+      d3.select("#tt-pages").text(d.pages+" pages");
+      d3.select("#tt-ratings").text(d.avg_rating + " from " +addCommas(d.ratings)+ " reviews");
+      d3.select("#tt-url").attr("href", "https://www.goodreads.com/"+d.url);
+      tt.style("top", y+"px").style("left", x+"px");
+      tt.style("visibility", "visible");
+      //d3.select(node).style("fill", "red");
+      return 0;
+    }
+
+  function addCommas(nStr)
+    {
+      nStr += '';
+      var x = nStr.split('.');
+      var x1 = x[0];
+      var x2 = x.length > 1 ? '.' + x[1] : '';
+      var rgx = /(\d+)(\d{3})/;
+      while (rgx.test(x1)) {
+        x1 = x1.replace(rgx, '$1' + ',' + '$2');
+      }
+      return x1 + x2;
+    }
+
+  function change() {
+    clearTimeout(sortTimeout);
+
+    // Copy-on-write since tweens are evaluated after a delay.
+    var x0 = x.domain(data.sort(this.checked
+        ? function(a, b) { return b.pages - a.pages; }
+        : function(a, b) { return d3.ascending(a.id, b.id); })
+        .map(function(d) { return d.id; }))
+        .copy();
+
+    svg.selectAll(".bar")
+        .sort(function(a, b) { return x0(a.pages) - x0(b.pages); });
+
+    var transition = svg.transition().duration(750),
+        delay = function(d, i) { return i * 50; };
+
+    transition.selectAll(".bar")
+        .delay(delay)
+        .attr("x", function(d) { return x0(d.id); });
+
+    transition.select(".x.axis")
+        .call(xAxis)
+      .selectAll("g")
+        .delay(delay);
+  }
 });
 
-function type(d) {
-  d.frequency = +d.frequency;
-  return d;
-}
-
 </script>
+  <body>
+    <div class="container">
+      <!-- A tool tip -->
+      <div id="tooltip"> 
+          <img src="img/close.gif" id="closett">
+          <img id="tt-img" src="" width=50> 
+          <div id="tt-text">
+            <div id="tt-title"></div>
+            <div id="tt-author"></div><small><div id="tt-pages"></div></small>
+            <div id="tt-ratings"></div>
+            <a href="" id="tt-url" target="_blank">Read more</a>&nbsp;|&nbsp;
+            <a href="#" id="tt-red">Remove</a>
+          </div>
+      </div>
+      <div id="theviz"> </div>
+    </div>
+  </body>
+</html>
