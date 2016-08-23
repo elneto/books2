@@ -1,8 +1,39 @@
 
-body{
-  font-family: "Merriweather", "Georgia", serif;
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  position: relative;
+  width: 960px;
   font-size: 14px;
-  background: 
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: steelblue;
+  fill-opacity: .9;
+}
+
+.bar:hover{
+  fill: red;
+}
+
+.x.axis path {
+  display: none;
+}
+
+label {
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
 
 .ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
@@ -19,61 +50,6 @@ body{
     height: 100%;
 }
 
-#loader {
-  position: absolute;
-  left: 50%;
-  top: 40%;
-  z-index: 1;
-  width: 150px;
-  height: 150px;
-  margin: -75px 0 0 -75px;
-  border: 16px solid #f3f3f3;
-  border-radius: 50%;
-  border-top: 16px solid #444444;
-  width: 100px;
-  height: 100px;
-  -webkit-animation: spin 2s linear infinite;
-  animation: spin 2s linear infinite;
-  /*display: none;*/
-}
-
-#welcome {
-  position: absolute;
-  left: 39%;
-  top: 50%;
-  z-index: 1;
-  color: white;
-  font-size: 1.3em;
-  /*display: none;*/
-  }
-
-@-webkit-keyframes spin {
-  0% { -webkit-transform: rotate(0deg); }
-  100% { -webkit-transform: rotate(360deg); }
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
-
-.overlay {
-  fill: none;
-  pointer-events: all;
-}
-
-.circle {
-  fill: steelblue;
-  stroke:gray;
-  fill-opacity:0.3;
-  /*stroke:white;*/
-  cursor: pointer;
-}
-
-.circle:hover {
-  fill: brown;
-}
 
 .axis {
   font: 10px sans-serif;
@@ -90,7 +66,7 @@ body{
   {
   position: absolute;
   z-index: 10;
-  /*visibility: hidden;*/
+  visibility: hidden;
   border: 1px solid #aaa;
   background-color:#fff;
   /*opacity: 0.9;*/

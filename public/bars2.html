@@ -2,67 +2,49 @@
 <meta charset="utf-8">
 <style>
 
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  position: relative;
-  width: 960px;
-}
 
-.axis text {
-  font: 10px sans-serif;
-}
-
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
-}
-
-.bar {
-  fill: steelblue;
-  fill-opacity: .9;
-}
-
-.bar:hover{
-  fill: red;
-}
-
-.x.axis path {
-  display: none;
-}
-
-label {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-}
 
 </style>
 <link rel="stylesheet" type="text/css" href="css/styles.css">
-<label><input type="checkbox"> Sort values</label>
+  <body>
+    <div class="container">
+      <div id="theviz"></div>
+      <!-- A tool tip -->
+      <div id="tooltip"> 
+          <img src="img/close.gif" id="closett">
+          <img id="tt-img" src="" width=50> 
+          <div id="tt-text">
+            <div id="tt-title"></div>
+            <div id="tt-author"></div><small><div id="tt-pages"></div></small>
+            <div id="tt-ratings"></div>
+            <a href="" id="tt-url" target="_blank">Read more</a><!-- &nbsp;|&nbsp; -->
+            <!-- <a href="#" id="tt-red">Remove</a> -->
+          </div>
+      </div>
+      
+    <label><input type="checkbox"> Sort values</label>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    width = 800 - margin.left - margin.right,
+    height = 3100 - margin.top - margin.bottom;
 
-var x = d3.scale.ordinal()
-    .rangeBands([0, width]);
+var x = d3.scale.linear()
+    .range([0, width]);
 
-var y = d3.scale.linear()
-    .range([height, 0]);
+var y = d3.scale.ordinal()
+    .rangeBands([0, height]);
 
 var xAxis = d3.svg.axis()
     .scale(x)
-    .orient("bottom");
+    .orient("top");
 
 var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left");
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#theviz").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -76,35 +58,35 @@ d3.csv("output_corregido.csv", function(error, data) {
     d.pages = +d.pages;
   });
 
-  x.domain(data.map(function(d) { return d.id; }));
-  y.domain([0, d3.max(data, function(d) { return d.pages; })]);
+  y.domain(data.map(function(d) { return d.id; }));
+  x.domain([0, d3.max(data, function(d) { return d.pages; })]);
 
   svg.append("g")
       .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .call(xAxis);
-
-  svg.append("g")
-      .attr("class", "y axis")
-      .call(yAxis)
+      .attr("transform", "translate(0,15)")
+      .call(xAxis)
     .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
+      .attr("x", width)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
       .text("Pages");
+
+  svg.append("g")
+      .attr("class", "y axis")
+      .attr("transform", "translate(0,20)")
+      .call(yAxis);
 
   svg.selectAll(".bar")
       .data(data)
     .enter().append("rect")
       .attr("class", "bar")
-      .attr("x", function(d) { return x(d.id); })
-      .attr("width", x.rangeBand())
-      .attr("y", function(d) { return y(d.pages); })
-      .attr("height", function(d) { return height - y(d.pages); })
+      .attr("x", 0 )
+      .attr("width", function(d) { return x(d.pages);})
+      .attr("y", function(d) { return y(d.id)+20; })
+      .attr("height", y.rangeBand())
       .on("mouseover", function(d){ 
           showTooltip(d, this, event.pageX, event.pageY);
-        });;
+        });
 
   d3.select("input").on("change", change);
 
@@ -124,7 +106,6 @@ d3.csv("output_corregido.csv", function(error, data) {
       d3.select("#tt-url").attr("href", "https://www.goodreads.com/"+d.url);
       tt.style("top", y+"px").style("left", x+"px");
       tt.style("visibility", "visible");
-      //d3.select(node).style("fill", "red");
       return 0;
     }
 
@@ -145,45 +126,30 @@ d3.csv("output_corregido.csv", function(error, data) {
     clearTimeout(sortTimeout);
 
     // Copy-on-write since tweens are evaluated after a delay.
-    var x0 = x.domain(data.sort(this.checked
+    var y0 = y.domain(data.sort(this.checked
         ? function(a, b) { return b.pages - a.pages; }
         : function(a, b) { return d3.ascending(a.id, b.id); })
         .map(function(d) { return d.id; }))
         .copy();
 
     svg.selectAll(".bar")
-        .sort(function(a, b) { return x0(a.pages) - x0(b.pages); });
+        .sort(function(a, b) { return y0(a.pages) - y0(b.pages); });
 
-    var transition = svg.transition().duration(750),
+    var transition = svg.transition().duration(250),
         delay = function(d, i) { return i * 50; };
 
     transition.selectAll(".bar")
         .delay(delay)
-        .attr("x", function(d) { return x0(d.id); });
+        .attr("y", function(d) { return y0(d.id)+20; });
 
-    transition.select(".x.axis")
-        .call(xAxis)
+    transition.select(".y.axis")
+        .call(yAxis)
       .selectAll("g")
         .delay(delay);
   }
 });
 
 </script>
-  <body>
-    <div class="container">
-      <!-- A tool tip -->
-      <div id="tooltip"> 
-          <img src="img/close.gif" id="closett">
-          <img id="tt-img" src="" width=50> 
-          <div id="tt-text">
-            <div id="tt-title"></div>
-            <div id="tt-author"></div><small><div id="tt-pages"></div></small>
-            <div id="tt-ratings"></div>
-            <a href="" id="tt-url" target="_blank">Read more</a>&nbsp;|&nbsp;
-            <a href="#" id="tt-red">Remove</a>
-          </div>
-      </div>
-      <div id="theviz"> </div>
-    </div>
+  </div> <!-- container -->
   </body>
 </html>
