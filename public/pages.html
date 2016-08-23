@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Best Books Ever</title>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+<!-- Bootstrap -->
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<body class="layer">
+
+<div class="container">
+<!-- A tool tip -->
+<div id="tooltip"> 
+    <img src="img/close.gif" id="closett">
+    <img id="tt-img" src="" width="50"> 
+    <div id="tt-text">
+      <div id="tt-title"></div>
+      <div id="tt-author"></div><small><div id="tt-pages"></div></small>
+      <div id="tt-ratings"></div>
+      <a href="" id="tt-url" target="_blank">Read more</a>&nbsp;|&nbsp;
+      <a href="#" id="tt-red">Remove</a>
+    </div>
+</div>
+
+<!-- A preloader -->
+<img src="img/loading-coffee.gif" alt="loading image..." id="loader" width="80" height="80">
+
+<div id="welcome">
+
+  <p>Please wait. Loading search autocomplete...</p>
+
+  <p>Click around and scroll to zoom in and out in a point</p>
+
+  <p>You can also search for books and authors</p>
+
+  <p>Have fun exploring books!</p>
+</div>
+
+<h2>Best Books Ever</h2>
+
+<div class="row">
+  <div class="col-md-3">
+    More than 40,000 books to explore <br>
+    <a href="index.html">Order by popularity</a>
+  </div>
+  <div class="ui-widget col-md-4">
+    <input id="search" size="45" placeholder="search title or author">
+    <button id="search_button">Search</button>
+  </div>
+
+  <div class="ui-widget col-md-5">
+    <input id="search_author" size="30" placeholder="search author">
+    <button id="but_search_author">Search</button>
+    <button id="clear">Clear</button>
+  </div>
+
+</div>
+<div class="row">
+  <div class="col-md-7">
+    &nbsp;
+  </div>
+  <div class="col-md-5">
+    <span id="status"></span>
+  </div>
+</div>
+  <div class="row">
+    <p>&nbsp;</p>
+    <div class="col-md-12" id="theviz">
+    </div>
+  </div>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var circle = "",
+    titleAuthor = [],
+    authors = [];
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 1000 - margin.left - margin.right,
+    height = 600 - margin.top - margin.bottom;
+
+var x = d3.scale.linear()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var radius = d3.scale.sqrt()
+    .range([2.5, 50]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .ticks(5);
+
+var svg = d3.select("#theviz").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    
+var tt = d3.select("#tooltip"),
+    data_ext = [];
+
+//copy title and author to array
+function populateAutoComplete(){
+  for (var i = 0; i < data_ext.length; i++){
+    titleAuthor[i] = data_ext[i].title + " by " + data_ext[i].author;
+    if(authors.indexOf(data_ext[i].author) === -1)
+      authors.push(data_ext[i].author); //only put unique ones
+  }
+
+  //for the autocomplete
+  $(function() { 
+    $( "#search" ).autocomplete({
+      source: titleAuthor
+    });
+    $( "#search_author" ).autocomplete({
+      source: authors
+    });
+  });
+
+  document.getElementById("loader").style.display = "none";
+  document.getElementById("welcome").style.display = "none";
+  $("body").removeClass("layer");
+
+}
+
+d3.csv("output_corregido.csv", type, function(error, data){
+    if (error) throw error;
+    data_ext = data.slice();
+    setTimeout(populateAutoComplete); //calls it async
+
+    //marks in red the book (title by author) given in term 
+    function selectSearchBook(term, field){
+      var found = 0;
+      var title = term.split(" by ")[0];
+      svg.selectAll(".circle").
+        select(function(d,i){
+          if (title.localeCompare(d[field])==0){
+            d3.select(this).style("fill", "red");
+            //var oldR = d3.select(this).attr("r");
+            //console.log(oldR);
+
+            d3.select(this).transition().delay(750).attr("r", 100);
+            ++found;
+            showTooltip(d, this, 100,220);
+          }
+        });
+      //console.log(found);
+      if (field === "author")
+        $("#status").html("Found <strong>"+found+"</strong> books by " +term);
+    }
+
+    //on click of buttons
+    d3.select("#search_button").on("click",function(d){
+      var term = document.getElementById("search").value
+      if (term != "") //todo: do a trim
+        return selectSearchBook(term, "title");
+    });
+    d3.select("#but_search_author").on("click",function(d){
+      var term = document.getElementById("search_author").value
+      if (term != "") //todo: do a trim
+        return selectSearchBook(term, "author");
+    });
+    d3.select("#clear").on("click",function(d){
+      return clear();
+    });
+
+    function showTooltip(d, node, x, y){
+      if (d.img != "0")
+        d3.select("#tt-img").attr("src", d.img);
+      else
+        d3.select("#tt-img").attr("src", "img/nopic.png");
+      d3.select("#tt-title").text(d.title);
+      d3.select("#tt-author").text(d.author);
+      d3.select("#tt-pages").text(d.pages+" pages");
+      d3.select("#tt-ratings").text(d.avg_rating + " from " +addCommas(d.ratings)+ " reviews");
+      d3.select("#tt-url").attr("href", "https://www.goodreads.com/book/show/"+d.url);
+      tt.style("top", y+"px").style("left", x+"px");
+      tt.style("visibility", "visible");
+      d3.select(node).style("fill", "red");
+      return 0;
+    }
+
+    x.domain([1, d3.max(data, function(d) { return d.pages; })]);
+    y.domain([2.5, 5]);
+    radius.domain([1,d3.max(data, function(d) { return d.ratings; })]);
+
+    svg.call(d3.behavior.zoom().y(y).x(x).scaleExtent([1,Infinity]).on("zoom", zoom));
+
+    //the axes
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis)
+      .append("text")
+        .attr("x", width)
+        .attr("y", -16)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Number of pages");
+
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
+      .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Avg. Rating");
+
+    var clicked_circle = null;
+    circle = svg.selectAll(".circle")
+        .data(data)
+      .enter().append("circle")
+        .attr("class", "circle")
+        .attr("r", function(d){
+          return radius(d.ratings);
+        })
+        .attr("transform", transform)
+        .on("click", function(d){ 
+          clicked_circle = d3.select(this);
+          showTooltip(d, this, event.pageX, event.pageY);
+        });
+
+    d3.select("#closett").on("click",function(d){return tt.style("visibility", "hidden");});
+    d3.select("#tt-red").on("click",function(d){
+      if (clicked_circle) 
+        {
+          clicked_circle.remove();
+          tt.style("visibility", "hidden"); //closes the hover
+        }
+    });
+  });
+
+function clear(){
+  //circle.transition().style("fill", "steelblue");
+  circle
+    .style("fill", "steelblue")
+    .attr("r", function(d){
+          return radius(d.ratings);
+        });
+
+  $("#status").text("");
+}
+
+$(function(){ 
+  $('a[href="#"]').click( function(e) {
+    e.preventDefault();
+  });
+});
+
+function type(d) {
+  d.ratings=d.ratings.replace(/\,/g,''); // string, so convert it to number
+  d.ratings=parseInt(d.ratings,10);
+  console.log(d.ratings)
+  d.pages = +d.pages;
+  d.avg_rating = +d.avg_rating;
+  //to avoid the log(0) that is NaN
+  if (d.ratings == 0)
+    d.ratings = 1;
+  if (d.avg_rating == 0)
+    d.avg_rating = 0.1;
+  if (d.pages <= 0)
+    d.pages = 1;
+  return d;
+}
+
+function zoom() {
+  circle.attr("transform", transform);
+}
+
+function transform(d) {
+  return "translate(" + x(d.pages) + "," + y(d.avg_rating) + ")"; 
+}
+
+function addCommas(nStr)
+{
+  nStr += '';
+  var x = nStr.split('.');
+  var x1 = x[0];
+  var x2 = x.length > 1 ? '.' + x[1] : '';
+  var rgx = /(\d+)(\d{3})/;
+  while (rgx.test(x1)) {
+    x1 = x1.replace(rgx, '$1' + ',' + '$2');
+  }
+  return x1 + x2;
+}
+
+</script>
+
+  <div class="row">
+    <div class="col-md-12">
+    <p>&nbsp;</p>
+    <p><strong>Click</strong> to see the book's title and more info.</p>
+
+    <p>Use the <strong>scroll</strong> to zoom in and out, <strong>drag</strong> to pan.</p>
+
+    <p>The X axis is the number of pages. The Y is the average rating. The size of the circle indicates the number of reviews of the book.</p>
+
+    <p>Gets all the 43,343 greatest books from this <a href="https://www.goodreads.com/list/show/1.Best_Books_Ever">goodreads list</a> and visualize them in a zoomable bubble chart.</p>
+
+    <p>Source code: <a href="https://github.com/elneto/books">https://github.com/elneto/books</a></p>
+    </div>
+  </div>
+</body>
+</div>
+</html>

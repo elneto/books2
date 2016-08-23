@@ -1,0 +1,131 @@
+
+body{
+  font-family: "Merriweather", "Georgia", serif;
+  font-size: 14px;
+  background: 
+}
+
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
+    font-size: 0.8em;
+    font-family: "Merriweather", "Georgia", serif;
+}
+
+.layer {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#loader {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  z-index: 1;
+  width: 150px;
+  height: 150px;
+  margin: -75px 0 0 -75px;
+  border: 16px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 16px solid #444444;
+  width: 100px;
+  height: 100px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  /*display: none;*/
+}
+
+#welcome {
+  position: absolute;
+  left: 39%;
+  top: 50%;
+  z-index: 1;
+  color: white;
+  font-size: 1.3em;
+  /*display: none;*/
+  }
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.circle {
+  fill: steelblue;
+  stroke:gray;
+  fill-opacity:0.3;
+  /*stroke:white;*/
+  cursor: pointer;
+}
+
+.circle:hover {
+  fill: brown;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+#tooltip
+  {
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  border: 1px solid #aaa;
+  background-color:#fff;
+  /*opacity: 0.9;*/
+  padding: 0.5em;
+  width:23em;
+  }
+
+#tooltip > *{
+  float: left;
+}
+
+img#closett{
+  float: right;
+  cursor: pointer;
+}
+
+#tt-img{
+  margin-right: 0.5em;
+}
+
+#tt-text{
+  width: 16em;
+
+}
+
+#tt-title{
+  font-size: 120%;
+  font-weight: bold;
+}
+
+#tt-author, #tt-ratings, #tt-pages{
+  clear: left;
+}
+
+.col_text{
+  float: left;
+  margin-left: 2em;
+}
