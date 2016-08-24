@@ -28,7 +28,7 @@
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 800 - margin.left - margin.right,
-    height = 3100 - margin.top - margin.bottom;
+    height = 10000 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
     .range([0, width]);
@@ -127,7 +127,7 @@ d3.csv("output_corregido.csv", function(error, data) {
 
     // Copy-on-write since tweens are evaluated after a delay.
     var y0 = y.domain(data.sort(this.checked
-        ? function(a, b) { return b.pages - a.pages; }
+        ? function(a, b) { return a.pages - b.pages; }
         : function(a, b) { return d3.ascending(a.id, b.id); })
         .map(function(d) { return d.id; }))
         .copy();
@@ -135,8 +135,8 @@ d3.csv("output_corregido.csv", function(error, data) {
     svg.selectAll(".bar")
         .sort(function(a, b) { return y0(a.pages) - y0(b.pages); });
 
-    var transition = svg.transition().duration(250),
-        delay = function(d, i) { return i * 50; };
+    var transition = svg.transition().duration(20),
+        delay = function(d, i) { return i * 5; };
 
     transition.selectAll(".bar")
         .delay(delay)
