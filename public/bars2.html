@@ -22,7 +22,7 @@
           </div>
       </div>
       
-    <label><input type="checkbox"> Sort values</label>
+    <label><input type="checkbox"> Sort by number of pages</label>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
 
@@ -128,7 +128,7 @@ d3.csv("output_corregido.csv", function(error, data) {
     // Copy-on-write since tweens are evaluated after a delay.
     var y0 = y.domain(data.sort(this.checked
         ? function(a, b) { return a.pages - b.pages; }
-        : function(a, b) { return d3.ascending(a.id, b.id); })
+        : function(a, b) { return d3.ascending(parseFloat(a.id), parseFloat(b.id)); })
         .map(function(d) { return d.id; }))
         .copy();
 
