@@ -28,7 +28,7 @@
 
 var margin = {top: 20, right: 20, bottom: 30, left: 40},
     width = 800 - margin.left - margin.right,
-    height = 12000 - margin.top - margin.bottom;
+    height = 9000 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
     .range([0, width]);
@@ -52,7 +52,9 @@ var svg = d3.select("#theviz").append("svg")
 
 var tt = d3.select("#tooltip");
 
-d3.csv("output_corregido.csv", function(error, data) {
+//tgb_nfs
+d3.csv("onfs1.csv", function(error, data) {
+//d3.csv("output_corregido.csv", function(error, data) {
 
   data.forEach(function(d) {
     d.pages = +d.pages;
