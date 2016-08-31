@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Books Grid</title>
+<style>
+.square {
+  margin: 0 1px 1px 0;
+  /*fill: #eee;*/
+  fill:steelblue;
+}
+
+.square:hover {
+	fill:red;
+	}
+
+</style>
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<body>
+<div class="container">
+	<div id="theviz"></div>
+	<!-- A tool tip -->
+	<div id="tooltip"> 
+	  <img src="img/close.gif" id="closett">
+	  <img id="tt-img" src="" width=50> 
+	  <div id="tt-text">
+	    <div id="tt-title"></div>
+	    <div id="tt-author"></div><small><div id="tt-pages"></div></small>
+	    <div id="tt-ratings"></div>
+	    <a href="" id="tt-url" target="_blank">Read more</a><!-- &nbsp;|&nbsp; -->
+	    <!-- <a href="#" id="tt-red">Remove</a> -->
+	  </div>
+	</div>
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+var width = 960,
+    height = 500;
+
+var svg = d3.select("#theviz").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var x = d3.scale.linear()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var tt = d3.select("#tooltip");
+
+//d3.csv("onfs1.csv", function(error, data) {
+	d3.csv("output_corregido.csv", function(error, data) {
+
+	data.forEach(function(d) {
+    d.pages = +d.pages;
+    d.avg_rating = +d.avg_rating;
+  });
+
+	y.domain([0,5]);
+	x.domain([0,d3.max(data, function(d) { return d.pages; })]);
+
+	svg.selectAll(".square")
+      .data(data)
+    .enter().append("rect")
+    .attr("class", "square")
+      .attr("x", function(d) { return x(d.pages); })
+      .attr("width", 8)
+      .attr("y", function(d) { return y(d.avg_rating); })
+      .attr("height", 8)
+      .on("mouseover", function(d){ 
+          showTooltip(d, this, event.pageX, event.pageY);
+        });
+
+  d3.select("#closett").on("click",function(d){return tt.style("visibility", "hidden");});
+
+  function showTooltip(d, node, x, y){
+      if (d.img != "0")
+        d3.select("#tt-img").attr("src", d.img);
+      else
+        d3.select("#tt-img").attr("src", "img/nopic.png");
+      d3.select("#tt-title").text(d.title);
+      d3.select("#tt-author").text(d.author);
+      d3.select("#tt-pages").text(d.pages+" pages");
+      d3.select("#tt-ratings").text(d.avg_rating + " from " +addCommas(d.ratings)+ " reviews");
+      d3.select("#tt-url").attr("href", "https://www.goodreads.com/"+d.url);
+      tt.style("top", y+"px").style("left", x+"px");
+      tt.style("visibility", "visible");
+      return 0;
+    }
+
+  function addCommas(nStr)
+    {
+      nStr += '';
+      var x = nStr.split('.');
+      var x1 = x[0];
+      var x2 = x.length > 1 ? '.' + x[1] : '';
+      var rgx = /(\d+)(\d{3})/;
+      while (rgx.test(x1)) {
+        x1 = x1.replace(rgx, '$1' + ',' + '$2');
+      }
+      return x1 + x2;
+    }
+
+});
+
+
+</script>
+  </div> <!-- container -->
+  </body>
+</html>
