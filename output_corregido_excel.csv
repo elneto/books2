@@ -3,7 +3,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 2,Ulysses,James Joyce,3.73,"77,655",/book/show/338798.Ulysses,https://d2arxad8u2l0g7.cloudfront.net/books/1428891345l/338798.jpg,810,1922
 3,Don Quixote,Miguel de Cervantes Saavedra,3.84,"145,346",/book/show/3836.Don_Quixote,https://d2arxad8u2l0g7.cloudfront.net/books/1364958765l/3836.jpg,982,1605
 4,"Moby-Dick; or, The Whale",Herman Melville,3.44,"368,906",/book/show/153747.Moby_Dick_or_The_Whale,https://d2arxad8u2l0g7.cloudfront.net/books/1327940656l/153747.jpg,663,1851
-5,Hamlet,William Shakespeare,4.00,"525,354",/book/show/1420.Hamlet,https://d2arxad8u2l0g7.cloudfront.net/books/1351051208l/1420.jpg,289,1601
+5,Hamlet,William Shakespeare,really liked it 4.00,"525,354",/book/show/1420.Hamlet,https://d2arxad8u2l0g7.cloudfront.net/books/1351051208l/1420.jpg,289,1601
 6,War and Peace,Leo Tolstoy,4.10,"162,124",/book/show/656.War_and_Peace,https://d2arxad8u2l0g7.cloudfront.net/books/1413215930l/656.jpg,1392,1869
 7,The Odyssey,Homer,3.71,"664,583",/book/show/1381.The_Odyssey,https://d.gr-assets.com/books/1390173285l/1381.jpg,560,-700
 8,The Great Gatsby,F. Scott Fitzgerald,3.87,"2,511,820",/book/show/4671.The_Great_Gatsby,https://d2arxad8u2l0g7.cloudfront.net/books/1438728255l/4671.jpg,180,1925
@@ -21,7 +21,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 20,Pride and Prejudice,Jane Austen,4.24,"1,937,847",/book/show/1885.Pride_and_Prejudice,https://d.gr-assets.com/books/1320399351l/1885.jpg,279,1813
 21,The Catcher in the Rye,J.D. Salinger,3.78,"1,911,483",/book/show/5107.The_Catcher_in_the_Rye,https://d2arxad8u2l0g7.cloudfront.net/books/1398034300l/5107.jpg,277,1945
 22,Wuthering Heights,Emily Brontë,3.81,"877,406",/book/show/6185.Wuthering_Heights,https://d.gr-assets.com/books/1388212715l/6185.jpg,464,1847
-23,Nineteen Eighty-Four: The Facsimile of the Extant Manuscript,George Orwell,4.00,34,/book/show/1738633.Nineteen_Eighty_Four,https://d2arxad8u2l0g7.cloudfront.net/books/1372523291l/1738633.jpg,381,1949
+23,Nineteen Eighty-Four: The Facsimile of the Extant Manuscript,George Orwell,really liked it 4.00,34,/book/show/1738633.Nineteen_Eighty_Four,https://d2arxad8u2l0g7.cloudfront.net/books/1372523291l/1738633.jpg,381,1949
 24,Heart of Darkness,Joseph Conrad,3.40,"272,639",/book/show/4900.Heart_of_Darkness,https://d2arxad8u2l0g7.cloudfront.net/books/1392799983l/4900.jpg,200,1899
 25,To the Lighthouse,Virginia Woolf,3.76,"85,767",/book/show/59716.To_the_Lighthouse,https://d.gr-assets.com/books/1346239665l/59716.jpg,209,1927
 26,"Absalom, Absalom!",William Faulkner,3.95,"29,991",/book/show/373755.Absalom_Absalom_,https://d2arxad8u2l0g7.cloudfront.net/books/1388474680l/373755.jpg,320,1936
@@ -75,7 +75,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 74,Vanity Fair,William Makepeace Thackeray,3.75,"90,270",/book/show/5797.Vanity_Fair,https://d.gr-assets.com/books/1344386439l/5797.jpg,867,1847
 75,The Complete Stories,Flannery O'Connor,4.45,"27,352",/book/show/284996.The_Complete_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1411025330l/284996.jpg,576,1971
 76,Under the Volcano,Malcolm Lowry,3.80,"16,574",/book/show/31072.Under_the_Volcano,https://d2arxad8u2l0g7.cloudfront.net/books/1390014193l/31072.jpg,397,1947
-77,"Gargantua and Pantagruel, Illustrated, Book 1","Motteux, Peter Anthony",5.00,,/book/show/12567557-gargantua-and-pantagruel-illustrated-book-1,,0,1532
+77,"Gargantua and Pantagruel, Illustrated, Book 1","Motteux, Peter Anthony",it was amazing 5.00,,/book/show/12567557-gargantua-and-pantagruel-illustrated-book-1,,0,1532
 78,"The History of Tom Jones, a Foundling",Henry Fielding,3.73,"24,091",/book/show/99329.The_History_of_Tom_Jones_a_Foundling,https://d2arxad8u2l0g7.cloudfront.net/books/1444450775l/99329.jpg,1024,1749
 79,White Knight: A Modern Fairy Tale [Short Story],Alison Archer,2.38,13,/book/show/15745830-white-knight,,18,1843
 80,"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,3.59,"190,820",/book/show/37781.Things_Fall_Apart,https://d2arxad8u2l0g7.cloudfront.net/books/1352082529l/37781.jpg,209,1958
@@ -92,7 +92,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 91,Father Goriot and M. Gobseck,Honoré de Balzac,3.81,43,/book/show/10106159-father-goriot-and-m-gobseck,https://d2arxad8u2l0g7.cloudfront.net/books/1347729077l/10106159.jpg,416,1835
 92,Stories Of Ernest Hemingway,Ernest Hemingway,4.33,40,/book/show/988563.Stories_Of_Ernest_Hemingway,,,1987
 93,Robinson Crusoe,Daniel Defoe,3.65,"179,759",/book/show/2932.Robinson_Crusoe,https://d2arxad8u2l0g7.cloudfront.net/books/1403180114l/2932.jpg,320,1719
-94,"The Collected Works of W.B. Yeats, Vol. 1: The Poems, 2nd Edition",Richard J. Finneran,4.00,,/book/show/20425605-the-collected-works-of-w-b-yeats-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1388757504l/20425605.jpg,784,1933
+94,"The Collected Works of W.B. Yeats, Vol. 1: The Poems, 2nd Edition",Richard J. Finneran,really liked it 4.00,,/book/show/20425605-the-collected-works-of-w-b-yeats-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1388757504l/20425605.jpg,784,1933
 95,The Charterhouse of Parma,Stendhal,3.83,"9,673",/book/show/14680.The_Charterhouse_of_Parma,https://d2arxad8u2l0g7.cloudfront.net/books/1390088245l/14680.jpg,532,1839
 96,The Tale of Genji,Murasaki Shikibu,3.70,"7,139",/book/show/7042.The_Tale_of_Genji,https://d2arxad8u2l0g7.cloudfront.net/books/1401241319l/7042.jpg,1182,1000
 97,"Oedipus at Colonus (The Theban Plays, #2)",Sophocles,3.75,"5,946",/book/show/148313.Oedipus_at_Colonus,https://d2arxad8u2l0g7.cloudfront.net/books/1348287560l/148313.jpg,144,-401
@@ -119,7 +119,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 118,Some Pig!: A Charlotte's Web Picture Book,E.B. White,3.69,105,/book/show/24184.Some_Pig_,https://d2arxad8u2l0g7.cloudfront.net/books/1435507190l/24184.jpg,32,1952
 119,Native Son,Richard Wright,3.94,"64,874",/book/show/15622.Native_Son,https://d2arxad8u2l0g7.cloudfront.net/books/1440820866l/15622.jpg,520,1940
 120,Buddenbrooks: The Decline of a Family,Thomas Mann,4.13,"12,657",/book/show/80890.Buddenbrooks,https://d2arxad8u2l0g7.cloudfront.net/books/1337128414l/80890.jpg,731,1901
-121,My Sons and Lovers,Esmeralda Greene,1.00,,/book/show/12320329-my-sons-and-lovers,https://d2arxad8u2l0g7.cloudfront.net/books/1350961792l/12320329.jpg,0,1913
+121,My Sons and Lovers,Esmeralda Greene,did not like it 1.00,,/book/show/12320329-my-sons-and-lovers,https://d2arxad8u2l0g7.cloudfront.net/books/1350961792l/12320329.jpg,0,1913
 122,"Rabbit, Run (Rabbit Angstrom, #1)",John Updike,3.57,"38,743",/book/show/85386.Rabbit_Run,https://d2arxad8u2l0g7.cloudfront.net/books/1333578676l/85386.jpg,325,1960
 123,The Little Prince,Antoine de Saint-Exupéry,4.27,"702,277",/book/show/157993.The_Little_Prince,https://d2arxad8u2l0g7.cloudfront.net/books/1367545443l/157993.jpg,83,1943
 124,Slaughterhouse-Five,Kurt Vonnegut,4.04,"807,294",/book/show/4981.Slaughterhouse_Five,https://d2arxad8u2l0g7.cloudfront.net/books/1440319389l/4981.jpg,215,1969
@@ -186,7 +186,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 184,Finnegans Wake,James Joyce,3.66,"9,511",/book/show/11013.Finnegans_Wake,https://d.gr-assets.com/books/1336408055l/11013.jpg,628,1939
 185,Further Confessions of Zeno,Italo Svevo,4.12,33,/book/show/673207.Further_Confessions_of_Zeno,https://d2arxad8u2l0g7.cloudfront.net/books/1211936242l/673207.jpg,0,1923
 186,The Way Things Are: The De Rerum Natura,Titus Lucretius Carus,3.96,"7,805",/book/show/195769.The_Way_Things_Are,https://d2arxad8u2l0g7.cloudfront.net/books/1383167169l/195769.jpg,256,-55
-187,"British Novels Adapted Into Films (Book Guide): A Clockwork Orange, Harry Potter and the Philosopher's Stone, the Return of the King",Source Wikipedia,3.00,,/book/show/12960438-british-novels-adapted-into-films-book-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1348734830l/12960438.jpg,178,1997
+187,"British Novels Adapted Into Films (Book Guide): A Clockwork Orange, Harry Potter and the Philosopher's Stone, the Return of the King",Source Wikipedia,liked it 3.00,,/book/show/12960438-british-novels-adapted-into-films-book-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1348734830l/12960438.jpg,178,1997
 188,Molloy,Samuel Beckett,4.10,"3,646",/book/show/446542.Molloy,https://d2arxad8u2l0g7.cloudfront.net/books/1426904873l/446542.jpg,241,1951
 189,The Handmaid's Tale,Margaret Atwood,4.01,"498,814",/book/show/38447.The_Handmaid_s_Tale,https://d2arxad8u2l0g7.cloudfront.net/books/1294702760l/38447.jpg,311,1985
 190,"Rabbit at Rest (Rabbit Angstrom, #4)",John Updike,3.95,"12,028",/book/show/11666.Rabbit_at_Rest,https://d.gr-assets.com/books/1320394471l/11666.jpg,608,1990
@@ -243,7 +243,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 240,Don Juan,Molière,3.67,"6,144",/book/show/52828.Don_Juan,https://d2arxad8u2l0g7.cloudfront.net/books/1402440627l/52828.jpg,146,1821
 241,The Would-Be Gentleman,Molière,3.17,6,/book/show/22976389-the-would-be-gentleman,https://d2arxad8u2l0g7.cloudfront.net/books/1449326463l/22976389.jpg,140,1670
 242,The Would-Be Invalid,Molière,3.73,"5,365",/book/show/7291054-the-would-be-invalid,https://d2arxad8u2l0g7.cloudfront.net/books/1347416877l/7291054.jpg,96,1673
-243,The School for Wives,Molière,5.00,,/book/show/30829889-the-school-for-wives,https://d2arxad8u2l0g7.cloudfront.net/books/1467465840l/30829889.jpg,77,1662
+243,The School for Wives,Molière,it was amazing 5.00,,/book/show/30829889-the-school-for-wives,https://d2arxad8u2l0g7.cloudfront.net/books/1467465840l/30829889.jpg,77,1662
 244,The Miser and Other Plays,Molière,3.77,82,/book/show/1717529.The_Miser_and_Other_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1187329076l/1717529.jpg,288,1668
 245,The Adventures of Oliver Twist. Abridged,Charles Dickens,0.00,0,/book/show/29815880-the-adventures-of-oliver-twist-abridged,,146,1837
 246,Song of Solomon,Toni Morrison,3.98,"56,763",/book/show/11334.Song_of_Solomon,https://d2arxad8u2l0g7.cloudfront.net/books/1451448230l/11334.jpg,337,1977
@@ -292,7 +292,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 289,Collected Poems of T.S. Eliot,T.S. Eliot,4.32,177,/book/show/20520995-collected-poems-of-t-s-eliot,https://d2arxad8u2l0g7.cloudfront.net/books/1389564178l/20520995.jpg,,1936
 290,A Room with a View,E.M. Forster,3.91,"114,845",/book/show/3087.A_Room_with_a_View,https://d.gr-assets.com/books/1388781285l/3087.jpg,240,1908
 291,River Bend The Series (River Bend #1-3),Molly McLain,4.62,37,/book/show/25691414-river-bend-the-series,https://d2arxad8u2l0g7.cloudfront.net/books/1433816777l/25691414.jpg,789,1979
-292,"If I Forget Thee, Jerusalem",William Faulkner,4.00,2,/book/show/29988845-if-i-forget-thee-jerusalem,https://d2arxad8u2l0g7.cloudfront.net/books/1461506827l/29988845.jpg,229,1939
+292,"If I Forget Thee, Jerusalem",William Faulkner,really liked it 4.00,2,/book/show/29988845-if-i-forget-thee-jerusalem,https://d2arxad8u2l0g7.cloudfront.net/books/1461506827l/29988845.jpg,229,1939
 293,#2666 LACE KNIT BLOUSE VINTAGE KNITTING PATTERN,Princess of Patterns,0.00,0,/book/show/18921378-2666-lace-knit-blouse-vintage-knitting-pattern,https://d2arxad8u2l0g7.cloudfront.net/books/1385263393l/18921378.jpg,5,2004
 294,Lorca/Blackburn: Poems of Federico García  Lorca,Federico García Lorca,3.77,13,/book/show/595310.Lorca_Blackburn,https://d2arxad8u2l0g7.cloudfront.net/books/1404315923l/595310.jpg,95,1941
 295,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",Madeleine L'Engle,4.04,"578,572",/book/show/18131.A_Wrinkle_in_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1329061522l/18131.jpg,211,1962
@@ -372,16 +372,16 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 369,Tristan: With the Tristran of Thomas,Gottfried von Straßburg,3.83,1261,/book/show/186677.Tristan,https://d2arxad8u2l0g7.cloudfront.net/books/1172535425l/186677.jpg,384,1210
 370,Hopscotch,Julio Cortázar,4.26,"17,848",/book/show/53413.Hopscotch,https://d2arxad8u2l0g7.cloudfront.net/books/1367728486l/53413.jpg,564,1963
 371,The Three Sisters,Anton Chekhov,3.77,"11,098",/book/show/143513.The_Three_Sisters,https://d2arxad8u2l0g7.cloudfront.net/books/1416873197l/143513.jpg,81,1901
-372,A Christmas Carol,Charles Dickens,4.00,"386,174",/book/show/5326.A_Christmas_Carol,https://d.gr-assets.com/books/1406512317l/5326.jpg,104,1843
+372,A Christmas Carol,Charles Dickens,really liked it 4.00,"386,174",/book/show/5326.A_Christmas_Carol,https://d.gr-assets.com/books/1406512317l/5326.jpg,104,1843
 373,Hippolytus,Euripides,3.80,"2,939",/book/show/675506.Hippolytus,https://d2arxad8u2l0g7.cloudfront.net/books/1348112002l/675506.jpg,108,-428
 374,"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,4.29,"57,944",/book/show/682804.The_Killer_Angels,https://d2arxad8u2l0g7.cloudfront.net/books/1355371689l/682804.jpg,345,1974
 375,"Films Directed by Kon Ichikawa: Fires on the Plain, Tokyo Olympiad, the Burmese Harp, the Makioka Sisters, Enjo, the Hole, an Actor's Revenge",Books LLC,0.00,0,/book/show/8292895-films-directed-by-kon-ichikawa,https://d2arxad8u2l0g7.cloudfront.net/books/1348895596l/8292895.jpg,58,1948
 376,The Way We Live Now,Anthony Trollope,4.04,"8,494",/book/show/149785.The_Way_We_Live_Now,https://d2arxad8u2l0g7.cloudfront.net/books/1453026230l/149785.jpg,776,1875
 377,Jesus' Son,Denis Johnson,4.16,"20,180",/book/show/608287.Jesus_Son,https://d2arxad8u2l0g7.cloudfront.net/books/1387705452l/608287.jpg,160,1999
-378,The War of the Worlds,Noel Pearson,4.00,23,/book/show/25661053-the-war-of-the-worlds,https://d2arxad8u2l0g7.cloudfront.net/books/1433400132l/25661053.jpg,64,1898
+378,The War of the Worlds,Noel Pearson,really liked it 4.00,23,/book/show/25661053-the-war-of-the-worlds,https://d2arxad8u2l0g7.cloudfront.net/books/1433400132l/25661053.jpg,64,1898
 379,Atlas Shrugged,Ayn Rand,3.67,"271,864",/book/show/662.Atlas_Shrugged,https://d2arxad8u2l0g7.cloudfront.net/books/1405868167l/662.jpg,1168,1957
 380,The Bell Jar,Sylvia Plath,3.97,"407,522",/book/show/6514.The_Bell_Jar,https://d2arxad8u2l0g7.cloudfront.net/books/1218387348l/6514.jpg,266,1963
-381,The Complete Poetry and Selected Prose of John Donne and The Complete Poetry of William Blake,John Donne,4.00,,/book/show/31078379-the-complete-poetry-and-selected-prose-of-john-donne-and-the-complete-po,,1045,1631
+381,The Complete Poetry and Selected Prose of John Donne and The Complete Poetry of William Blake,John Donne,really liked it 4.00,,/book/show/31078379-the-complete-poetry-and-selected-prose-of-john-donne-and-the-complete-po,,1045,1631
 382,"Neuromancer (Sprawl, #1)",William Gibson,3.86,"184,652",/book/show/22328.Neuromancer,https://d2arxad8u2l0g7.cloudfront.net/books/1167348726l/22328.jpg,271,1984
 383,Go Tell It on the Mountain,James Baldwin,3.98,"26,844",/book/show/17143.Go_Tell_It_on_the_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1348424233l/17143.jpg,256,1953
 384,The Phantom Tollbooth,Norton Juster,4.22,"169,570",/book/show/378.The_Phantom_Tollbooth,https://d2arxad8u2l0g7.cloudfront.net/books/1438887022l/378.jpg,256,
@@ -395,7 +395,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 392,Housekeeping,Marilynne Robinson,3.82,"27,093",/book/show/11741.Housekeeping,https://d2arxad8u2l0g7.cloudfront.net/books/1327882949l/11741.jpg,219,1980
 393,Fifty Fables of La Fontaine,Jean de La Fontaine,4.07,27,/book/show/413363.Fifty_Fables_of_La_Fontaine,https://d2arxad8u2l0g7.cloudfront.net/books/1348543687l/413363.jpg,192,1694
 394,Omeros,Derek Walcott,3.95,"1,474",/book/show/786699.Omeros,https://d2arxad8u2l0g7.cloudfront.net/books/1316635362l/786699.jpg,325,1990
-395,The Death of Ivan Ilyich and Confession,Leo Tolstoy,4.00,419,/book/show/17575112-the-death-of-ivan-ilyich-and-confession,https://d2arxad8u2l0g7.cloudfront.net/books/1395612278l/17575112.jpg,224,1886
+395,The Death of Ivan Ilyich and Confession,Leo Tolstoy,really liked it 4.00,419,/book/show/17575112-the-death-of-ivan-ilyich-and-confession,https://d2arxad8u2l0g7.cloudfront.net/books/1395612278l/17575112.jpg,224,1886
 396,The Overcoat and Other Short Stories,Nikolai Gogol,4.22,"7,824",/book/show/19104.The_Overcoat_and_Other_Short_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1390417010l/19104.jpg,103,1918
 397,The Master Builder,Henrik Ibsen,3.77,"2,293",/book/show/223634.The_Master_Builder,https://d2arxad8u2l0g7.cloudfront.net/books/1455764775l/223634.jpg,80,1892
 398,Saint Joan,George Bernard Shaw,3.77,"5,220",/book/show/12274.Saint_Joan,https://d.gr-assets.com/books/1358725811l/12274.jpg,160,1923
@@ -484,7 +484,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 481,Bostan,Sheikh Saadi,0.00,0,/book/show/30316891-bostan,https://d2arxad8u2l0g7.cloudfront.net/books/1464582431l/30316891.jpg,224,1257
 482,Poems by Walt Whitman,Walt Whitman,4.21,812,/book/show/13597099-poems-by-walt-whitman,https://d2arxad8u2l0g7.cloudfront.net/books/1385408374l/13597099.jpg,304,1892
 483,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,4.14,"141,118",/book/show/16304.Murder_on_the_Orient_Express,https://d2arxad8u2l0g7.cloudfront.net/books/1388267702l/16304.jpg,322,1934
-484,Season of Migration to the North by Tayeb Salih | Summary & Study Guide,BookRags,3.00,5,/book/show/9992735-season-of-migration-to-the-north-by-tayeb-salih-summary-study-guide,,34,1966
+484,Season of Migration to the North by Tayeb Salih | Summary & Study Guide,BookRags,liked it 3.00,5,/book/show/9992735-season-of-migration-to-the-north-by-tayeb-salih-summary-study-guide,,34,1966
 485,Twice-Told Tales,Nathaniel Hawthorne,3.91,"2,187",/book/show/47061.Twice_Told_Tales,https://d2arxad8u2l0g7.cloudfront.net/books/1403189952l/47061.jpg,432,1837
 486,Robert Browning's Poetry,Robert Browning,3.97,"4,055",/book/show/271713.Robert_Browning_s_Poetry,https://d2arxad8u2l0g7.cloudfront.net/books/1386922329l/271713.jpg,689,1889
 487,The Sound of the Mountain,Yasunari Kawabata,3.93,"3,193",/book/show/59950.The_Sound_of_the_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1388447588l/59950.jpg,276,1970
@@ -494,20 +494,20 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 491,The Turn of the Screw,Henry James,3.46,"57,849",/book/show/12948.The_Turn_of_the_Screw,https://d2arxad8u2l0g7.cloudfront.net/books/1443203592l/12948.jpg,121,1898
 492,Friedrich Holderlin Eduard Morike - Selected Poems,Friedrich Hölderlin,4.20,5,/book/show/1753168.Friedrich_Holderlin_Eduard_Morike_Selected_Poems,,318,1843
 493,The Known World,Edward P. Jones,3.81,"27,485",/book/show/67.The_Known_World,https://d2arxad8u2l0g7.cloudfront.net/books/1388251511l/67.jpg,432,2003
-494,A Quoi Rêvent Les Jeunes Filles: Suivi De La Nuit Vénitienne Et De Les Marrons Du Feu,Alfred de Musset,3.00,2,/book/show/9657343-a-quoi-r-vent-les-jeunes-filles,,125,1854
+494,A Quoi Rêvent Les Jeunes Filles: Suivi De La Nuit Vénitienne Et De Les Marrons Du Feu,Alfred de Musset,liked it 3.00,2,/book/show/9657343-a-quoi-r-vent-les-jeunes-filles,,125,1854
 495,Sophie's Choice,William Styron,4.18,"66,663",/book/show/228560.Sophie_s_Choice,https://d2arxad8u2l0g7.cloudfront.net/books/1356714742l/228560.jpg,562,1979
 496,The Last Chronicle of Barset (Chronicles of Barsetshire #6),Anthony Trollope,4.14,"3,656",/book/show/149789.The_Last_Chronicle_of_Barset,https://d2arxad8u2l0g7.cloudfront.net/books/1399393214l/149789.jpg,890,1867
-497,The Once and Future King: Camelot,T. H. White,4.00,9,/book/show/28650892-the-once-and-future-king,https://d2arxad8u2l0g7.cloudfront.net/books/1453343583l/28650892.jpg,,1958
+497,The Once and Future King: Camelot,T. H. White,really liked it 4.00,9,/book/show/28650892-the-once-and-future-king,https://d2arxad8u2l0g7.cloudfront.net/books/1453343583l/28650892.jpg,,1958
 498,Otherwise: Last and First Poems of Eugenio Montale,Eugenio Montale,3.60,5,/book/show/464933.Otherwise,https://d2arxad8u2l0g7.cloudfront.net/books/1458546187l/464933.jpg,159,1975
 499,The Sheltering Sky,Paul Bowles,3.92,"18,112",/book/show/243598.The_Sheltering_Sky,https://d2arxad8u2l0g7.cloudfront.net/books/1347986956l/243598.jpg,342,1949
 500,Dom Casmurro,Machado de Assis,4.22,"10,396",/book/show/82888.Dom_Casmurro,https://d2arxad8u2l0g7.cloudfront.net/books/1348286455l/82888.jpg,176,1899
 501,The Day of the Locust,Nathanael West,3.79,"15,439",/book/show/113441.The_Day_of_the_Locust,https://d2arxad8u2l0g7.cloudfront.net/books/1387706380l/113441.jpg,208,1939
 502,"Novels by Junichiro Tanizaki: Naomi, Some Prefer Nettles, the Makioka Sisters, Quicksand, the Key",Books LLC,3.85,26,/book/show/8840814-novels-by-junichiro-tanizaki,https://d2arxad8u2l0g7.cloudfront.net/books/1349049504l/8840814.jpg,28,1929
-503,The Complete Writings of Alfred de Musset,Alfred de Musset,4.00,3,/book/show/14370287-the-complete-writings-of-alfred-de-musset,https://d2arxad8u2l0g7.cloudfront.net/books/1349057339l/14370287.jpg,368,1857
+503,The Complete Writings of Alfred de Musset,Alfred de Musset,really liked it 4.00,3,/book/show/14370287-the-complete-writings-of-alfred-de-musset,https://d2arxad8u2l0g7.cloudfront.net/books/1349057339l/14370287.jpg,368,1857
 504,Daphnis and Chloe,Longus,3.74,"1,578",/book/show/1016881.Daphnis_and_Chloe,https://d2arxad8u2l0g7.cloudfront.net/books/1387740579l/1016881.jpg,128,200
 505,Snowy Tower: Parzival and the Wet Black Branch of Language,Martin Shaw,4.71,17,/book/show/18114496-snowy-tower,https://d2arxad8u2l0g7.cloudfront.net/books/1378802317l/18114496.jpg,272,1200
 506,The Complete Poetry and Essential Prose of John Milton,John Milton,4.42,52,/book/show/13531366-the-complete-poetry-and-essential-prose-of-john-milton,https://d2arxad8u2l0g7.cloudfront.net/books/1378708443l/13531366.jpg,1408,1674
-507,The Collected Works of Samuel Taylor Coleridge: Vol. 16. Poetical Works: Part 3. Plays.,Samuel Taylor Coleridge,4.00,2,/book/show/1522454.The_Collected_Works_of_Samuel_Taylor_Coleridge,https://d2arxad8u2l0g7.cloudfront.net/books/1348929609l/1522454.jpg,1680,1834
+507,The Collected Works of Samuel Taylor Coleridge: Vol. 16. Poetical Works: Part 3. Plays.,Samuel Taylor Coleridge,really liked it 4.00,2,/book/show/1522454.The_Collected_Works_of_Samuel_Taylor_Coleridge,https://d2arxad8u2l0g7.cloudfront.net/books/1348929609l/1522454.jpg,1680,1834
 508,The House of the Seven Gables,Nathaniel Hawthorne,3.44,"26,247",/book/show/90192.The_House_of_the_Seven_Gables,https://d2arxad8u2l0g7.cloudfront.net/books/1348244293l/90192.jpg,225,1851
 509,Das Nibelungenlied,Jan-Dirk Müller,4.50,6,/book/show/6610173-das-nibelungenlied,,199,1200
 510,"A Dance to the Music of Time: 1st Movement (A Dance to the Music of Time, #1-3)",Anthony Powell,3.94,"3,222",/book/show/16113.A_Dance_to_the_Music_of_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1388441393l/16113.jpg,718,1951
@@ -516,7 +516,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 513,A Death in the Family,James Agee,3.92,"10,785",/book/show/113091.A_Death_in_the_Family,https://d2arxad8u2l0g7.cloudfront.net/books/1327885315l/113091.jpg,320,1957
 514,The Wings of the Dove,Henry James,3.80,"12,620",/book/show/124272.The_Wings_of_the_Dove,https://d2arxad8u2l0g7.cloudfront.net/books/1320514843l/124272.jpg,741,1902
 515,Disgrace,Barbara Hulanicki,3.33,3,/book/show/11966026-disgrace,https://d2arxad8u2l0g7.cloudfront.net/books/1309976749l/11966026.jpg,279,1999
-516,A Study Guide to Isaac Bashevis Singer's Gimpel the Fool,The Gale Group,5.00,,/book/show/31170822-a-study-guide-to-isaac-bashevis-singer-s-gimpel-the-fool,https://d2arxad8u2l0g7.cloudfront.net/books/1468921702l/31170822.jpg,20,1957
+516,A Study Guide to Isaac Bashevis Singer's Gimpel the Fool,The Gale Group,it was amazing 5.00,,/book/show/31170822-a-study-guide-to-isaac-bashevis-singer-s-gimpel-the-fool,https://d2arxad8u2l0g7.cloudfront.net/books/1468921702l/31170822.jpg,20,1957
 517,"Gilead (Gilead, #1)",Marilynne Robinson,3.83,"51,771",/book/show/68210.Gilead,https://d2arxad8u2l0g7.cloudfront.net/books/1451555787l/68210.jpg,247,2004
 518,The Joy Luck Club,Amy Tan,3.89,"501,175",/book/show/7763.The_Joy_Luck_Club,https://d2arxad8u2l0g7.cloudfront.net/books/1304978653l/7763.jpg,288,1989
 519,A Separate Peace,John Knowles,3.56,"153,575",/book/show/5148.A_Separate_Peace,https://d2arxad8u2l0g7.cloudfront.net/books/1439235282l/5148.jpg,204,1959
@@ -538,7 +538,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 535,Love Medicine,Louise Erdrich,3.97,"15,596",/book/show/91440.Love_Medicine,https://d2arxad8u2l0g7.cloudfront.net/books/1442951349l/91440.jpg,367,1984
 536,Betrayed by Rita Hayworth,Manuel Puig,3.67,452,/book/show/71761.Betrayed_by_Rita_Hayworth,https://d2arxad8u2l0g7.cloudfront.net/books/1255448514l/71761.jpg,,1968
 537,The Hobbit An Unexpected Journey: Untold tale of The Hobbit,J.J. Tolken,4.63,131,/book/show/24213848-the-hobbit-an-unexpected-journey,https://d2arxad8u2l0g7.cloudfront.net/books/1419984557l/24213848.jpg,,1937
-538,Emigrants,Hector Bolitho,5.00,,/book/show/3692361-emigrants,,223,1992
+538,Emigrants,Hector Bolitho,it was amazing 5.00,,/book/show/3692361-emigrants,,223,1992
 539,Daniel Deronda,George Eliot,3.81,"17,443",/book/show/304.Daniel_Deronda,https://d2arxad8u2l0g7.cloudfront.net/books/1320432000l/304.jpg,796,1876
 540,Paradise Lost (Longman Annotated English Poets),John Milton,3.79,"97,665",/book/show/284235.Paradise_Lost,https://d2arxad8u2l0g7.cloudfront.net/books/1375669868l/284235.jpg,716,1929
 541,Andersonville,MacKinlay Kantor,4.10,"5,861",/book/show/77239.Andersonville,https://d2arxad8u2l0g7.cloudfront.net/books/1424334448l/77239.jpg,766,1955
@@ -561,7 +561,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 558,4 poemas de Pablo Neruda y un amanecer en la isla/ 4 Poems of Pablo Neruda and a Dawn in the Island,Pablo Neruda,0.00,0,/book/show/1430969.4_poemas_de_Pablo_Neruda_y_un_amanecer_en_la_isla_4_Poems_of_Pablo_Neruda_and_a_Dawn_in_the_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1266800505l/1430969.jpg,36,1975
 559,The Burning Plain and Other Stories,Juan Rulfo,4.15,"7,771",/book/show/38788.The_Burning_Plain_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1388949726l/38788.jpg,191,1953
 560,"Los lanzallamas (Los siete locos, #2)",Roberto Arlt,4.08,382,/book/show/214702.Los_lanzallamas,https://d2arxad8u2l0g7.cloudfront.net/books/1332200775l/214702.jpg,280,1931
-561,Calligrammes,Guillaume Apollinaire,4.00,5,/book/show/30404977-calligrammes,https://d2arxad8u2l0g7.cloudfront.net/books/1465605512l/30404977.jpg,96,1918
+561,Calligrammes,Guillaume Apollinaire,really liked it 4.00,5,/book/show/30404977-calligrammes,https://d2arxad8u2l0g7.cloudfront.net/books/1465605512l/30404977.jpg,96,1918
 562,Juan de Mairena,Antonio Machado,4.21,75,/book/show/7253106-juan-de-mairena,https://d2arxad8u2l0g7.cloudfront.net/books/1259908371l/7253106.jpg,340,1936
 563,La Regenta,"Leopoldo Alas ""Clarín""",3.97,"1,891",/book/show/69413.La_Regenta,https://d2arxad8u2l0g7.cloudfront.net/books/1405436155l/69413.jpg,1024,1884
 564,,,,,,,,1982
@@ -571,7 +571,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 568,Ventilation in Shipyard Employment,U.S. Department of Labor,0.00,0,/book/show/21447689-ventilation-in-shipyard-employment,https://d2arxad8u2l0g7.cloudfront.net/books/1396834080l/21447689.jpg,26,1961
 569,Residence on Earth,Pablo Neruda,4.40,"2,947",/book/show/214888.Residence_on_Earth,https://d2arxad8u2l0g7.cloudfront.net/books/1385248113l/214888.jpg,359,1933
 570,Trilce,César Vallejo,4.28,518,/book/show/167425.Trilce,https://d2arxad8u2l0g7.cloudfront.net/books/1347776177l/167425.jpg,256,1922
-571,Three Trapped Tigers,Guillermo Cabrera Infante,4.00,"1,016",/book/show/223455.Three_Trapped_Tigers,https://d2arxad8u2l0g7.cloudfront.net/books/1403209034l/223455.jpg,487,1967
+571,Three Trapped Tigers,Guillermo Cabrera Infante,really liked it 4.00,"1,016",/book/show/223455.Three_Trapped_Tigers,https://d2arxad8u2l0g7.cloudfront.net/books/1403209034l/223455.jpg,487,1967
 572,In Chancery (The Forsyte Saga),John Galsworthy,4.26,727,/book/show/6383607-in-chancery,https://d2arxad8u2l0g7.cloudfront.net/books/1394341794l/6383607.jpg,320,1920
 573,"Indian Summer of a Forsyte (The Forsyte Chronicles, #1.5)",John Galsworthy,4.32,384,/book/show/87715.Indian_Summer_of_a_Forsyte,https://d2arxad8u2l0g7.cloudfront.net/books/1171110438l/87715.jpg,336,1918
 574,Death on the Installment Plan,Louis-Ferdinand Céline,4.23,"4,807",/book/show/106096.Death_on_the_Installment_Plan,https://d2arxad8u2l0g7.cloudfront.net/books/1327947390l/106096.jpg,592,1936
@@ -632,7 +632,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 629,Sophie's World,Jostein Gaarder,3.86,"129,971",/book/show/10959.Sophie_s_World,https://d2arxad8u2l0g7.cloudfront.net/books/1343459906l/10959.jpg,403,1991
 630,Forbidden Colours,Yukio Mishima,3.50,2,/book/show/28105028-forbidden-colours,https://d2arxad8u2l0g7.cloudfront.net/books/1449333826l/28105028.jpg,432,1951
 631,Balzac and the Little Chinese Seamstress,Dai Sijie,3.61,"39,586",/book/show/533465.Balzac_and_the_Little_Chinese_Seamstress,https://d2arxad8u2l0g7.cloudfront.net/books/1403188885l/533465.jpg,184,2000
-632,Four Quartets Rehearsed,Raymond Preston,3.00,,/book/show/4367925-four-quartets-rehearsed,,,1943
+632,Four Quartets Rehearsed,Raymond Preston,liked it 3.00,,/book/show/4367925-four-quartets-rehearsed,,,1943
 633,The Fortress of Solitude,Jonathan Lethem,3.87,"16,866",/book/show/9799.The_Fortress_of_Solitude,https://d2arxad8u2l0g7.cloudfront.net/books/1418677318l/9799.jpg,528,2003
 634,A House for Mr Biswas,V.S. Naipaul,3.81,"13,335",/book/show/5849.A_House_for_Mr_Biswas,https://d2arxad8u2l0g7.cloudfront.net/books/1348648012l/5849.jpg,623,1961
 635,What We Talk About When We Talk About Love,Raymond Carver,4.24,"29,185",/book/show/11438.What_We_Talk_About_When_We_Talk_About_Love,https://d2arxad8u2l0g7.cloudfront.net/books/1327868314l/11438.jpg,176,1981
@@ -641,7 +641,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 638,Brighton Rock,Graham Greene,3.73,"14,587",/book/show/48862.Brighton_Rock,https://d2arxad8u2l0g7.cloudfront.net/books/1337363402l/48862.jpg,269,1938
 639,The English Patient,Michael Ondaatje,3.87,"85,923",/book/show/11713.The_English_Patient,https://d2arxad8u2l0g7.cloudfront.net/books/1320527907l/11713.jpg,320,1992
 640,Of Human Bondage,W. Somerset Maugham,4.10,"35,490",/book/show/31548.Of_Human_Bondage,https://d2arxad8u2l0g7.cloudfront.net/books/1386924695l/31548.jpg,684,1915
-641,"Twelfth Night: Or, What You Will",William Shakespeare,3.00,,/book/show/30433880-twelfth-night,,200,1602
+641,"Twelfth Night: Or, What You Will",William Shakespeare,liked it 3.00,,/book/show/30433880-twelfth-night,,200,1602
 642,The Return of the Native,Thomas Hardy,3.83,"24,557",/book/show/32650.The_Return_of_the_Native,https://d2arxad8u2l0g7.cloudfront.net/books/1403182613l/32650.jpg,448,1878
 643,Loving,Henry Green,3.56,"2,306",/book/show/771507.Loving,https://d2arxad8u2l0g7.cloudfront.net/books/1358882664l/771507.jpg,224,1945
 644,Henry V,William Shakespeare,3.85,"29,638",/book/show/37526.Henry_V,https://d2arxad8u2l0g7.cloudfront.net/books/1331563646l/37526.jpg,352,1599
@@ -682,11 +682,11 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 679,The New York Trilogy,Paul Auster,3.92,"38,267",/book/show/431.The_New_York_Trilogy,https://d2arxad8u2l0g7.cloudfront.net/books/1386924429l/431.jpg,308,1987
 680,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,3.97,"374,392",/book/show/43763.Interview_with_the_Vampire,https://d2arxad8u2l0g7.cloudfront.net/books/1380631642l/43763.jpg,342,1976
 681,Captain Hornblower R.N.: Hornblower and the Atropos / The Happy Return / A Ship of the Line,C.S. Forester,4.34,340,/book/show/927352.Captain_Hornblower_R_N_,https://d2arxad8u2l0g7.cloudfront.net/books/1347614231l/927352.jpg,244,1937
-682,"Dear Dumb Diary, Year Two: Nobody's Perfect. I'm as close as it gets",Jim Benton,4.00,,/book/show/31345994-dear-dumb-diary-year-two,,120,1892
+682,"Dear Dumb Diary, Year Two: Nobody's Perfect. I'm as close as it gets",Jim Benton,really liked it 4.00,,/book/show/31345994-dear-dumb-diary-year-two,,120,1892
 683,Northern LIghts,Sienna Stapleton,3.50,2,/book/show/23388825-northern-lights,,,1995
 684,The Complete Poems of Sappho,Sappho,4.09,513,/book/show/5945516-the-complete-poems-of-sappho,https://d2arxad8u2l0g7.cloudfront.net/books/1388456588l/5945516.jpg,224,-570
 685,Legends of the Fall,Jim Harrison,4.04,"6,035",/book/show/395397.Legends_of_the_Fall,https://d2arxad8u2l0g7.cloudfront.net/books/1320469969l/395397.jpg,288,1979
-686,"Notes from the letters of Thomas Moore to his music publisher, James Power. With an introductory letter from T.C. Croker. [With an additional engr. title-leaf, Lond., 1853. With] Letter from Thomas Crofton Croker ... to J.S. Redfield ... respecting t",Thomas Moore,4.00,,/book/show/7626467-notes-from-the-letters-of-thomas-moore-to-his-music-publisher-james-pow,,,1824
+686,"Notes from the letters of Thomas Moore to his music publisher, James Power. With an introductory letter from T.C. Croker. [With an additional engr. title-leaf, Lond., 1853. With] Letter from Thomas Crofton Croker ... to J.S. Redfield ... respecting t",Thomas Moore,really liked it 4.00,,/book/show/7626467-notes-from-the-letters-of-thomas-moore-to-his-music-publisher-james-pow,,,1824
 687,Miss Lonelyhearts,Nathanael West,3.65,"2,236",/book/show/250041.Miss_Lonelyhearts,https://d2arxad8u2l0g7.cloudfront.net/books/1356886809l/250041.jpg,80,1933
 688,Possession,A.S. Byatt,3.88,"55,992",/book/show/41219.Possession,https://d2arxad8u2l0g7.cloudfront.net/books/1391124124l/41219.jpg,555,1990
 689,"The Monkey Wrench Gang (Monkey Wrench Gang, #1)",Edward Abbey,4.08,"15,536",/book/show/99208.The_Monkey_Wrench_Gang,https://d2arxad8u2l0g7.cloudfront.net/books/1349067863l/99208.jpg,421,1975
@@ -701,7 +701,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 698,The Razor's Edge,W. Somerset Maugham,4.17,"25,977",/book/show/31196.The_Razor_s_Edge,https://d2arxad8u2l0g7.cloudfront.net/books/1386925123l/31196.jpg,314,1944
 699,"Halls of Fame of My Book House (My Book House, #12)",Olive Beaupré Miller,4.33,9,/book/show/10185883-halls-of-fame-of-my-book-house,,,1921
 700,Fortunes of Richard Mahony,Henry Handel Richardson,4.09,204,/book/show/2398995.Fortunes_of_Richard_Mahony,https://d2arxad8u2l0g7.cloudfront.net/books/1380870786l/2398995.jpg,,1929
-701,Love and Death in Blue Lake (Blue Lake Series Book 3),Cynthia Harrison,5.00,3,/book/show/28406443-love-and-death-in-blue-lake,https://d2arxad8u2l0g7.cloudfront.net/books/1451533325l/28406443.jpg,133,1954
+701,Love and Death in Blue Lake (Blue Lake Series Book 3),Cynthia Harrison,it was amazing 5.00,3,/book/show/28406443-love-and-death-in-blue-lake,https://d2arxad8u2l0g7.cloudfront.net/books/1451533325l/28406443.jpg,133,1954
 702,The Go-Between,L.P. Hartley,3.92,"5,062",/book/show/258079.The_Go_Between,https://d2arxad8u2l0g7.cloudfront.net/books/1386925313l/258079.jpg,326,1953
 703,The Seance and Other Stories,Isaac Bashevis Singer,4.17,87,/book/show/1870763.The_Seance_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1348825584l/1870763.jpg,292,1991
 704,Short Friday and Other Stories,Isaac Bashevis Singer,4.13,155,/book/show/1128288.Short_Friday_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1181224032l/1128288.jpg,201,1991
@@ -764,10 +764,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 761,Aus dem Leben eines Taugenichts,Joseph von Eichendorff,3.37,"2,147",/book/show/1330086.Aus_dem_Leben_eines_Taugenichts,https://d2arxad8u2l0g7.cloudfront.net/books/1403467714l/1330086.jpg,112,1826
 762,The Narrow Road to the Deep North and Other Travel Sketches,Matsuo Bashō,4.15,"2,389",/book/show/175626.The_Narrow_Road_to_the_Deep_North_and_Other_Travel_Sketches,https://d2arxad8u2l0g7.cloudfront.net/books/1374681814l/175626.jpg,167,1689
 763,Growth of the Soil,Knut Hamsun,4.24,"4,561",/book/show/342049.Growth_of_the_Soil,https://d2arxad8u2l0g7.cloudfront.net/books/1420733175l/342049.jpg,435,1920
-764,The Seventh Cross,Anna Seghers,5.00,,/book/show/30220761-the-seventh-cross,,338,1942
+764,The Seventh Cross,Anna Seghers,it was amazing 5.00,,/book/show/30220761-the-seventh-cross,,338,1942
 765,The Complete Stories,Flannery O'Connor,4.45,"27,385",/book/show/284996.The_Complete_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1411025330l/284996.jpg,576,1777
-766,Silent Souls and Other Stories: An English Translation,Caterina Albert,5.00,,/book/show/14358597-silent-souls-and-other-stories,,,
-766,Silent Souls and Other Stories: An English Translation,Caterina Albert,5.00,,/book/show/14358597-silent-souls-and-other-stories,,,
+766,Silent Souls and Other Stories: An English Translation,Caterina Albert,it was amazing 5.00,,/book/show/14358597-silent-souls-and-other-stories,,,
+766,Silent Souls and Other Stories: An English Translation,Caterina Albert,it was amazing 5.00,,/book/show/14358597-silent-souls-and-other-stories,,,
 767,The First Circle,Aleksandr Solzhenitsyn,4.17,"5,565",/book/show/98969.The_First_Circle,https://d2arxad8u2l0g7.cloudfront.net/books/1171430589l/98969.jpg,580,1968
 768,Simplicissimus,Hans Jakob Christoffel von Grimmelshausen,3.71,"1,211",/book/show/999513.Simplicissimus,https://d2arxad8u2l0g7.cloudfront.net/books/1349140020l/999513.jpg,434,1668
 769,Schatzkastlein Des Rheinischen Hausfreundes,Johann Peter Hebel,0.00,0,/book/show/27703209-schatzkastlein-des-rheinischen-hausfreundes,,174,1811
@@ -777,7 +777,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 773,The Vendor Of Sweets,R.K. Narayan,3.78,"1,570",/book/show/113126.The_Vendor_Of_Sweets,https://d2arxad8u2l0g7.cloudfront.net/books/1356458165l/113126.jpg,144,1967
 774,The Complete Poems and Plays,T.S. Eliot,4.44,457,/book/show/274893.The_Complete_Poems_and_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1440772447l/274893.jpg,608,1965
 775,The Iceman Cometh,Eugene O'Neill,3.96,"6,283",/book/show/111734.The_Iceman_Cometh,https://d2arxad8u2l0g7.cloudfront.net/books/1327871756l/111734.jpg,240,1939
-776,Lenz,Georg Buchner,3.00,,/book/show/30017628-lenz,,34,1839
+776,Lenz,Georg Buchner,liked it 3.00,,/book/show/30017628-lenz,,34,1839
 777,The Collected Songs of Cold Mountain,Han Shan,4.39,462,/book/show/10921.The_Collected_Songs_of_Cold_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1328757968l/10921.jpg,320,1985
 778,Anna Édes,Dezső Kosztolányi,3.82,931,/book/show/654438.Anna_des,https://d2arxad8u2l0g7.cloudfront.net/books/1176786394l/654438.jpg,,1991
 779,Italian Folktales,Italo Calvino,4.19,"2,811",/book/show/9807.Italian_Folktales,https://d2arxad8u2l0g7.cloudfront.net/books/1439401748l/9807.jpg,800,1956
@@ -785,7 +785,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 781,Somersault,Kenzaburō Ōe,3.22,242,/book/show/251160.Somersault,https://d2arxad8u2l0g7.cloudfront.net/books/1328822239l/251160.jpg,576,1999
 782,The Gift,Vladimir Nabokov,3.99,"2,271",/book/show/8147.The_Gift,https://d2arxad8u2l0g7.cloudfront.net/books/1348418558l/8147.jpg,406,1938
 783,Jealousy,Alain Robbe-Grillet,3.65,"1,404",/book/show/101999.Jealousy,https://d2arxad8u2l0g7.cloudfront.net/books/1171484161l/101999.jpg,103,1957
-784,The Life and Opinions of the Tomcat Murr,E.T.A. Hoffmann,4.00,948,/book/show/594852.The_Life_and_Opinions_of_the_Tomcat_Murr,https://d2arxad8u2l0g7.cloudfront.net/books/1375745289l/594852.jpg,384,1819
+784,The Life and Opinions of the Tomcat Murr,E.T.A. Hoffmann,really liked it 4.00,948,/book/show/594852.The_Life_and_Opinions_of_the_Tomcat_Murr,https://d2arxad8u2l0g7.cloudfront.net/books/1375745289l/594852.jpg,384,1819
 785,Julius Caesar,William Shakespeare,3.64,"125,818",/book/show/13006.Julius_Caesar,https://d2arxad8u2l0g7.cloudfront.net/books/1354574927l/13006.jpg,95,1599
 786,Siebenkäs,Jean Paul Friedrich Richter,3.95,39,/book/show/13540251-siebenk-s,https://d2arxad8u2l0g7.cloudfront.net/books/1331653519l/13540251.jpg,596,1796
 787,"Jean Clopinel, dit de Meung: le Roman de la Rose consid",Felix Guillon,0.00,0,/book/show/11749713-jean-clopinel-dit-de-meung,,0,1230
@@ -797,14 +797,14 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 793,"The Skeleton Key (Sigma Force, #6.5)",James Rollins,4.14,"5,219",/book/show/11379884-the-skeleton-key,https://d2arxad8u2l0g7.cloudfront.net/books/1328337372l/11379884.jpg,46,1950
 794,Count Julian,Juan Goytisolo,3.73,153,/book/show/2378592.Count_Julian,https://d2arxad8u2l0g7.cloudfront.net/books/1348256176l/2378592.jpg,204,1970
 795,Smilla's Sense of Snow,Peter Høeg,3.72,"28,432",/book/show/124509.Smilla_s_Sense_of_Snow,https://d2arxad8u2l0g7.cloudfront.net/books/1320477208l/124509.jpg,469,1992
-796,"Israel Since the Six-Day War: Tears of Joy, Tears of Sorrow",Leslie Stein,4.00,,/book/show/22209904-israel-since-the-six-day-war,https://d2arxad8u2l0g7.cloudfront.net/books/1400874378l/22209904.jpg,456,1990
+796,"Israel Since the Six-Day War: Tears of Joy, Tears of Sorrow",Leslie Stein,really liked it 4.00,,/book/show/22209904-israel-since-the-six-day-war,https://d2arxad8u2l0g7.cloudfront.net/books/1400874378l/22209904.jpg,456,1990
 797,,,,,,,,1560
 798,First Love,Ivan Turgenev,3.78,"5,726",/book/show/3532.First_Love,https://d2arxad8u2l0g7.cloudfront.net/books/1442616229l/3532.jpg,124,1860
 799,"Tracker (Rylee Adamson, #6)",Shannon Mayer,4.26,"3,592",/book/show/20737927-tracker,https://d2arxad8u2l0g7.cloudfront.net/books/1391616032l/20737927.jpg,270,
 800,"PILGRIM OF LOVE - FROM WASHINGTON IRVING'S ""TALES OF THE ALHAMBRA"": A BEAUTIFUL LOVE STORY BY WASHINGTON IRVING! (TALES FOR CHILDREN Book 2)",Washington Irving,0.00,0,/book/show/25655372-pilgrim-of-love---from-washington-irving-s-tales-of-the-alhambra,https://d2arxad8u2l0g7.cloudfront.net/books/1433333228l/25655372.jpg,50,1859
 801,,,,,,,,1999
 802,Ember (Ember #1),E.E. Martin,4.61,28,/book/show/11967115-ember,https://d2arxad8u2l0g7.cloudfront.net/books/1328349225l/11967115.jpg,210,1942
-803,"Memed, My Hawk",Yashar Kemal,5.00,,/book/show/31191405-memed-my-hawk,https://d2arxad8u2l0g7.cloudfront.net/books/1469130846l/31191405.jpg,368,1955
+803,"Memed, My Hawk",Yashar Kemal,it was amazing 5.00,,/book/show/31191405-memed-my-hawk,https://d2arxad8u2l0g7.cloudfront.net/books/1469130846l/31191405.jpg,368,1955
 804,The Collected Stories,Heinrich Böll,4.45,53,/book/show/10970535-the-collected-stories,https://d2arxad8u2l0g7.cloudfront.net/books/1333580971l/10970535.jpg,976,1948
 805,The Black Book,Orhan Pamuk,3.86,"6,091",/book/show/11692.The_Black_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1388236741l/11692.jpg,466,1990
 806,On and Beyond the Plum in the Golden Vase 从金瓶梅说开去,Liu Xinwu 刘心武,0.00,0,/book/show/31187295-on-and-beyond-the-plum-in-the-golden-vase,https://d2arxad8u2l0g7.cloudfront.net/books/1469089531l/31187295.jpg,278,1610
@@ -820,7 +820,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 816,Life and Fate,Vasily Grossman,4.43,"4,412",/book/show/88432.Life_and_Fate,https://d2arxad8u2l0g7.cloudfront.net/books/1320447178l/88432.jpg,864,1959
 817,The Return of Uncle Walter and Other Stories,Denys Val Baker,0.00,0,/book/show/30089241-the-return-of-uncle-walter-and-other-stories,https://d2arxad8u2l0g7.cloudfront.net/books/1462275781l/30089241.jpg,247,
 818,Dreamtigers,Jorge Luis Borges,4.21,"2,150",/book/show/146429.Dreamtigers,https://d2arxad8u2l0g7.cloudfront.net/books/1387664837l/146429.jpg,96,1960
-819,Dog Star,Agneta Pleijel,4.00,13,/book/show/1936544.Dog_Star,https://d2arxad8u2l0g7.cloudfront.net/books/1328045234l/1936544.jpg,160,
+819,Dog Star,Agneta Pleijel,really liked it 4.00,13,/book/show/1936544.Dog_Star,https://d2arxad8u2l0g7.cloudfront.net/books/1328045234l/1936544.jpg,160,
 820,Burmese Days,George Orwell,3.82,"12,820",/book/show/9650.Burmese_Days,https://d2arxad8u2l0g7.cloudfront.net/books/1415573403l/9650.jpg,376,1934
 821,Confessions of a Mask,Yukio Mishima,3.90,"7,548",/book/show/62794.Confessions_of_a_Mask,https://d2arxad8u2l0g7.cloudfront.net/books/1441790556l/62794.jpg,224,1949
 822,Ivanhoe,Walter Scott,3.74,"66,226",/book/show/6440.Ivanhoe,https://d2arxad8u2l0g7.cloudfront.net/books/1405336818l/6440.jpg,544,1820
@@ -839,7 +839,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 835,Wo cheng,西西 (Xi Xi),4.17,6,/book/show/3089813-wo-cheng,,,
 836,The Stone Raft,José Saramago,3.79,"4,328",/book/show/29565.The_Stone_Raft,https://d2arxad8u2l0g7.cloudfront.net/books/1348652119l/29565.jpg,272,1986
 837,Book of Songs,Associated Harvard Clubs,0.00,0,/book/show/29137535-book-of-songs,,44,1937
-838,Antiworld. Il destino nelle nostre mani,Vittoria Serena Dalton,5.00,3,/book/show/25656174-antiworld-il-destino-nelle-nostre-mani,https://d2arxad8u2l0g7.cloudfront.net/books/1433343576l/25656174.jpg,,
+838,Antiworld. Il destino nelle nostre mani,Vittoria Serena Dalton,it was amazing 5.00,3,/book/show/25656174-antiworld-il-destino-nelle-nostre-mani,https://d2arxad8u2l0g7.cloudfront.net/books/1433343576l/25656174.jpg,,
 839,The Radetzky March  (Von Trotta Family #1),Joseph Roth,4.08,"3,684",/book/show/54258.The_Radetzky_March,https://d2arxad8u2l0g7.cloudfront.net/books/1320967670l/54258.jpg,384,1932
 840,"Soixante Dessins pour ""Les Enfants Terribles""",Jean Cocteau,2.40,5,/book/show/18274896-soixante-dessins-pour-les-enfants-terribles,https://d2arxad8u2l0g7.cloudfront.net/books/1375371003l/18274896.jpg,128,1929
 841,Thousand Cranes,Yasunari Kawabata,3.79,"5,213",/book/show/14027.Thousand_Cranes,https://d2arxad8u2l0g7.cloudfront.net/books/1388205415l/14027.jpg,147,1952
@@ -874,7 +874,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 870,"Master and Commander (Aubrey/Maturin, #1)",Patrick O'Brian,4.10,"31,812",/book/show/77430.Master_and_Commander,https://d2arxad8u2l0g7.cloudfront.net/books/1467992540l/77430.jpg,459,1969
 871,A Visit from the Goon Squad,Jennifer Egan,3.64,"129,583",/book/show/7331435-a-visit-from-the-goon-squad,https://d2arxad8u2l0g7.cloudfront.net/books/1356844046l/7331435.jpg,288,2010
 872,Correction,Thomas Bernhard,4.27,"1,444",/book/show/92573.Correction,https://d2arxad8u2l0g7.cloudfront.net/books/1331500127l/92573.jpg,253,1979
-873,Red Harvest,Dashiell Hammett,4.00,"16,456",/book/show/30005.Red_Harvest,https://d2arxad8u2l0g7.cloudfront.net/books/1320423692l/30005.jpg,224,1929
+873,Red Harvest,Dashiell Hammett,really liked it 4.00,"16,456",/book/show/30005.Red_Harvest,https://d2arxad8u2l0g7.cloudfront.net/books/1320423692l/30005.jpg,224,1929
 874,House Made of Dawn,N. Scott Momaday,3.66,"4,633",/book/show/110996.House_Made_of_Dawn,https://d2arxad8u2l0g7.cloudfront.net/books/1348126746l/110996.jpg,198,1968
 875,Zuleika Dobson,Max Beerbohm,3.56,"3,240",/book/show/778463.Zuleika_Dobson,https://d2arxad8u2l0g7.cloudfront.net/books/1369859636l/778463.jpg,252,1911
 876,Collected Poems,Ted Hughes,4.12,942,/book/show/149505.Collected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1316636165l/149505.jpg,1376,2003
@@ -895,13 +895,13 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 891,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.36,"4,362,609",/book/show/2767052-the-hunger-games,https://d2arxad8u2l0g7.cloudfront.net/books/1447303603l/2767052.jpg,374,
 892,The Song of Hiawatha,Henry Wadsworth Longfellow,3.90,"1,778",/book/show/780875.The_Song_of_Hiawatha,https://d2arxad8u2l0g7.cloudfront.net/books/1391963647l/780875.jpg,184,1855
 893,Barchester Towers (Chronicles of Barsetshire #2),Anthony Trollope,4.01,"9,402",/book/show/125321.Barchester_Towers,https://d2arxad8u2l0g7.cloudfront.net/books/1387980968l/125321.jpg,418,1855
-894,"Game of Thrones: The Ultimate Game of Thrones Character Description Guide (Includes 39 Game of Thrones Characters) (game of thrones, game of thrones series) (Volume 1)",David Nolan,3.00,2,/book/show/24444153-game-of-thrones,https://d2arxad8u2l0g7.cloudfront.net/books/1420996938l/24444153.jpg,44,1996
+894,"Game of Thrones: The Ultimate Game of Thrones Character Description Guide (Includes 39 Game of Thrones Characters) (game of thrones, game of thrones series) (Volume 1)",David Nolan,liked it 3.00,2,/book/show/24444153-game-of-thrones,https://d2arxad8u2l0g7.cloudfront.net/books/1420996938l/24444153.jpg,44,1996
 895,"The Railway Children (Penguin Readers, Level 2)",Karen Holmes,3.24,17,/book/show/6443455-the-railway-children,https://d2arxad8u2l0g7.cloudfront.net/books/1370839020l/6443455.jpg,48,1906
 896,The Jungle Book,Rudyard Kipling,3.95,"71,924",/book/show/77270.The_Jungle_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1327873594l/77270.jpg,277,1894
-897,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.00,"184,407",/book/show/28877.Red_Dragon,https://d2arxad8u2l0g7.cloudfront.net/books/1390284698l/28877.jpg,348,1981
+897,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,really liked it 4.00,"184,407",/book/show/28877.Red_Dragon,https://d2arxad8u2l0g7.cloudfront.net/books/1390284698l/28877.jpg,348,1981
 898,The Murders in the Rue Morgue,Edgar Allan Poe,3.93,"15,126",/book/show/3301759-the-murders-in-the-rue-morgue,https://d2arxad8u2l0g7.cloudfront.net/books/1409105459l/3301759.jpg,38,1841
 899,The Little Engine That Could Saves the Day,Watty Piper,3.20,5,/book/show/710988.The_Little_Engine_That_Could_Saves_the_Day,https://d2arxad8u2l0g7.cloudfront.net/books/1309203730l/710988.jpg,12,1930
-900,"Histoire de Babar, le petit éléphant",Jean de Brunhoff,5.00,3,/book/show/28804617-histoire-de-babar-le-petit-l-phant,https://d2arxad8u2l0g7.cloudfront.net/books/1454135798l/28804617.jpg,45,1931
+900,"Histoire de Babar, le petit éléphant",Jean de Brunhoff,it was amazing 5.00,3,/book/show/28804617-histoire-de-babar-le-petit-l-phant,https://d2arxad8u2l0g7.cloudfront.net/books/1454135798l/28804617.jpg,45,1931
 901,"The Warlord of Mars (Barsoom, #3)",Edgar Rice Burroughs,3.85,"9,815",/book/show/40379.The_Warlord_of_Mars,https://d2arxad8u2l0g7.cloudfront.net/books/1328773630l/40379.jpg,0,1913
 902,Odes,John Keats,4.42,24,/book/show/12164862-odes,,0,1927
 903,"Swallows and Amazons (Swallows and Amazons, #1)",Arthur Ransome,3.97,"21,033",/book/show/125190.Swallows_and_Amazons,https://d2arxad8u2l0g7.cloudfront.net/books/1277148503l/125190.jpg,315,1930
@@ -918,7 +918,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 914,"The Voyages of Doctor Dolittle (Doctor Dolittle, #2)",Hugh Lofting,3.99,"11,695",/book/show/325416.The_Voyages_of_Doctor_Dolittle,https://d2arxad8u2l0g7.cloudfront.net/books/1173762814l/325416.jpg,400,1922
 915,Jonathan Livingston Seagull,Richard Bach,3.79,"135,839",/book/show/71728.Jonathan_Livingston_Seagull,https://d2arxad8u2l0g7.cloudfront.net/books/1432222358l/71728.jpg,112,1970
 916,The Island Within,Ludwig Lewisohn,3.92,12,/book/show/1547545.The_Island_Within,https://d2arxad8u2l0g7.cloudfront.net/books/1348278538l/1547545.jpg,266,1928
-917,"Tall Whites, Greys and Little Green Men",Snow White,4.00,,/book/show/30122218-tall-whites-greys-and-little-green-men,https://d2arxad8u2l0g7.cloudfront.net/books/1462543391l/30122218.jpg,32,1942
+917,"Tall Whites, Greys and Little Green Men",Snow White,really liked it 4.00,,/book/show/30122218-tall-whites-greys-and-little-green-men,https://d2arxad8u2l0g7.cloudfront.net/books/1462543391l/30122218.jpg,32,1942
 918,Gone Girl,Gillian Flynn,4.01,"1,398,233",/book/show/19288043-gone-girl,https://d2arxad8u2l0g7.cloudfront.net/books/1397056917l/19288043.jpg,422,
 919,The Story of Ferdinand,Munro Leaf,4.35,"65,944",/book/show/773951.The_Story_of_Ferdinand,https://d2arxad8u2l0g7.cloudfront.net/books/1348133512l/773951.jpg,72,1936
 920,Miss Susie Slagle's,Augusta Tucker,3.78,9,/book/show/1461497.Miss_Susie_Slagle_s,https://d2arxad8u2l0g7.cloudfront.net/books/1348126095l/1461497.jpg,352,1939
@@ -975,7 +975,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 971,The Lost Steps,Alejo Carpentier,3.93,"1,742",/book/show/59503.The_Lost_Steps,https://d2arxad8u2l0g7.cloudfront.net/books/1389922602l/59503.jpg,296,
 972,"Mio, My Son",Astrid Lindgren,4.10,"7,120",/book/show/181087.Mio_My_Son,https://d2arxad8u2l0g7.cloudfront.net/books/1388962567l/181087.jpg,178,1954
 973,"They Burn the Thistles (İnce Memed, #2)",Yaşar Kemal,4.35,781,/book/show/167691.They_Burn_the_Thistles,https://d2arxad8u2l0g7.cloudfront.net/books/1320559164l/167691.jpg,424,1969
-974,பாரபாஸ்,Par Lagerkvist (in Tamil by Ka. Na. Subramanyam),4.00,2,/book/show/22449069,,134,1950
+974,பாரபாஸ்,Par Lagerkvist (in Tamil by Ka. Na. Subramanyam),really liked it 4.00,2,/book/show/22449069,,134,1950
 975,Samuels bok,Sven Delblanc,3.96,26,/book/show/1827273.Samuels_bok,https://d2arxad8u2l0g7.cloudfront.net/books/1351558003l/1827273.jpg,382,1981
 976,The Assistant,Bernard Malamud,3.86,"7,217",/book/show/3068.The_Assistant,https://d2arxad8u2l0g7.cloudfront.net/books/1411778913l/3068.jpg,246,1957
 977,"Collected Poems, 1947-1980",Allen Ginsberg,4.17,"6,452",/book/show/563782.Collected_Poems_1947_1980,https://d2arxad8u2l0g7.cloudfront.net/books/1387666934l/563782.jpg,864,
@@ -987,7 +987,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 983,"Dating Younger Men: Learn How You Can Quickly & Easily Date a Younger Man The Right Way Even If You're a Beginner, This New & Simple to Follow Guide Teaches You How Without Failing",Tina Stamp,0.00,0,/book/show/30333914-dating-younger-men,https://d2arxad8u2l0g7.cloudfront.net/books/1464826075l/30333914.jpg,12,
 984,Mating,Norman Rush,3.79,"3,035",/book/show/527513.Mating,https://d2arxad8u2l0g7.cloudfront.net/books/1320393331l/527513.jpg,480,1990
 985,The Prince of Tides,Pat Conroy,4.21,"153,515",/book/show/16735.The_Prince_of_Tides,https://d2arxad8u2l0g7.cloudfront.net/books/1327894397l/16735.jpg,679,1986
-986,Harry Potter and the Goblet of Fire: The Interactive Quiz Book (The Harry Potter Series.),Julia Reed,5.00,5,/book/show/19277693-harry-potter-and-the-goblet-of-fire,https://d2arxad8u2l0g7.cloudfront.net/books/1386471338l/19277693.jpg,312,2000
+986,Harry Potter and the Goblet of Fire: The Interactive Quiz Book (The Harry Potter Series.),Julia Reed,it was amazing 5.00,5,/book/show/19277693-harry-potter-and-the-goblet-of-fire,https://d2arxad8u2l0g7.cloudfront.net/books/1386471338l/19277693.jpg,312,2000
 987,Wonder Boys,Michael Chabon,3.93,"27,320",/book/show/16707.Wonder_Boys,https://d2arxad8u2l0g7.cloudfront.net/books/1380670205l/16707.jpg,383,1995
 988,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.60,"1,649,984",/book/show/136251.Harry_Potter_and_the_Deathly_Hallows,https://d2arxad8u2l0g7.cloudfront.net/books/1370023538l/136251.jpg,759,2007
 989,The Christian Novel Collection: At the Back of the North Wind / Ben-Hur / In His Steps / The Man Who Was Thursday,Lew Wallace,0.00,0,/book/show/10420109-the-christian-novel-collection,https://d2arxad8u2l0g7.cloudfront.net/books/1302351824l/10420109.jpg,0,1908
@@ -1000,7 +1000,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 996,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.11,"152,740",/book/show/402045.The_Mists_of_Avalon,https://d2arxad8u2l0g7.cloudfront.net/books/1388857089l/402045.jpg,876,1983
 997,"Are You There God? It's Me, Margaret",Judy Blume,3.88,"152,508",/book/show/37732.Are_You_There_God_It_s_Me_Margaret,https://d2arxad8u2l0g7.cloudfront.net/books/1388356524l/37732.jpg,149,1970
 998,The Narrative of Arthur Gordon Pym of Nantucket,Edgar Allan Poe,3.52,"3,971",/book/show/766869.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,https://d2arxad8u2l0g7.cloudfront.net/books/1341387331l/766869.jpg,288,1838
-999,Harry Potter and the Chamber of Secrets Enchanted Images Glow-in-the-Dark Book,Unknown,4.00,4,/book/show/16093276-harry-potter-and-the-chamber-of-secrets-enchanted-images-glow-in-the-dar,https://d2arxad8u2l0g7.cloudfront.net/books/1350531655l/16093276.jpg,16,1998
+999,Harry Potter and the Chamber of Secrets Enchanted Images Glow-in-the-Dark Book,Unknown,really liked it 4.00,4,/book/show/16093276-harry-potter-and-the-chamber-of-secrets-enchanted-images-glow-in-the-dar,https://d2arxad8u2l0g7.cloudfront.net/books/1350531655l/16093276.jpg,16,1998
 1000,Harry Potter and the Prisoner of Azkaban with Poster (Scholastic Literature Guides,Linda Beech,4.44,9,/book/show/20323226-harry-potter-and-the-prisoner-of-azkaban-with-poster-scholastic-literat,https://d2arxad8u2l0g7.cloudfront.net/books/1388180878l/20323226.jpg,16,1999
 1001,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.45,"1,670,147",/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix,https://d2arxad8u2l0g7.cloudfront.net/books/1387141547l/2.jpg,870,2003
 1002,Flicker,Theodore Roszak,4.02,"1,069",/book/show/243162.Flicker,https://d2arxad8u2l0g7.cloudfront.net/books/1386923638l/243162.jpg,608,1991
@@ -1037,7 +1037,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1033,The Complete Stories,Flannery O'Connor,4.45,"27,390",/book/show/284996.The_Complete_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1411025330l/284996.jpg,576,
 1034,The Way of Kabbalah,Z'ev Ben Shimon Halevi,4.14,22,/book/show/841510.The_Way_of_Kabbalah,https://d2arxad8u2l0g7.cloudfront.net/books/1347848867l/841510.jpg,224,1195
 1035,Baldwin: Early Novels and Stories,James Baldwin,4.35,480,/book/show/38456.Baldwin,https://d2arxad8u2l0g7.cloudfront.net/books/1347568539l/38456.jpg,992,1987
-1036,Works of Walter Savage Landor,Walter Savage Landor,3.00,,/book/show/24921820-works-of-walter-savage-landor,https://d2arxad8u2l0g7.cloudfront.net/books/1423786271l/24921820.jpg,601,1864
+1036,Works of Walter Savage Landor,Walter Savage Landor,liked it 3.00,,/book/show/24921820-works-of-walter-savage-landor,https://d2arxad8u2l0g7.cloudfront.net/books/1423786271l/24921820.jpg,601,1864
 1037,The Unicorn,Iris Murdoch,3.64,"1,632",/book/show/11235.The_Unicorn,https://d2arxad8u2l0g7.cloudfront.net/books/1389645574l/11235.jpg,269,1963
 1038,The Bridge,Hart Crane,4.16,681,/book/show/75495.The_Bridge,https://d2arxad8u2l0g7.cloudfront.net/books/1386923150l/75495.jpg,76,1930
 1039,In the Heart of the Heart of the Country and Other Stories,William H. Gass,4.03,"1,423",/book/show/152653.In_the_Heart_of_the_Heart_of_the_Country_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1419362654l/152653.jpg,240,
@@ -1082,10 +1082,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1078,Selected Poems,Anne Sexton,4.20,"1,342",/book/show/481821.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1434818369l/481821.jpg,266,1678
 1079,"Argonautica: Or, the Quest of Jason for the Golden Fleece",Apollonius of Rhodes,2.25,4,/book/show/25657415-argonautica,https://d2arxad8u2l0g7.cloudfront.net/books/1433360064l/25657415.jpg,307,-300
 1080,The Collected Poems,Langston Hughes,4.31,"13,042",/book/show/133906.The_Collected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1367492866l/133906.jpg,736,1967
-1081,Basho's Haiku: Selected Poems of Matsuo Basho,Matsuo Bashō,5.00,,/book/show/24847533-basho-s-haiku,https://d2arxad8u2l0g7.cloudfront.net/books/1423193685l/24847533.jpg,348,1694
+1081,Basho's Haiku: Selected Poems of Matsuo Basho,Matsuo Bashō,it was amazing 5.00,,/book/show/24847533-basho-s-haiku,https://d2arxad8u2l0g7.cloudfront.net/books/1423193685l/24847533.jpg,348,1694
 1082,The Complete Stories,Zora Neale Hurston,4.23,658,/book/show/38068.The_Complete_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1403021790l/38068.jpg,336,1955
 1083,The Complete Poems of Christina Rossetti,R. W. Crump,0.00,0,/book/show/30070773-the-complete-poems-of-christina-rossetti,,332,1894
-1084,"Legend: The Graphic Novel (Legend: The Graphic Novel, #1)",Marie Lu,4.00,"2,032",/book/show/22571758-legend,https://d2arxad8u2l0g7.cloudfront.net/books/1404476212l/22571758.jpg,160,1986
+1084,"Legend: The Graphic Novel (Legend: The Graphic Novel, #1)",Marie Lu,really liked it 4.00,"2,032",/book/show/22571758-legend,https://d2arxad8u2l0g7.cloudfront.net/books/1404476212l/22571758.jpg,160,1986
 1085,If: A Father's Advice to His Son,Rudyard Kipling,4.39,549,/book/show/34055.If,https://d2arxad8u2l0g7.cloudfront.net/books/1388885658l/34055.jpg,40,1910
 1086,The Song of Roland,Unknown,3.55,"10,466",/book/show/103390.The_Song_of_Roland,https://d2arxad8u2l0g7.cloudfront.net/books/1325254997l/103390.jpg,208,1040
 1087,The Orlando Furioso,Lodovico Ariosto,0.00,0,/book/show/30434568-the-orlando-furioso,,278,1516
@@ -1112,7 +1112,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1108,Der Struwwelpeter,Heinrich Hoffmann,3.90,"1,270",/book/show/1422884.Der_Struwwelpeter,https://d2arxad8u2l0g7.cloudfront.net/books/1183476377l/1422884.jpg,20,1845
 1109,"The Diary of Anaïs Nin, Vol. 1: 1931-1934",Anaïs Nin,4.09,"4,683",/book/show/46064.The_Diary_of_Ana_s_Nin_Vol_1,https://d2arxad8u2l0g7.cloudfront.net/books/1386925001l/46064.jpg,384,1934
 1110,Resurrection,Leo Tolstoy,4.08,"10,455",/book/show/42641.Resurrection,https://d2arxad8u2l0g7.cloudfront.net/books/1335874776l/42641.jpg,562,1899
-1111,Nikolai Gogol Reader; Two Short Stories By Nikolai Gogol,Nikolai Gogol,4.00,,/book/show/21389220-nikolai-gogol-reader-two-short-stories-by-nikolai-gogol,https://d2arxad8u2l0g7.cloudfront.net/books/1394334872l/21389220.jpg,,1852
+1111,Nikolai Gogol Reader; Two Short Stories By Nikolai Gogol,Nikolai Gogol,really liked it 4.00,,/book/show/21389220-nikolai-gogol-reader-two-short-stories-by-nikolai-gogol,https://d2arxad8u2l0g7.cloudfront.net/books/1394334872l/21389220.jpg,,1852
 1112,The Magic Toyshop,Angela Carter,3.88,"5,354",/book/show/81026.The_Magic_Toyshop,https://d2arxad8u2l0g7.cloudfront.net/books/1388410534l/81026.jpg,200,1967
 1113,The Complete Short Stories of Jack London,Jack London,4.42,26,/book/show/15740800-the-complete-short-stories-of-jack-london,https://d2arxad8u2l0g7.cloudfront.net/books/1341685821l/15740800.jpg,2557,1916
 1114,"The Twelve Labours of Hercules, Son of Jupiter and Alcmena",Unknown author,0.00,0,/book/show/30910739-the-twelve-labours-of-hercules-son-of-jupiter-and-alcmena,,36,-600
@@ -1123,10 +1123,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1119,"THEMES OF ANALYTICAL PSYCHOLOGY: Essay on «THE GOLDEN ASS», a tale of Apuleius (P)(GB)(FR)",Maria Dias,0.00,0,/book/show/23903672-themes-of-analytical-psychology,https://d2arxad8u2l0g7.cloudfront.net/books/1422008642l/23903672.jpg,,1953
 1120,Ollantay,Anonymous,3.43,47,/book/show/24396766-ollantay,https://d2arxad8u2l0g7.cloudfront.net/books/1458568143l/24396766.jpg,160,1857
 1121,Penguin Island,Anatole France,3.66,878,/book/show/346024.Penguin_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1348098763l/346024.jpg,284,1908
-1122,Spoon River Anthology,Edgar Lee Masters,4.00,"6,181",/book/show/292668.Spoon_River_Anthology,https://d2arxad8u2l0g7.cloudfront.net/books/1173464177l/292668.jpg,112,1915
+1122,Spoon River Anthology,Edgar Lee Masters,really liked it 4.00,"6,181",/book/show/292668.Spoon_River_Anthology,https://d2arxad8u2l0g7.cloudfront.net/books/1173464177l/292668.jpg,112,1915
 1123,Miss Julie,August Strindberg,3.53,"8,032",/book/show/325916.Miss_Julie,https://d2arxad8u2l0g7.cloudfront.net/books/1353573878l/325916.jpg,96,1888
-1124,The Complete Fairy Tales of Charles Perrault,Charles Perrault,4.00,,/book/show/16409678-the-complete-fairy-tales-of-charles-perrault,,,1703
-1125,"The Red Room & Other Horrors: H. G. Wells' Best Weird Science Fiction and Ghost Stories, Annotated and Illustrated",H.G. Wells,3.00,,/book/show/26395702-the-red-room-other-horrors,https://d2arxad8u2l0g7.cloudfront.net/books/1442874690l/26395702.jpg,214,1946
+1124,The Complete Fairy Tales of Charles Perrault,Charles Perrault,really liked it 4.00,,/book/show/16409678-the-complete-fairy-tales-of-charles-perrault,,,1703
+1125,"The Red Room & Other Horrors: H. G. Wells' Best Weird Science Fiction and Ghost Stories, Annotated and Illustrated",H.G. Wells,liked it 3.00,,/book/show/26395702-the-red-room-other-horrors,https://d2arxad8u2l0g7.cloudfront.net/books/1442874690l/26395702.jpg,214,1946
 1126,The New Atlantis,Francis Bacon,3.16,"1,362",/book/show/277032.The_New_Atlantis,https://d2arxad8u2l0g7.cloudfront.net/books/1348118743l/277032.jpg,33,1627
 1127,Oroonoko,Aphra Behn,2.97,"5,911",/book/show/51190.Oroonoko,https://d2arxad8u2l0g7.cloudfront.net/books/1438766417l/51190.jpg,144,1689
 1128,Theogony/Works and Days,Hesiod,3.72,"8,101",/book/show/27418.Theogony_Works_and_Days,https://d2arxad8u2l0g7.cloudfront.net/books/1388209545l/27418.jpg,79,-700
@@ -1134,10 +1134,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1130,The Poem of the Cid,Unknown,3.79,28,/book/show/452471.The_Poem_of_the_Cid,https://d2arxad8u2l0g7.cloudfront.net/books/1223664244l/452471.jpg,160,1195
 1131,Edward Lear's Book of Nonsense and More Nonsense,Edward Lear,4.50,4,/book/show/752245.Edward_Lear_s_Book_of_Nonsense_and_More_Nonsense,,224,1846
 1132,"Orpheus And Eurydice, A Grecian Tragedy: Plato's Version (1901)",John Pennie Jr.,0.00,0,/book/show/30362967-orpheus-and-eurydice-a-grecian-tragedy,https://d2arxad8u2l0g7.cloudfront.net/books/1465242689l/30362967.jpg,138,8
-1133,The works of George Peele,George Peele,2.00,,/book/show/9091842-the-works-of-george-peele,,,1596
+1133,The works of George Peele,George Peele,it was ok 2.00,,/book/show/9091842-the-works-of-george-peele,,,1596
 1134,Foliage,Leigh Hunt,0.00,0,/book/show/20277260-foliage,,38,1859
 1135,Le Bateau ivre,Arthur Rimbaud,4.14,294,/book/show/386966.Le_Bateau_ivre,https://d2arxad8u2l0g7.cloudfront.net/books/1174358091l/386966.jpg,94,1871
-1136,"Animal Guides in Life, Myth and Dreams",Neil Russack,4.00,6,/book/show/1787802.Animal_Guides_in_Life_Myth_and_Dreams,https://d2arxad8u2l0g7.cloudfront.net/books/1188354035l/1787802.jpg,224,1635
+1136,"Animal Guides in Life, Myth and Dreams",Neil Russack,really liked it 4.00,6,/book/show/1787802.Animal_Guides_in_Life_Myth_and_Dreams,https://d2arxad8u2l0g7.cloudfront.net/books/1188354035l/1787802.jpg,224,1635
 1137,An Essay on Man,Alexander Pope,3.57,418,/book/show/173284.An_Essay_on_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1348220988l/173284.jpg,80,1734
 1138,The Rape of the Lock,Alexander Pope,3.57,"9,896",/book/show/2262521.The_Rape_of_the_Lock,https://d2arxad8u2l0g7.cloudfront.net/books/1348979199l/2262521.jpg,53,1712
 1139,Three Hundred Tang Poems(Junior Edition) (Chinese Edition) 唐诗三百首(青少版)/语文课程标准推荐经典名著必读,Tong Dan 童丹,0.00,0,/book/show/30740645-three-hundred-tang-poems-junior-edition-chinese-edition,https://d2arxad8u2l0g7.cloudfront.net/books/1466729742l/30740645.jpg,218,1763
@@ -1175,7 +1175,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1171,The Dyskolos,Menander,3.06,179,/book/show/168486.The_Dyskolos,https://d2arxad8u2l0g7.cloudfront.net/books/1266487343l/168486.jpg,70,-316
 1172,Birdsong,Sebastian Faulks,4.05,"51,211",/book/show/6259.Birdsong,https://d2arxad8u2l0g7.cloudfront.net/books/1349952101l/6259.jpg,483,1993
 1173,"Goodbye, Columbus and Five Short Stories",Philip Roth,3.87,"11,690",/book/show/29744.Goodbye_Columbus_and_Five_Short_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1408068287l/29744.jpg,320,1959
-1174,Proof Barack Obama Isn't Qualified to Be President! (Notebook),Teri Li,1.00,,/book/show/14581750-proof-barack-obama-isn-t-qualified-to-be-president,https://d2arxad8u2l0g7.cloudfront.net/books/1347493149l/14581750.jpg,128,1986
+1174,Proof Barack Obama Isn't Qualified to Be President! (Notebook),Teri Li,did not like it 1.00,,/book/show/14581750-proof-barack-obama-isn-t-qualified-to-be-president,https://d2arxad8u2l0g7.cloudfront.net/books/1347493149l/14581750.jpg,128,1986
 1175,"The Dying Earth (The Dying Earth, #1)",Jack Vance,3.94,"5,216",/book/show/951749.The_Dying_Earth,https://d2arxad8u2l0g7.cloudfront.net/books/1303095362l/951749.jpg,156,1950
 1176,Like Water for Chocolate,Laura Esquivel,3.93,"271,928",/book/show/6952.Like_Water_for_Chocolate,https://d2arxad8u2l0g7.cloudfront.net/books/1430241812l/6952.jpg,224,1989
 1177,"Wolf Hall (Thomas Cromwell, #1)",Hilary Mantel,3.83,"106,208",/book/show/6101138-wolf-hall,https://d2arxad8u2l0g7.cloudfront.net/books/1336576165l/6101138.jpg,653,2009
@@ -1193,7 +1193,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1189,Twilight of the Superheroes,Deborah Eisenberg,3.56,"1,039",/book/show/25785.Twilight_of_the_Superheroes,https://d2arxad8u2l0g7.cloudfront.net/books/1442277393l/25785.jpg,240,2006
 1190,Angle of Repose,Wallace Stegner,4.27,"39,132",/book/show/292408.Angle_of_Repose,https://d2arxad8u2l0g7.cloudfront.net/books/1329151576l/292408.jpg,569,1971
 1191,H.P. Lovecraft's Book of the Supernatural: Classic Tales of the Macabre,Randy Broecker,3.58,73,/book/show/2878423-h-p-lovecraft-s-book-of-the-supernatural,https://d2arxad8u2l0g7.cloudfront.net/books/1267339734l/2878423.jpg,384,1937
-1192,The Magic Barrel,Bernard Malamud,4.00,"1,661",/book/show/14084.The_Magic_Barrel,https://d2arxad8u2l0g7.cloudfront.net/books/1420668130l/14084.jpg,232,1958
+1192,The Magic Barrel,Bernard Malamud,really liked it 4.00,"1,661",/book/show/14084.The_Magic_Barrel,https://d2arxad8u2l0g7.cloudfront.net/books/1420668130l/14084.jpg,232,1958
 1193,A New Life,Bernard Malamud,3.71,439,/book/show/146860.A_New_Life,https://d2arxad8u2l0g7.cloudfront.net/books/1317791966l/146860.jpg,367,1961
 1194,In the Time of the Butterflies,Julia Alvarez,4.13,"39,980",/book/show/11206.In_the_Time_of_the_Butterflies,https://d2arxad8u2l0g7.cloudfront.net/books/1411410276l/11206.jpg,324,1994
 1195,Amongst Women,John McGahern,3.90,"2,114",/book/show/304209.Amongst_Women,https://d2arxad8u2l0g7.cloudfront.net/books/1307312497l/304209.jpg,192,1990
@@ -1237,7 +1237,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1233,The Postman Always Rings Twice,James M. Cain,3.81,"20,745",/book/show/25807.The_Postman_Always_Rings_Twice,https://d2arxad8u2l0g7.cloudfront.net/books/1344265267l/25807.jpg,116,1934
 1234,No Country For Old Men,Cormac McCarthy,4.12,"99,552",/book/show/12497.No_Country_For_Old_Men,https://d2arxad8u2l0g7.cloudfront.net/books/1443231179l/12497.jpg,309,2005
 1235,The Black Swan,Thomas Mann,3.44,366,/book/show/137328.The_Black_Swan,https://d2arxad8u2l0g7.cloudfront.net/books/1352776003l/137328.jpg,155,1954
-1236,"American Erotic Novels, including: The Sleeping Beauty Trilogy, A Spy In The House Of Love, Tropic Of Cancer (novel), Tropic Of Capricorn (novel), Exit To Eden, Belinda (rice Novel), Cerulean Sins (novel), A Stroke Of Midnight, A Caress Of Twilight",Hephaestus Books,4.00,6,/book/show/12591697-american-erotic-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348530464l/12591697.jpg,74,1954
+1236,"American Erotic Novels, including: The Sleeping Beauty Trilogy, A Spy In The House Of Love, Tropic Of Cancer (novel), Tropic Of Capricorn (novel), Exit To Eden, Belinda (rice Novel), Cerulean Sins (novel), A Stroke Of Midnight, A Caress Of Twilight",Hephaestus Books,really liked it 4.00,6,/book/show/12591697-american-erotic-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348530464l/12591697.jpg,74,1954
 1237,The Day of the Jackal,Frederick Forsyth,4.23,"81,339",/book/show/540020.The_Day_of_the_Jackal,https://d2arxad8u2l0g7.cloudfront.net/books/1405364996l/540020.jpg,384,1971
 1238,Last Days of Mankind,Karl Kraus,4.13,203,/book/show/757972.Last_Days_of_Mankind,https://d2arxad8u2l0g7.cloudfront.net/books/1259407058l/757972.jpg,263,1922
 1239,Green Eggs and Ham,Dr. Seuss,4.29,"442,942",/book/show/23772.Green_Eggs_and_Ham,https://d2arxad8u2l0g7.cloudfront.net/books/1468680100l/23772.jpg,62,1960
@@ -1261,21 +1261,21 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1257,A Tale of Love and Darkness,Amos Oz,4.20,"4,139",/book/show/27574.A_Tale_of_Love_and_Darkness,https://d2arxad8u2l0g7.cloudfront.net/books/1429313277l/27574.jpg,560,2002
 1258,The Collected Stories of Peter Taylor,Peter Taylor,4.18,204,/book/show/227373.The_Collected_Stories_of_Peter_Taylor,https://d2arxad8u2l0g7.cloudfront.net/books/1311993871l/227373.jpg,544,1971
 1259,Kaspar and Other Plays,Peter Handke,3.84,181,/book/show/190829.Kaspar_and_Other_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1247427910l/190829.jpg,144,1967
-1260,The Sea Wolf,Jack London,4.00,"17,699",/book/show/43049.The_Sea_Wolf,https://d2arxad8u2l0g7.cloudfront.net/books/1389481608l/43049.jpg,425,1904
+1260,The Sea Wolf,Jack London,really liked it 4.00,"17,699",/book/show/43049.The_Sea_Wolf,https://d2arxad8u2l0g7.cloudfront.net/books/1389481608l/43049.jpg,425,1904
 1261,The Splendors and Miseries of Courtesans,Honoré de Balzac,4.06,"1,598",/book/show/18394925-the-splendors-and-miseries-of-courtesans,https://d2arxad8u2l0g7.cloudfront.net/books/1377720608l/18394925.jpg,,1847
-1262,The Shadow and the Wind: A Viking Adventure,William Buckel,1.00,,/book/show/10544517-the-shadow-and-the-wind,https://d2arxad8u2l0g7.cloudfront.net/books/1348115135l/10544517.jpg,236,2001
+1262,The Shadow and the Wind: A Viking Adventure,William Buckel,did not like it 1.00,,/book/show/10544517-the-shadow-and-the-wind,https://d2arxad8u2l0g7.cloudfront.net/books/1348115135l/10544517.jpg,236,2001
 1263,The Third Policeman,Flann O'Brien,4.03,"10,881",/book/show/27208.The_Third_Policeman,https://d2arxad8u2l0g7.cloudfront.net/books/1343027425l/27208.jpg,200,1967
 1264,The Sportswriter,Richard Ford,3.71,"13,139",/book/show/40722.The_Sportswriter,https://d2arxad8u2l0g7.cloudfront.net/books/1327936345l/40722.jpg,375,1986
 1265,The Blood Oranges,John Hawkes,3.65,516,/book/show/222046.The_Blood_Oranges,https://d2arxad8u2l0g7.cloudfront.net/books/1388217573l/222046.jpg,271,1997
 1266,"Old Man's War Boxed Set  #1 (Old Man's War, #1-3)",John Scalzi,4.34,201,/book/show/20889463-old-man-s-war-boxed-set-1,https://d2arxad8u2l0g7.cloudfront.net/books/1417605613l/20889463.jpg,,1947
-1267,"Nigerian Novels, including: Efuru, No Longer At Ease, The Palm-wine Drinkard, My Life In The Bush Of Ghosts (novel), Beasts Of No Nation, The Bride ... God, A Man Of The People, Chike And The River",Hephaestus Books,5.00,,/book/show/12842483-nigerian-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348786929l/12842483.jpg,48,1952
+1267,"Nigerian Novels, including: Efuru, No Longer At Ease, The Palm-wine Drinkard, My Life In The Bush Of Ghosts (novel), Beasts Of No Nation, The Bride ... God, A Man Of The People, Chike And The River",Hephaestus Books,it was amazing 5.00,,/book/show/12842483-nigerian-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348786929l/12842483.jpg,48,1952
 1268,"Novels By Haruki Murakami, including: Sputnik Sweetheart, Norwegian Wood (novel), Hard-boiled Wonderland And The End Of The World, The Wind-up Bird Chronicle, Kafka On The Shore, South Of The Border, West Of The Sun, Pinball, 1973, A Wild Sheep Chase",Hephaestus Books,4.30,60,/book/show/12540656-novels-by-haruki-murakami-including,https://d2arxad8u2l0g7.cloudfront.net/books/1347232216l/12540656.jpg,44,1992
 1269,Man in the Holocene,Max Frisch,3.85,954,/book/show/74186.Man_in_the_Holocene,https://d2arxad8u2l0g7.cloudfront.net/books/1388941683l/74186.jpg,128,1979
 1270,The Oranging of America and Other Stories,Max Apple,3.71,107,/book/show/490255.The_Oranging_of_America_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1228816364l/490255.jpg,152,1976
 1271,Love in a Cold Climate,Nancy Mitford,3.84,"3,284",/book/show/372811.Love_in_a_Cold_Climate,https://d2arxad8u2l0g7.cloudfront.net/books/1450579709l/372811.jpg,249,1949
 1272,Falling in Place,Ann Beattie,3.64,371,/book/show/19611.Falling_in_Place,https://d2arxad8u2l0g7.cloudfront.net/books/1320468553l/19611.jpg,352,1981
 1273,"Will You Please Be Quiet, Please?",Raymond Carver,4.31,"9,356",/book/show/11446.Will_You_Please_Be_Quiet_Please_,https://d2arxad8u2l0g7.cloudfront.net/books/1360355821l/11446.jpg,181,1976
-1274,"The Castle of Otranto,: A Gothic Story",Horace Walpole,3.00,,/book/show/31051097-the-castle-of-otranto,,232,1764
+1274,"The Castle of Otranto,: A Gothic Story",Horace Walpole,liked it 3.00,,/book/show/31051097-the-castle-of-otranto,,232,1764
 1275,Professor Unrat,Heinrich Mann,3.68,"1,628",/book/show/1147020.Professor_Unrat,https://d2arxad8u2l0g7.cloudfront.net/books/1347324712l/1147020.jpg,240,1905
 1276,The Saga of Noggin the Nog,Oliver Postgate,4.57,23,/book/show/950873.The_Saga_of_Noggin_the_Nog,https://d2arxad8u2l0g7.cloudfront.net/books/1310290750l/950873.jpg,96,1969
 1277,The Feast of the Goat,Mario Vargas Llosa,4.20,"14,953",/book/show/53969.The_Feast_of_the_Goat,https://d2arxad8u2l0g7.cloudfront.net/books/1439920504l/53969.jpg,475,2000
@@ -1324,7 +1324,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1320,The Theogony,Hesiod,3.32,74,/book/show/17141349-the-theogony,https://d2arxad8u2l0g7.cloudfront.net/books/1405291888l/17141349.jpg,25,-700
 1321,Snow Flower and the Secret Fan,Lisa See,4.04,"269,740",/book/show/1103.Snow_Flower_and_the_Secret_Fan,https://d2arxad8u2l0g7.cloudfront.net/books/1327880508l/1103.jpg,269,2005
 1322,The Wife of Martin Guerre,Janet Lewis,3.57,614,/book/show/338234.The_Wife_of_Martin_Guerre,https://d2arxad8u2l0g7.cloudfront.net/books/1387741326l/338234.jpg,109,1941
-1323,Cannery Row,John Steinbeck,4.00,"78,746",/book/show/4799.Cannery_Row,https://d2arxad8u2l0g7.cloudfront.net/books/1388188936l/4799.jpg,181,1945
+1323,Cannery Row,John Steinbeck,really liked it 4.00,"78,746",/book/show/4799.Cannery_Row,https://d2arxad8u2l0g7.cloudfront.net/books/1388188936l/4799.jpg,181,1945
 1324,"Persepolis 2: The Story of a Return (Persepolis, #2)",Marjane Satrapi,4.22,"41,170",/book/show/9517.Persepolis_2,https://d2arxad8u2l0g7.cloudfront.net/books/1327865598l/9517.jpg,187,2001
 1325,Hard-Boiled Wonderland and the End of the World,Haruki Murakami,4.15,"67,706",/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World,https://d2arxad8u2l0g7.cloudfront.net/books/1399844477l/10374.jpg,400,1985
 1326,"Raise High the Roof Beam, Carpenters & Seymour: An Introduction",J.D. Salinger,4.11,"37,522",/book/show/5114.Raise_High_the_Roof_Beam_Carpenters_Seymour,https://d2arxad8u2l0g7.cloudfront.net/books/1390770647l/5114.jpg,256,1963
@@ -1375,14 +1375,14 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1371,A Little Princess,Frances Hodgson Burnett,4.20,"187,327",/book/show/3008.A_Little_Princess,https://d2arxad8u2l0g7.cloudfront.net/books/1327868556l/3008.jpg,242,1905
 1372,"Chanda's Secrets (Chanda, #1)",Allan Stratton,3.85,"1,764",/book/show/782384.Chanda_s_Secrets,https://d2arxad8u2l0g7.cloudfront.net/books/1429583785l/782384.jpg,200,2004
 1373,Affliction,Russell Banks,3.98,"2,718",/book/show/227751.Affliction,https://d2arxad8u2l0g7.cloudfront.net/books/1310092463l/227751.jpg,368,1997
-1374,Where Angels Fear to Tread / A Room with a View,E.M. Forster,5.00,,/book/show/24231696-where-angels-fear-to-tread-a-room-with-a-view,,377,1905
+1374,Where Angels Fear to Tread / A Room with a View,E.M. Forster,it was amazing 5.00,,/book/show/24231696-where-angels-fear-to-tread-a-room-with-a-view,,377,1905
 1375,"City of the Beasts (Eagle and Jaguar, #1)",Isabel Allende,3.68,"19,688",/book/show/3304.City_of_the_Beasts,https://d2arxad8u2l0g7.cloudfront.net/books/1331488122l/3304.jpg,408,2002
-1376,Ginger Snap: The Sweet Shop Girls,Arden Bell,5.00,,/book/show/23839337-ginger-snap,https://d2arxad8u2l0g7.cloudfront.net/books/1419354135l/23839337.jpg,27,1955
+1376,Ginger Snap: The Sweet Shop Girls,Arden Bell,it was amazing 5.00,,/book/show/23839337-ginger-snap,https://d2arxad8u2l0g7.cloudfront.net/books/1419354135l/23839337.jpg,27,1955
 1377,Crow Lake,Mary Lawson,3.84,"12,163",/book/show/8646.Crow_Lake,https://d2arxad8u2l0g7.cloudfront.net/books/1388187730l/8646.jpg,324,2002
 1378,"Ancient Greek Stories - About Africa,",J.O. de Graft Hanson,0.00,0,/book/show/28228412-ancient-greek-stories---about-africa,https://d2arxad8u2l0g7.cloudfront.net/books/1450306168l/28228412.jpg,65,1953
 1379,The Tiger Who Came to Tea,Judith Kerr,4.22,"9,904",/book/show/1099097.The_Tiger_Who_Came_to_Tea,https://d2arxad8u2l0g7.cloudfront.net/books/1369858732l/1099097.jpg,32,1968
 1380,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Shel Silverstein,4.28,"969,261",/book/show/30119.Where_the_Sidewalk_Ends,https://d2arxad8u2l0g7.cloudfront.net/books/1168052448l/30119.jpg,176,
-1381,"Wacky Aphorisms, What the Web Says about Dissolution: A Novel of Tudor England Introducing Matthew Shardlake",Andrew Bing,5.00,,/book/show/17951884-wacky-aphorisms-what-the-web-says-about-dissolution,https://d2arxad8u2l0g7.cloudfront.net/books/1369158541l/17951884.jpg,44,2003
+1381,"Wacky Aphorisms, What the Web Says about Dissolution: A Novel of Tudor England Introducing Matthew Shardlake",Andrew Bing,it was amazing 5.00,,/book/show/17951884-wacky-aphorisms-what-the-web-says-about-dissolution,https://d2arxad8u2l0g7.cloudfront.net/books/1369158541l/17951884.jpg,44,2003
 1382,Cutting for Stone,Abraham Verghese,4.28,"252,438",/book/show/3591262-cutting-for-stone,https://d2arxad8u2l0g7.cloudfront.net/books/1327931601l/3591262.jpg,541,
 1383,The Taming of the Shrew,William Shakespeare,3.82,"126,151",/book/show/47021.The_Taming_of_the_Shrew,https://d2arxad8u2l0g7.cloudfront.net/books/1327935253l/47021.jpg,291,1592
 1384,Ubik,Philip K. Dick,4.10,"50,140",/book/show/22590.Ubik,https://d2arxad8u2l0g7.cloudfront.net/books/1327995569l/22590.jpg,288,1969
@@ -1397,7 +1397,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1393,The First Discworld Novels the Colour of Magic and the Light Fantastic,Terry Pratchett,4.15,"5,174",/book/show/64144.The_First_Discworld_Novels_the_Colour_of_Magic_and_the_Light_Fantastic,https://d2arxad8u2l0g7.cloudfront.net/books/1170621261l/64144.jpg,352,1983
 1394,The Merchant of Venice,William Shakespeare,3.77,"116,263",/book/show/24128.The_Merchant_of_Venice,https://d2arxad8u2l0g7.cloudfront.net/books/1327871054l/24128.jpg,247,1598
 1395,"Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",Jeff Kinney,3.96,"200,248",/book/show/389627.Diary_of_a_Wimpy_Kid,https://d2arxad8u2l0g7.cloudfront.net/books/1388183826l/389627.jpg,217,
-1396,I Capture the Castle,Dodie Smith,4.00,"59,803",/book/show/31122.I_Capture_the_Castle,https://d2arxad8u2l0g7.cloudfront.net/books/1385316083l/31122.jpg,343,1934
+1396,I Capture the Castle,Dodie Smith,really liked it 4.00,"59,803",/book/show/31122.I_Capture_the_Castle,https://d2arxad8u2l0g7.cloudfront.net/books/1385316083l/31122.jpg,343,1934
 1397,"Good Night, Mr. Tom",Michelle Magorian,4.26,"27,410",/book/show/161099.Good_Night_Mr_Tom,https://d2arxad8u2l0g7.cloudfront.net/books/1282757902l/161099.jpg,320,1981
 1398,Through the Language Glass: Why the World Looks Different in Other Languages,Guy Deutscher,3.86,"2,750",/book/show/8444621-through-the-language-glass,https://d2arxad8u2l0g7.cloudfront.net/books/1317066228l/8444621.jpg,304,
 1399,Goodnight Moon,Margaret Wise Brown,4.27,"240,658",/book/show/32929.Goodnight_Moon,https://d2arxad8u2l0g7.cloudfront.net/books/1439223893l/32929.jpg,32,
@@ -1452,10 +1452,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1448,Almanac of the Dead,Leslie Marmon Silko,3.95,"2,021",/book/show/52385.Almanac_of_the_Dead,https://d2arxad8u2l0g7.cloudfront.net/books/1386924233l/52385.jpg,768,1991
 1449,A Mirror for Witches,Esther Forbes,3.92,95,/book/show/1042146.A_Mirror_for_Witches,https://d2arxad8u2l0g7.cloudfront.net/books/1396833377l/1042146.jpg,215,1928
 1450,The Slaves of Solitude,Patrick Hamilton,4.07,"1,180",/book/show/176964.The_Slaves_of_Solitude,https://d2arxad8u2l0g7.cloudfront.net/books/1320547784l/176964.jpg,242,1947
-1451,"Self Kindness for Busy, Intelligent Women: 57 Ways to be Kind to Body Mind and Soul: 1",Liz Keaney,3.00,,/book/show/21175332-self-kindness-for-busy-intelligent-women,https://d2arxad8u2l0g7.cloudfront.net/books/1394391272l/21175332.jpg,48,1964
+1451,"Self Kindness for Busy, Intelligent Women: 57 Ways to be Kind to Body Mind and Soul: 1",Liz Keaney,liked it 3.00,,/book/show/21175332-self-kindness-for-busy-intelligent-women,https://d2arxad8u2l0g7.cloudfront.net/books/1394391272l/21175332.jpg,48,1964
 1452,Galileo,Bertolt Brecht,3.71,"5,846",/book/show/64410.Galileo,https://d2arxad8u2l0g7.cloudfront.net/books/1388231215l/64410.jpg,160,1945
 1453,Novel on Yellow Paper,Stevie Smith,3.60,235,/book/show/408704.Novel_on_Yellow_Paper,https://d2arxad8u2l0g7.cloudfront.net/books/1347722652l/408704.jpg,264,1936
-1454,Take It or Leave It,Raymond Federman,4.00,65,/book/show/266753.Take_It_or_Leave_It,https://d2arxad8u2l0g7.cloudfront.net/books/1347314631l/266753.jpg,456,1976
+1454,Take It or Leave It,Raymond Federman,really liked it 4.00,65,/book/show/266753.Take_It_or_Leave_It,https://d2arxad8u2l0g7.cloudfront.net/books/1347314631l/266753.jpg,456,1976
 1455,A Feast of Snakes,Harry Crews,4.02,"2,882",/book/show/24847.A_Feast_of_Snakes,https://d2arxad8u2l0g7.cloudfront.net/books/1388584874l/24847.jpg,192,1976
 1456,Less Than Angels,Barbara Pym,4.01,"1,379",/book/show/587597.Less_Than_Angels,https://d2arxad8u2l0g7.cloudfront.net/books/1348070499l/587597.jpg,256,1955
 1457,Vida,Marge Piercy,3.79,605,/book/show/157544.Vida,https://d2arxad8u2l0g7.cloudfront.net/books/1320479109l/157544.jpg,480,1975
@@ -1466,7 +1466,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1462,"Regeneration (Regeneration, #1)",Pat Barker,4.03,"18,126",/book/show/5872.Regeneration,https://d2arxad8u2l0g7.cloudfront.net/books/1365925619l/5872.jpg,256,1991
 1463,Animal Dreams,Barbara Kingsolver,4.04,"51,459",/book/show/77262.Animal_Dreams,https://d2arxad8u2l0g7.cloudfront.net/books/1421266415l/77262.jpg,342,1990
 1464,,,,,,,,2011
-1465,The Mask of Dimitrios,Eric Ambler,4.00,2,/book/show/30113015-the-mask-of-dimitrios,https://d2arxad8u2l0g7.cloudfront.net/books/1463598484l/30113015.jpg,,1944
+1465,The Mask of Dimitrios,Eric Ambler,really liked it 4.00,2,/book/show/30113015-the-mask-of-dimitrios,https://d2arxad8u2l0g7.cloudfront.net/books/1463598484l/30113015.jpg,,1944
 1466,The Country of the Pointed Firs,Sarah Orne Jewett,3.73,"1,762",/book/show/2347137.The_Country_of_the_Pointed_Firs,https://d2arxad8u2l0g7.cloudfront.net/books/1416475940l/2347137.jpg,224,1896
 1467,Tree of Smoke,Denis Johnson,3.57,"7,411",/book/show/271074.Tree_of_Smoke,https://d2arxad8u2l0g7.cloudfront.net/books/1386924799l/271074.jpg,614,2007
 1468,Morte D'Urban,J.F. Powers,3.91,576,/book/show/133166.Morte_D_Urban,https://d2arxad8u2l0g7.cloudfront.net/books/1320461227l/133166.jpg,360,1962
@@ -1480,7 +1480,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1476,Lady into Fox,David Garnett,3.74,503,/book/show/785371.Lady_into_Fox,https://d2arxad8u2l0g7.cloudfront.net/books/1328694283l/785371.jpg,78,1922
 1477,The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.84,"850,004",/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1327882682l/1618.jpg,226,2003
 1478,If He Hollers Let Him Go,Chester Himes,3.92,"1,279",/book/show/52472.If_He_Hollers_Let_Him_Go,https://d2arxad8u2l0g7.cloudfront.net/books/1388201103l/52472.jpg,224,1945
-1479,Rhinoceros and Other Plays,Eugène Ionesco,4.00,"1,700",/book/show/323823.Rhinoceros_and_Other_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1347454436l/323823.jpg,141,1959
+1479,Rhinoceros and Other Plays,Eugène Ionesco,really liked it 4.00,"1,700",/book/show/323823.Rhinoceros_and_Other_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1347454436l/323823.jpg,141,1959
 1480,"My Brilliant Friend (The Neapolitan Novels, #1)",Elena Ferrante,3.88,"50,279",/book/show/13586707-my-brilliant-friend,https://d2arxad8u2l0g7.cloudfront.net/books/1343064947l/13586707.jpg,331,2011
 1481,Flaubert's Parrot,Julian Barnes,3.68,"8,491",/book/show/2176.Flaubert_s_Parrot,https://d2arxad8u2l0g7.cloudfront.net/books/1400866083l/2176.jpg,190,1984
 1482,Matterhorn,Karl Marlantes,4.28,"22,365",/book/show/6411016-matterhorn,https://d2arxad8u2l0g7.cloudfront.net/books/1431983015l/6411016.jpg,663,2009
@@ -1491,7 +1491,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1487,A Ilustre Casa de Ramires,Eça de Queirós,3.85,693,/book/show/1077813.A_Ilustre_Casa_de_Ramires,https://d2arxad8u2l0g7.cloudfront.net/books/1270000479l/1077813.jpg,312,1900
 1488,The Flight from the Enchanter,Iris Murdoch,3.71,606,/book/show/536119.The_Flight_from_the_Enchanter,https://d2arxad8u2l0g7.cloudfront.net/books/1345767827l/536119.jpg,304,1956
 1489,Eustace and Hilda,L.P. Hartley,3.84,136,/book/show/89915.Eustace_and_Hilda,https://d2arxad8u2l0g7.cloudfront.net/books/1320554768l/89915.jpg,876,1944
-1490,Ray,Barry Hannah,4.00,966,/book/show/93242.Ray,https://d2arxad8u2l0g7.cloudfront.net/books/1382420043l/93242.jpg,128,1980
+1490,Ray,Barry Hannah,really liked it 4.00,966,/book/show/93242.Ray,https://d2arxad8u2l0g7.cloudfront.net/books/1382420043l/93242.jpg,128,1980
 1491,Tripmaster Monkey: His Fake Book,Maxine Hong Kingston,3.48,839,/book/show/85651.Tripmaster_Monkey,https://d2arxad8u2l0g7.cloudfront.net/books/1320548680l/85651.jpg,352,1989
 1492,The Horse Whisperer,Nicholas Evans,3.75,"39,278",/book/show/479415.The_Horse_Whisperer,https://d2arxad8u2l0g7.cloudfront.net/books/1320410310l/479415.jpg,451,1995
 1493,The Golden Gate,Vikram Seth,4.09,"3,087",/book/show/768496.The_Golden_Gate,https://d2arxad8u2l0g7.cloudfront.net/books/1403186046l/768496.jpg,307,1986
@@ -1503,7 +1503,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1499,The Dogs of March,Ernest Hebert,3.54,343,/book/show/23264131-the-dogs-of-march,https://d2arxad8u2l0g7.cloudfront.net/books/1420737494l/23264131.jpg,269,1979
 1500,The Loser,Thomas Bernhard,4.09,"3,665",/book/show/92570.The_Loser,https://d2arxad8u2l0g7.cloudfront.net/books/1320475357l/92570.jpg,190,1983
 1501,The Deceivers,John Masters,4.08,152,/book/show/400011.The_Deceivers,https://d2arxad8u2l0g7.cloudfront.net/books/1317141727l/400011.jpg,320,1952
-1502,"The King Must Die (Theseus, #1)",Mary Renault,4.00,"4,894",/book/show/93941.The_King_Must_Die,https://d2arxad8u2l0g7.cloudfront.net/books/1441457601l/93941.jpg,352,1958
+1502,"The King Must Die (Theseus, #1)",Mary Renault,really liked it 4.00,"4,894",/book/show/93941.The_King_Must_Die,https://d2arxad8u2l0g7.cloudfront.net/books/1441457601l/93941.jpg,352,1958
 1503,Sleeping Beauty,Ross Macdonald,3.89,561,/book/show/371025.Sleeping_Beauty,https://d2arxad8u2l0g7.cloudfront.net/books/1388265736l/371025.jpg,271,1973
 1504,House of Splendid Isolation,Edna O'Brien,3.70,630,/book/show/373131.House_of_Splendid_Isolation,https://d2arxad8u2l0g7.cloudfront.net/books/1442028971l/373131.jpg,240,1994
 1505,Lucy,Jamaica Kincaid,3.71,"4,431",/book/show/69719.Lucy,https://d2arxad8u2l0g7.cloudfront.net/books/1386749240l/69719.jpg,163,1990
@@ -1544,7 +1544,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1540,The Secret Garden,Frances Hodgson Burnett,4.11,"623,317",/book/show/2998.The_Secret_Garden,https://d2arxad8u2l0g7.cloudfront.net/books/1327873635l/2998.jpg,331,1911
 1541,"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor,3.78,"92,399",/book/show/310459.Roll_of_Thunder_Hear_My_Cry,https://d2arxad8u2l0g7.cloudfront.net/books/1388345167l/310459.jpg,288,1976
 1542,Nightwood,Djuna Barnes,3.71,"5,848",/book/show/53101.Nightwood,https://d2arxad8u2l0g7.cloudfront.net/books/1298480120l/53101.jpg,182,1936
-1543,"The Lord Peter Wimsey Radio Dramas: Eight Full-Cast BBC Radio Dramatizations: Gaudy Night, The Nine Tailors, Murder Must Advertise, Busman’s Honeymoon, The Unpleasantness at the Bellona Club, Five Red Herrings, Clouds of Witness, Unnatural Death",Dorothy L. Sayers,4.00,10,/book/show/11532856-the-lord-peter-wimsey-radio-dramas,https://d2arxad8u2l0g7.cloudfront.net/books/1328737066l/11532856.jpg,0,1937
+1543,"The Lord Peter Wimsey Radio Dramas: Eight Full-Cast BBC Radio Dramatizations: Gaudy Night, The Nine Tailors, Murder Must Advertise, Busman’s Honeymoon, The Unpleasantness at the Bellona Club, Five Red Herrings, Clouds of Witness, Unnatural Death",Dorothy L. Sayers,really liked it 4.00,10,/book/show/11532856-the-lord-peter-wimsey-radio-dramas,https://d2arxad8u2l0g7.cloudfront.net/books/1328737066l/11532856.jpg,0,1937
 1544,The Counterlife,Philip Roth,3.90,"2,847",/book/show/11655.The_Counterlife,https://d2arxad8u2l0g7.cloudfront.net/books/1327936114l/11655.jpg,336,1986
 1545,Operation Shylock: A Confession,Philip Roth,3.77,"2,809",/book/show/12881.Operation_Shylock,https://d2arxad8u2l0g7.cloudfront.net/books/1348763213l/12881.jpg,400,1993
 1546,Always Coming Home,Ursula K. Le Guin,3.95,"1,977",/book/show/201901.Always_Coming_Home,https://d2arxad8u2l0g7.cloudfront.net/books/1386919467l/201901.jpg,525,1985
@@ -1553,7 +1553,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1549,Sugar Street,Naguib Mahfouz,4.18,"3,755",/book/show/5492.Sugar_Street,https://d2arxad8u2l0g7.cloudfront.net/books/1327881827l/5492.jpg,320,1957
 1550,Palace Walk,Naguib Mahfouz,4.12,"9,202",/book/show/762134.Palace_Walk,https://d2arxad8u2l0g7.cloudfront.net/books/1327882172l/762134.jpg,501,1956
 1551,Riddley Walker,Russell Hoban,4.03,"5,245",/book/show/776573.Riddley_Walker,https://d2arxad8u2l0g7.cloudfront.net/books/1383166398l/776573.jpg,256,1980
-1552,Portrait of an Artist with 26 Horses: Empty-Grave Vanilla Edition,William Eastlake,4.00,,/book/show/24497998-portrait-of-an-artist-with-26-horses,https://d2arxad8u2l0g7.cloudfront.net/books/1421253189l/24497998.jpg,210,1962
+1552,Portrait of an Artist with 26 Horses: Empty-Grave Vanilla Edition,William Eastlake,really liked it 4.00,,/book/show/24497998-portrait-of-an-artist-with-26-horses,https://d2arxad8u2l0g7.cloudfront.net/books/1421253189l/24497998.jpg,210,1962
 1553,A Patchwork Planet,Anne Tyler,3.78,"10,066",/book/show/40020.A_Patchwork_Planet,https://d2arxad8u2l0g7.cloudfront.net/books/1388190534l/40020.jpg,320,1998
 1554,The Bronc People,William Eastlake,4.35,20,/book/show/2625577-the-bronc-people,https://d2arxad8u2l0g7.cloudfront.net/books/1238281289l/2625577.jpg,254,1958
 1555,Go in Beauty,William Eastlake,4.41,17,/book/show/789392.Go_in_Beauty,,286,1956
@@ -1680,7 +1680,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1676,Under Satan's Sun,Georges Bernanos,3.61,267,/book/show/364143.Under_Satan_s_Sun,https://d2arxad8u2l0g7.cloudfront.net/books/1328818834l/364143.jpg,257,1926
 1677,The Sandman: Overture,Neil Gaiman,3.93,"43,538",/book/show/18310944-the-sandman,https://d2arxad8u2l0g7.cloudfront.net/books/1444878181l/18310944.jpg,224,1991
 1678,The Joke,Milan Kundera,3.97,"18,469",/book/show/26114.The_Joke,https://d2arxad8u2l0g7.cloudfront.net/books/1448044837l/26114.jpg,371,1967
-1679,"3 Novels: The Conformist, A Ghost At Noon, The Fancy Dress Party",Alberto Moravia,4.00,11,/book/show/674828.3_Novels,,,1954
+1679,"3 Novels: The Conformist, A Ghost At Noon, The Fancy Dress Party",Alberto Moravia,really liked it 4.00,11,/book/show/674828.3_Novels,,,1954
 1680,Ghost Girl,Torey L. Hayden,4.12,"7,035",/book/show/76423.Ghost_Girl,https://d2arxad8u2l0g7.cloudfront.net/books/1386924696l/76423.jpg,307,2007
 1681,Aurélien,Louis Aragon,4.16,375,/book/show/379107.Aur_lien,https://d2arxad8u2l0g7.cloudfront.net/books/1174317824l/379107.jpg,811,1944
 1682,Waiting to Exhale,Terry McMillan,3.93,"11,485",/book/show/122212.Waiting_to_Exhale,https://d2arxad8u2l0g7.cloudfront.net/books/1309282766l/122212.jpg,448,1995
@@ -1709,7 +1709,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1705,The Powerbook,Jeanette Winterson,3.63,"3,511",/book/show/50653.The_Powerbook,https://d2arxad8u2l0g7.cloudfront.net/books/1170370867l/50653.jpg,244,2002
 1706,The Martian Chronicles,Ray Bradbury,4.11,"138,137",/book/show/76778.The_Martian_Chronicles,https://d2arxad8u2l0g7.cloudfront.net/books/1374049948l/76778.jpg,182,1950
 1707,The Ravishing of Lol Stein,Marguerite Duras,3.70,"1,946",/book/show/280.The_Ravishing_of_Lol_Stein,https://d2arxad8u2l0g7.cloudfront.net/books/1367749732l/280.jpg,181,1964
-1708,The Interrogators,Brooklen Borne,4.00,3,/book/show/17827471-the-interrogators,,114,1963
+1708,The Interrogators,Brooklen Borne,really liked it 4.00,3,/book/show/17827471-the-interrogators,,114,1963
 1709,"Blind Willow, Sleeping Woman",Haruki Murakami,3.83,"21,248",/book/show/9833.Blind_Willow_Sleeping_Woman,https://d2arxad8u2l0g7.cloudfront.net/books/1388789153l/9833.jpg,352,2006
 1710,Tropisms and The Age of Suspicion (Calderbooks),Nathalie Sarraute,3.93,15,/book/show/761302.Tropisms_and_The_Age_of_Suspicion,https://d2arxad8u2l0g7.cloudfront.net/books/1239755735l/761302.jpg,0,1939
 1711,War Music: An Account of Homer's Iliad,Christopher Logue,4.67,45,/book/show/25666078-war-music,https://d2arxad8u2l0g7.cloudfront.net/books/1444635123l/25666078.jpg,352,2009
@@ -1717,7 +1717,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1713,A Sight for Sore Eyes,Ruth Rendell,3.81,"2,762",/book/show/83410.A_Sight_for_Sore_Eyes,https://d2arxad8u2l0g7.cloudfront.net/books/1341035200l/83410.jpg,384,1998
 1714,,,,,,,,2009
 1715,"Bright Lights, Big City",Jay McInerney,3.73,"20,176",/book/show/86147.Bright_Lights_Big_City,https://d2arxad8u2l0g7.cloudfront.net/books/1399647015l/86147.jpg,208,1984
-1716,The General of the Dead Army,Ismail Kadare,4.00,"1,554",/book/show/223666.The_General_of_the_Dead_Army,https://d2arxad8u2l0g7.cloudfront.net/books/1358748734l/223666.jpg,256,1963
+1716,The General of the Dead Army,Ismail Kadare,really liked it 4.00,"1,554",/book/show/223666.The_General_of_the_Dead_Army,https://d2arxad8u2l0g7.cloudfront.net/books/1358748734l/223666.jpg,256,1963
 1717,The Emperor's Children,Claire Messud,2.92,"16,833",/book/show/3648.The_Emperor_s_Children,https://d2arxad8u2l0g7.cloudfront.net/books/1320497348l/3648.jpg,431,2006
 1718,"Go Down, Moses",William Faulkner,3.93,"7,317",/book/show/17726.Go_Down_Moses,https://d2arxad8u2l0g7.cloudfront.net/books/1388191655l/17726.jpg,365,1942
 1719,Born Yesterday: The News As A Novel,Gordon Burn,3.24,79,/book/show/3132882-born-yesterday,https://d2arxad8u2l0g7.cloudfront.net/books/1329679648l/3132882.jpg,214,2008
@@ -1728,7 +1728,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1724,The Golden Apples,Eudora Welty,3.93,736,/book/show/12589.The_Golden_Apples,https://d2arxad8u2l0g7.cloudfront.net/books/1405911117l/12589.jpg,288,1949
 1725,A Home at the End of the World,Michael Cunningham,3.88,"13,892",/book/show/2137.A_Home_at_the_End_of_the_World,https://d2arxad8u2l0g7.cloudfront.net/books/1442779849l/2137.jpg,342,1990
 1726,"Gunpowder Green (A Tea Shop Mystery, #2)",Laura Childs,3.84,"3,238",/book/show/222949.Gunpowder_Green,https://d2arxad8u2l0g7.cloudfront.net/books/1388279660l/222949.jpg,244,1948
-1727,In Ruins,Danielle Pearl,5.00,4,/book/show/28963779-in-ruins,https://d2arxad8u2l0g7.cloudfront.net/books/1459114238l/28963779.jpg,400,2006
+1727,In Ruins,Danielle Pearl,it was amazing 5.00,4,/book/show/28963779-in-ruins,https://d2arxad8u2l0g7.cloudfront.net/books/1459114238l/28963779.jpg,400,2006
 1728,"Everything Ravaged, Everything Burned",Wells Tower,3.85,"6,678",/book/show/4291946-everything-ravaged-everything-burned,https://d2arxad8u2l0g7.cloudfront.net/books/1312001821l/4291946.jpg,256,2009
 1729,That They May Face The Rising Sun,John McGahern,3.95,"1,350",/book/show/79930.That_They_May_Face_The_Rising_Sun,https://d2arxad8u2l0g7.cloudfront.net/books/1408925153l/79930.jpg,304,2001
 1730,Close Range,Annie Proulx,3.99,"11,453",/book/show/27999.Close_Range,https://d2arxad8u2l0g7.cloudfront.net/books/1442895695l/27999.jpg,285,1999
@@ -1817,7 +1817,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1813,Spies,Michael Frayn,3.52,"3,363",/book/show/287022.Spies,https://d2arxad8u2l0g7.cloudfront.net/books/1347813589l/287022.jpg,234,2002
 1814,Saville,David Storey,3.37,507,/book/show/171833.Saville,https://d2arxad8u2l0g7.cloudfront.net/books/1374712336l/171833.jpg,597,1976
 1815,The Spirit Level,Seamus Heaney,4.13,649,/book/show/181946.The_Spirit_Level,https://d2arxad8u2l0g7.cloudfront.net/books/1348810527l/181946.jpg,70,1996
-1816,Soldiers in Hiding,Richard Wiley,4.00,28,/book/show/853260.Soldiers_in_Hiding,https://d2arxad8u2l0g7.cloudfront.net/books/1328861840l/853260.jpg,200,1987
+1816,Soldiers in Hiding,Richard Wiley,really liked it 4.00,28,/book/show/853260.Soldiers_in_Hiding,https://d2arxad8u2l0g7.cloudfront.net/books/1328861840l/853260.jpg,200,1987
 1817,Mao II,Don DeLillo,3.68,"7,261",/book/show/402.Mao_II,https://d2arxad8u2l0g7.cloudfront.net/books/1388194999l/402.jpg,254,1991
 1818,Ship Fever: Stories,Andrea Barrett,4.04,"2,732",/book/show/92267.Ship_Fever,https://d2arxad8u2l0g7.cloudfront.net/books/1379901077l/92267.jpg,256,1995
 1819,The Comforts Of Madness,Paul Sayer,3.70,160,/book/show/1431654.The_Comforts_Of_Madness,https://d2arxad8u2l0g7.cloudfront.net/books/1394327333l/1431654.jpg,,1988
@@ -1932,7 +1932,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1928,Dangerous Laughter,Steven Millhauser,3.81,"1,794",/book/show/1540810.Dangerous_Laughter,https://d2arxad8u2l0g7.cloudfront.net/books/1437485127l/1540810.jpg,244,2008
 ,Playing with Fire,Tess Gerritsen,3.89,"6,447",/book/show/25177983-playing-with-fire,https://d2arxad8u2l0g7.cloudfront.net/books/1426804837l/25177983.jpg,250,1684
 ,The Complete Plays of Jean Racine,Jean Racine,0.00,0,/book/show/23345067-the-complete-plays-of-jean-racine,https://d2arxad8u2l0g7.cloudfront.net/books/1412812997l/23345067.jpg,486,1699
-,Works of Molière.,Molière,5.00,,/book/show/8535297-works-of-moli-re,https://d2arxad8u2l0g7.cloudfront.net/books/1278205133l/8535297.jpg,0,1673
+,Works of Molière.,Molière,it was amazing 5.00,,/book/show/8535297-works-of-moli-re,https://d2arxad8u2l0g7.cloudfront.net/books/1278205133l/8535297.jpg,0,1673
 ,The Human Comedy: Selected Stories,Honoré de Balzac,4.05,149,/book/show/17834880-the-human-comedy,https://d2arxad8u2l0g7.cloudfront.net/books/1390487996l/17834880.jpg,428,1845
 ,,,,,,,,1906
 ,Selected Plays: Mrs. Warren's Profession / Caesar and Cleopatra / Man and Superman / Major Barbara / Heartbreak House / Pygmalion,George Bernard Shaw,3.92,26,/book/show/7701.Selected_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1328021728l/7701.jpg,0,1950
