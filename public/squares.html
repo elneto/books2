@@ -32,12 +32,16 @@
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
+var size_square = 4;
+
 var width = 960,
     height = 500;
 
+
+
 var svg = d3.select("#theviz").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+    .attr("width", width*size_square)
+    .attr("height", height*size_square);
 
 var x = d3.scale.linear()
     .range([0, width]);
@@ -62,10 +66,10 @@ var tt = d3.select("#tooltip");
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) { return x(d.pages); })
-      .attr("width", 8)
-      .attr("y", function(d) { return y(d.avg_rating); })
-      .attr("height", 8)
+      .attr("x", function(d) { return x(d.pages)*(size_square+1); })
+      .attr("width", size_square)
+      .attr("y", function(d) { return y(d.avg_rating)*(size_square+1); })
+      .attr("height", size_square)
       .on("mouseover", function(d){ 
           showTooltip(d, this, event.pageX, event.pageY);
         });
