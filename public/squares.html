@@ -6,6 +6,8 @@
   margin: 0 1px 1px 0;
   /*fill: #eee;*/
   fill:steelblue;
+  stroke:lightgray;
+  stroke-width:1;
 }
 
 .square:hover {
@@ -32,7 +34,7 @@
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
-var size_square = 4;
+var size_square = 8;
 
 var width = 960,
     height = 500;
@@ -51,8 +53,8 @@ var y = d3.scale.linear()
 
 var tt = d3.select("#tooltip");
 
-//d3.csv("onfs1.csv", function(error, data) {
-	d3.csv("output_corregido.csv", function(error, data) {
+d3.csv("both.csv", function(error, data) {
+	//d3.csv("output_corregido.csv", function(error, data) {
 
 	data.forEach(function(d) {
     d.pages = +d.pages;
