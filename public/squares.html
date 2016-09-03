@@ -68,9 +68,9 @@ d3.csv("both.csv", function(error, data) {
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) { return x(d.pages)*(size_square+1); })
+      .attr("x", function(d) { return x(d.pages)*(size_square*size_square/2); })
       .attr("width", size_square)
-      .attr("y", function(d) { return y(d.avg_rating)*(size_square+1); })
+      .attr("y", function(d) { return y(d.avg_rating)*(size_square); })
       .attr("height", size_square)
       .on("mouseover", function(d){ 
           showTooltip(d, this, event.pageX, event.pageY);
