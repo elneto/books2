@@ -3,10 +3,8 @@
 <title>Books Grid</title>
 <style>
 .square {
-  margin: 0 1px 1px 0;
-  /*fill: #eee;*/
-  fill:steelblue;
-  stroke:lightgray;
+  fill:lightgray;
+  stroke:white;
   stroke-width:1;
 }
 
@@ -32,7 +30,8 @@
 	  </div>
 	</div>
 
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="js/d3.v3.min.js"></script>
+<script src="js/chroma.min.js"></script>
 <script>
 var size_square = 7;
 
@@ -51,6 +50,9 @@ var x = d3.scale.linear()
 var y = d3.scale.linear()
     .range([height, 0]);
 
+var cs = d3.scale.linear(); //default scale 0,1
+var color_scale = chroma.scale(['lightgray', 'red']);
+
 var tt = d3.select("#tooltip");
 
 d3.csv("both.csv", function(error, data) {
@@ -59,10 +61,13 @@ d3.csv("both.csv", function(error, data) {
 	data.forEach(function(d) {
     d.pages = +d.pages;
     d.avg_rating = +d.avg_rating;
+    if (typeof d.ratings !== "undefined")
+    	d.ratings = parseInt(d.ratings.replace(/\,/g,'')); //remove commas
   });
 
 	y.domain([0,5]);
 	x.domain([0,d3.max(data, function(d) { return d.pages; })]);
+	cs.domain([0,d3.max(data, function(d) { return d.ratings; })]);
 
 	svg.selectAll(".square")
       .data(data)
@@ -72,6 +77,7 @@ d3.csv("both.csv", function(error, data) {
       .attr("width", size_square)
       .attr("y", function(d) { return y(d.avg_rating)*(size_square); })
       .attr("height", size_square)
+      .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
           showTooltip(d, this, event.pageX, event.pageY);
         });
