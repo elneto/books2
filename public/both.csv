@@ -516,7 +516,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 513,A Death in the Family,James Agee,3.92,"10,785",/book/show/113091.A_Death_in_the_Family,https://d2arxad8u2l0g7.cloudfront.net/books/1327885315l/113091.jpg,320,1957
 514,The Wings of the Dove,Henry James,3.80,"12,620",/book/show/124272.The_Wings_of_the_Dove,https://d2arxad8u2l0g7.cloudfront.net/books/1320514843l/124272.jpg,741,1902
 515,Disgrace,Barbara Hulanicki,3.33,3,/book/show/11966026-disgrace,https://d2arxad8u2l0g7.cloudfront.net/books/1309976749l/11966026.jpg,279,1999
-516,A Study Guide to Isaac Bashevis Singer's Gimpel the Fool,The Gale Group,5.00,,/book/show/31170822-a-study-guide-to-isaac-bashevis-singer-s-gimpel-the-fool,https://d2arxad8u2l0g7.cloudfront.net/books/1468921702l/31170822.jpg,20,1957
+516,Gimpel the Fool and Other Stories,Isaac Bashevis Singer,4.18,1541,/book/show/28948.Gimpel_the_Fool_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1388711630l/28948.jpg,224,1957
 517,"Gilead (Gilead, #1)",Marilynne Robinson,3.83,"51,771",/book/show/68210.Gilead,https://d2arxad8u2l0g7.cloudfront.net/books/1451555787l/68210.jpg,247,2004
 518,The Joy Luck Club,Amy Tan,3.89,"501,175",/book/show/7763.The_Joy_Luck_Club,https://d2arxad8u2l0g7.cloudfront.net/books/1304978653l/7763.jpg,288,1989
 519,A Separate Peace,John Knowles,3.56,"153,575",/book/show/5148.A_Separate_Peace,https://d2arxad8u2l0g7.cloudfront.net/books/1439235282l/5148.jpg,204,1959
@@ -1170,7 +1170,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1166,Rubyfruit Jungle,Rita Mae Brown,3.87,"22,075",/book/show/165395.Rubyfruit_Jungle,https://d2arxad8u2l0g7.cloudfront.net/books/1172341177l/165395.jpg,246,1973
 1167,Corelli's Mandolin,Louis de Bernières,3.93,"60,818",/book/show/3388.Corelli_s_Mandolin,https://d2arxad8u2l0g7.cloudfront.net/books/1348084136l/3388.jpg,437,1993
 1168,The Education of Little Tree,Forrest Carter,4.08,"11,070",/book/show/116236.The_Education_of_Little_Tree,https://d2arxad8u2l0g7.cloudfront.net/books/1348789987l/116236.jpg,216,1976
-1169,Fifty Shades of Grey: Infedility: Fifty Shades of Grey movie and trilogy novel,Ethan Grey,4.80,5,/book/show/24721645-fifty-shades-of-grey,https://d2arxad8u2l0g7.cloudfront.net/books/1422418985l/24721645.jpg,,2011
+1169,Fifty Shades of Grey,E.L. James,3.68,"1,364,235",/book/show/10818853-fifty-shades-of-grey,https://d2arxad8u2l0g7.cloudfront.net/books/1385207843l/10818853.jpg,356,2011
 1170,The Help,Kathryn Stockett,4.45,"1,403,389",/book/show/4667024-the-help,https://d2arxad8u2l0g7.cloudfront.net/books/1346100365l/4667024.jpg,444,2009
 1171,The Dyskolos,Menander,3.06,179,/book/show/168486.The_Dyskolos,https://d2arxad8u2l0g7.cloudfront.net/books/1266487343l/168486.jpg,70,-316
 1172,Birdsong,Sebastian Faulks,4.05,"51,211",/book/show/6259.Birdsong,https://d2arxad8u2l0g7.cloudfront.net/books/1349952101l/6259.jpg,483,1993
@@ -2057,7 +2057,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 115,Words of Silk,Sandra Brown,3.54,"2,586",/book/show/30357.Words_of_Silk,https://d2arxad8u2l0g7.cloudfront.net/books/1388175616l/30357.jpg,224,1963
 116,The Varieties of Religious Experience,William James,4.06,"7,427",/book/show/28820.The_Varieties_of_Religious_Experience,https://d2arxad8u2l0g7.cloudfront.net/books/1167956957l/28820.jpg,519,1902
 117,Up from Slavery,Booker T. Washington,4.06,"14,755",/book/show/827685.Up_from_Slavery,https://d2arxad8u2l0g7.cloudfront.net/books/1178732859l/827685.jpg,256,1901
-118,The Feynman Lectures on Physics Vols 7-8,Richard Feynman,4.84,19,/book/show/17277.The_Feynman_Lectures_on_Physics_Vols_7_8,https://d2arxad8u2l0g7.cloudfront.net/books/1348995054l/17277.jpg,0,1995
+118,The Feynman Lectures on Physics,Richard Feynman,4.58,5408,/book/show/5546.The_Feynman_Lectures_on_Physics,https://d2arxad8u2l0g7.cloudfront.net/books/1433168047l/5546.jpg,1552,1995
 119,Slouching Towards Bethlehem,Joan Didion,4.24,"17,256",/book/show/424.Slouching_Towards_Bethlehem,https://d2arxad8u2l0g7.cloudfront.net/books/1327952074l/424.jpg,238,1968
 120,A Dictionary of the English Language: an Anthology,Samuel Johnson,4.20,101,/book/show/765557.A_Dictionary_of_the_English_Language,https://d2arxad8u2l0g7.cloudfront.net/books/1311702101l/765557.jpg,704,1755
 121,An Essay Concerning Human Understanding,John Locke,3.81,"11,100",/book/show/90078.An_Essay_Concerning_Human_Understanding,https://d2arxad8u2l0g7.cloudfront.net/books/1416179522l/90078.jpg,384,1690
