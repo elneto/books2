@@ -11,19 +11,36 @@ import argparse
 import urllib2
 from bs4 import BeautifulSoup
 
+def comillas(string):
+	if string.find(',') != -1:
+		return '"'+string+'"'
+	else:
+		return string
+
 parser = argparse.ArgumentParser()
 parser.add_argument("url", help="url to crawl")
 args = parser.parse_args()
 
 sopa = BeautifulSoup(urllib2.urlopen(args.url).read())
 title = sopa.find("h1", {"id": "bookTitle"}).get_text().strip()
+title = comillas(title)
 author = sopa.find("a", {"class": "authorName"}).span.get_text()
-img = sopa.find("img", {"id": "coverImage"})['src']
+author = comillas(author)
+img = sopa.find("img", {"id": "coverImage"})
+if img is not None:
+	img = img['src']
+else:
+	img = 'img/nopic.png'
 rating = sopa.find("span", {"itemprop": "ratingValue"}).get_text()
 ratings = sopa.find("span", {"itemprop": "ratingCount"})['title']
+ratings = comillas(ratings)
 parts_url = args.url.split('/')
 part_url = parts_url[len(parts_url)-1]
-pages = sopa.find("span", {"itemprop": "numberOfPages"}).get_text()[:-6]
+pages = sopa.find("span", {"itemprop": "numberOfPages"})
+if pages is not None:
+	pages = pages.get_text()[:-6]
+else:
+	pages = "0"
 
 print title+','+author+','+rating+','+ratings+','+part_url+','+img+','+pages+','
 
