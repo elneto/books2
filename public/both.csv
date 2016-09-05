@@ -835,7 +835,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 831,Alcestis and Electra,Theodore Alois Buckley,0.00,0,30560440-alcestis-and-electra,,96,-438
 832,Los años con Laura Díaz,Carlos Fuentes,3.78,790,59425.Los_a_os_con_Laura_D_az,https://d2arxad8u2l0g7.cloudfront.net/books/1389317662l/59425.jpg,648,1999
 833,Happy Moscow,Andrei Platonov,3.85,401,341711.Happy_Moscow,https://d2arxad8u2l0g7.cloudfront.net/books/1173894797l/341711.jpg,153,
-834,,,,,,,,1972
+834,La saga/fuga de J. B.,Gonzalo Torrente Ballester,4.24,152,61714.La_saga_fuga_de_J_B_,https://d2arxad8u2l0g7.cloudfront.net/books/1170592775l/61714.jpg,585,1972
 835,Wo cheng,西西 (Xi Xi),4.17,6,3089813-wo-cheng,,,
 836,The Stone Raft,José Saramago,3.79,"4,328",29565.The_Stone_Raft,https://d2arxad8u2l0g7.cloudfront.net/books/1348652119l/29565.jpg,272,1986
 837,Book of Songs,Associated Harvard Clubs,0.00,0,29137535-book-of-songs,,44,1937
@@ -851,7 +851,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 847,"The Collected Works, Vol. 2: The Plays",W.B. Yeats,4.12,52,303748.The_Collected_Works_Vol_2,https://d2arxad8u2l0g7.cloudfront.net/books/1348654789l/303748.jpg,960,1939
 848,Another Country,Rosie Scott,3.67,3,2667619-another-country,,127,1984
 849,The Stechlin,Theodor Fontane,3.81,289,1493972.The_Stechlin,https://d2arxad8u2l0g7.cloudfront.net/books/1305576167l/1493972.jpg,340,1899
-850,,,,,,,,1926
+850,Bertolt Brecht: Geschichten vom Herrn Keuner,Dieter Wöhrle,4.40,20,152995.Bertolt_Brecht,img/nopic.png,119,1926
 851,Fatelessness,Imre Kertész,4.03,"4,823",318335.Fatelessness,https://d2arxad8u2l0g7.cloudfront.net/books/1348898439l/318335.jpg,262,1975
 852,The Reader,Bernhard Schlink,3.72,"131,227",101299.The_Reader,https://d2arxad8u2l0g7.cloudfront.net/books/1327936339l/101299.jpg,216,1995
 853,Story of the Eye,Georges Bataille,3.73,"9,764",436806.Story_of_the_Eye,https://d2arxad8u2l0g7.cloudfront.net/books/1435465074l/436806.jpg,103,1928
@@ -946,7 +946,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 942,The Beautiful and Damned,F. Scott Fitzgerald,3.75,"29,863",4708.The_Beautiful_and_Damned,https://d2arxad8u2l0g7.cloudfront.net/books/1347567298l/4708.jpg,422,1922
 943,The Baron in the Trees,Italo Calvino,4.05,"16,422",9804.The_Baron_in_the_Trees,https://d2arxad8u2l0g7.cloudfront.net/books/1344432724l/9804.jpg,217,1957
 944,The Days of His Grace: A Novel,Eyvind Johnson,3.80,49,1078699.The_Days_of_His_Grace,https://d2arxad8u2l0g7.cloudfront.net/books/1387205393l/1078699.jpg,319,1960
-945,,,,,,,,1948
+945,Vägen till Klockrike,Harry Martinson,3.84,130,7093665-v-gen-till-klockrike,https://d2arxad8u2l0g7.cloudfront.net/books/1351530043l/7093665.jpg,243,1948
 946,The Wind on the Moon,Eric Linklater,3.93,522,49048.The_Wind_on_the_Moon,https://d2arxad8u2l0g7.cloudfront.net/books/1386924429l/49048.jpg,376,1944
 947,Hemsöborna,August Strindberg,3.32,"1,086",1808775.Hems_borna,https://d2arxad8u2l0g7.cloudfront.net/books/1334942552l/1808775.jpg,197,1887
 948,Stockholm Series V: City in the World,Per Anders Fogelström,3.33,3,28946279-stockholm-series-v,https://d2arxad8u2l0g7.cloudfront.net/books/1454764391l/28946279.jpg,330,1960
@@ -958,7 +958,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 954,The Unknown Soldier,Väinö Linna,3.96,"2,466",422728.The_Unknown_Soldier,https://d2arxad8u2l0g7.cloudfront.net/books/1359743681l/422728.jpg,338,1954
 955,The Serious Game,Hjalmar Söderberg,3.95,"1,462",551028.The_Serious_Game,https://d2arxad8u2l0g7.cloudfront.net/books/1353574207l/551028.jpg,240,1912
 956,The Red Room,Joan Barbara Simon,4.50,2,7374424-the-red-room,https://d2arxad8u2l0g7.cloudfront.net/books/1348832791l/7374424.jpg,172,1879
-957,,,,,,,,1937
+957,Bokhandlaren som slutade bada,Fritiof Nilsson Piraten,3.62,32,3908118-bokhandlaren-som-slutade-bada,https://d2arxad8u2l0g7.cloudfront.net/books/1368971281l/3908118.jpg,282,1937
 958,Dance of the Dwarfs,Geoffrey Household,3.65,92,102052.Dance_of_the_Dwarfs,https://d2arxad8u2l0g7.cloudfront.net/books/1171484345l/102052.jpg,160,1945
 959,"The Emigrants (The Emigrants, #1)",Vilhelm Moberg,4.16,"2,685",165035.The_Emigrants,https://d2arxad8u2l0g7.cloudfront.net/books/1388243146l/165035.jpg,400,1949
 960,Doctor Glas,Hjalmar Söderberg,3.89,"3,624",789497.Doctor_Glas,https://d2arxad8u2l0g7.cloudfront.net/books/1320478015l/789497.jpg,156,1905
@@ -970,7 +970,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 966,The Long Ships,Frans G. Bengtsson,4.28,"3,773",438452.The_Long_Ships,https://d2arxad8u2l0g7.cloudfront.net/books/1348457477l/438452.jpg,477,1941
 967,Simon and the Oaks,Marianne Fredriksson,3.75,"1,294",232822.Simon_and_the_Oaks,https://d2arxad8u2l0g7.cloudfront.net/books/1423999832l/232822.jpg,357,1985
 968,The Christmas Oratorio,Göran Tunström,3.93,321,690708.The_Christmas_Oratorio,https://d2arxad8u2l0g7.cloudfront.net/books/1267628949l/690708.jpg,352,
-969,,,,,,,,1926
+969,Alberta and Jacob (The Alberta Trilogy #1),Cora Sandel,3.99,239,1853673.Alberta_and_Jacob,https://d2arxad8u2l0g7.cloudfront.net/books/1238379304l/1853673.jpg,247,1926
 970,The Czar's Madman,Jaan Kross,3.87,873,445180.The_Czar_s_Madman,https://d2arxad8u2l0g7.cloudfront.net/books/1348407083l/445180.jpg,349,1978
 971,The Lost Steps,Alejo Carpentier,3.93,"1,742",59503.The_Lost_Steps,https://d2arxad8u2l0g7.cloudfront.net/books/1389922602l/59503.jpg,296,
 972,"Mio, My Son",Astrid Lindgren,4.10,"7,120",181087.Mio_My_Son,https://d2arxad8u2l0g7.cloudfront.net/books/1388962567l/181087.jpg,178,1954
@@ -1292,7 +1292,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1288,Candida,George Bernard Shaw,3.63,"1,409",418373.Candida,https://d2arxad8u2l0g7.cloudfront.net/books/1349070353l/418373.jpg,112,1894
 1289,Burr,Gore Vidal,4.06,"5,814",8722.Burr,https://d2arxad8u2l0g7.cloudfront.net/books/1403176864l/8722.jpg,430,1973
 1290,The German Lesson,Siegfried Lenz,4.07,"1,487",287505.The_German_Lesson,https://d2arxad8u2l0g7.cloudfront.net/books/1353183560l/287505.jpg,470,1968
-1291,,,,,,,,1976
+1291,The Pushcart Prize,Bill Henderson,4.43,7,665445.The_Pushcart_Prize,https://d2arxad8u2l0g7.cloudfront.net/books/1348969032l/665445.jpg,606,1976
 1292,The Collected Poems of Frank O'Hara,Frank O'Hara,4.35,"4,135",139864.The_Collected_Poems_of_Frank_O_Hara,https://d2arxad8u2l0g7.cloudfront.net/books/1347596130l/139864.jpg,586,1971
 1293,"Novels by Isaac Bashevis Singer: Enemies, a Love Story, Satan in Goray, the Certificate, Shadows on the Hudson, the Family Moskat",Books LLC,4.43,7,9202740-novels-by-isaac-bashevis-singer,https://d2arxad8u2l0g7.cloudfront.net/books/1349032396l/9202740.jpg,18,1957
 1294,Nathan the Wise,Gotthold Ephraim Lessing,0.00,0,30097240-nathan-the-wise,,218,1779
@@ -1306,7 +1306,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1302,Wilhelm Meister's Apprenticeship,Johann Wolfgang von Goethe,3.76,"1,618",376160.Wilhelm_Meister_s_Apprenticeship,https://d2arxad8u2l0g7.cloudfront.net/books/1392265397l/376160.jpg,396,1796
 1303,The Clown,Heinrich Böll,4.06,"12,019",69091.The_Clown,https://d2arxad8u2l0g7.cloudfront.net/books/1449680007l/69091.jpg,272,1963
 1304,Vile Bodies,Evelyn Waugh,3.83,"8,817",142492.Vile_Bodies,https://d2arxad8u2l0g7.cloudfront.net/books/1344264747l/142492.jpg,322,1930
-1305,,,,,,,,1985
+1305,Betty Blue,Philippe Djian,4.08,1325,207402.Betty_Blue,https://d2arxad8u2l0g7.cloudfront.net/books/1421011201l/207402.jpg,352,1985
 1306,"From Russia With Love (James Bond, #5)",Ian Fleming,3.88,"20,703",3764.From_Russia_With_Love,https://d2arxad8u2l0g7.cloudfront.net/books/1440169210l/3764.jpg,259,1957
 1307,Thank You and Other poems,Kenneth Koch,4.46,50,1157091.Thank_You_and_Other_poems,https://d2arxad8u2l0g7.cloudfront.net/books/1274901592l/1157091.jpg,95,1962
 1308,The Subterraneans,Jack Kerouac,3.68,"10,744",330760.The_Subterraneans,https://d2arxad8u2l0g7.cloudfront.net/books/1428958819l/330760.jpg,128,1958
@@ -1418,7 +1418,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1414,"The End (A Series of Unfortunate Events, #13)",Lemony Snicket,3.98,"61,827",65112.The_End,https://d2arxad8u2l0g7.cloudfront.net/books/1441565208l/65112.jpg,337,
 1415,Selected Poems: 1965-1975,Margaret Atwood,4.17,"1,208",17648.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1382943038l/17648.jpg,240,1975
 1416,Bread Givers,Anzia Yezierska,3.67,"3,609",3637.Bread_Givers,https://d2arxad8u2l0g7.cloudfront.net/books/1347803372l/3637.jpg,336,
-1417,,,,,,,,1987
+1417,Knots and Crosses (Inspector Rebus #1),Ian Rankin,3.83,25473,634407.Knots_and_Crosses,https://d2arxad8u2l0g7.cloudfront.net/books/1388781809l/634407.jpg,228,1987
 1418,Valley of the Dolls,Jacqueline Susann,3.68,"32,000",581811.Valley_of_the_Dolls,https://d2arxad8u2l0g7.cloudfront.net/books/1429239923l/581811.jpg,448,
 1419,The Pearl,John Steinbeck,3.37,"129,320",5308.The_Pearl,https://d2arxad8u2l0g7.cloudfront.net/books/1437234939l/5308.jpg,96,1947
 1420,Hard Times,Charles Dickens,3.49,"38,042",5344.Hard_Times,https://d2arxad8u2l0g7.cloudfront.net/books/1348651243l/5344.jpg,353,1854
@@ -1460,12 +1460,12 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1456,Less Than Angels,Barbara Pym,4.01,"1,379",587597.Less_Than_Angels,https://d2arxad8u2l0g7.cloudfront.net/books/1348070499l/587597.jpg,256,1955
 1457,Vida,Marge Piercy,3.79,605,157544.Vida,https://d2arxad8u2l0g7.cloudfront.net/books/1320479109l/157544.jpg,480,1975
 1458,A Place of Greater Safety,Hilary Mantel,3.94,"4,609",101921.A_Place_of_Greater_Safety,https://d2arxad8u2l0g7.cloudfront.net/books/1363435037l/101921.jpg,749,1992
-1459,,,,,,,,1630
+1459,El Burlador De Sevilla,Tirso de Molina,3.64,2010,63627.El_Burlador_De_Sevilla,https://d2arxad8u2l0g7.cloudfront.net/books/1170618185l/63627.jpg,200,1630
 1460,The Plot Against America,Philip Roth,3.67,"24,910",703.The_Plot_Against_America,https://d2arxad8u2l0g7.cloudfront.net/books/1327711853l/703.jpg,391,2004
 1461,Mensagem - Poemas esotéricos,Fernando Pessoa,4.19,"4,273",592221.Mensagem_Poemas_esot_ricos,https://d2arxad8u2l0g7.cloudfront.net/books/1353519295l/592221.jpg,532,1934
 1462,"Regeneration (Regeneration, #1)",Pat Barker,4.03,"18,126",5872.Regeneration,https://d2arxad8u2l0g7.cloudfront.net/books/1365925619l/5872.jpg,256,1991
 1463,Animal Dreams,Barbara Kingsolver,4.04,"51,459",77262.Animal_Dreams,https://d2arxad8u2l0g7.cloudfront.net/books/1421266415l/77262.jpg,342,1990
-1464,,,,,,,,2011
+1464,Salvage the Bones,Jesmyn Ward,3.78,17915,10846336-salvage-the-bones,https://d2arxad8u2l0g7.cloudfront.net/books/1317067649l/10846336.jpg,261,2011
 1465,The Mask of Dimitrios,Eric Ambler,4.00,2,30113015-the-mask-of-dimitrios,https://d2arxad8u2l0g7.cloudfront.net/books/1463598484l/30113015.jpg,,1944
 1466,The Country of the Pointed Firs,Sarah Orne Jewett,3.73,"1,762",2347137.The_Country_of_the_Pointed_Firs,https://d2arxad8u2l0g7.cloudfront.net/books/1416475940l/2347137.jpg,224,1896
 1467,Tree of Smoke,Denis Johnson,3.57,"7,411",271074.Tree_of_Smoke,https://d2arxad8u2l0g7.cloudfront.net/books/1386924799l/271074.jpg,614,2007
@@ -1649,7 +1649,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1645,The Hours,Michael Cunningham,3.90,"97,640",11899.The_Hours,https://d2arxad8u2l0g7.cloudfront.net/books/1327871525l/11899.jpg,226,1998
 1646,The Collected Stories of Katherine Anne Porter,Katherine Anne Porter,3.98,"4,821",129671.The_Collected_Stories_of_Katherine_Anne_Porter,https://d2arxad8u2l0g7.cloudfront.net/books/1436065337l/129671.jpg,495,1965
 1647,Empire Falls,Richard Russo,3.90,"87,443",187020.Empire_Falls,https://d2arxad8u2l0g7.cloudfront.net/books/1403184884l/187020.jpg,483,2001
-1648,,,,,,,,2002
+1648,A Story as Sharp as a Knife: The Classical Haida Mythtellers and Their World,Robert Bringhurst,4.35,102,154676.A_Story_as_Sharp_as_a_Knife,https://d2arxad8u2l0g7.cloudfront.net/books/1328818833l/154676.jpg,527,2002
 1649,Mystic River,Dennis Lehane,4.19,"76,611",21671.Mystic_River,https://d2arxad8u2l0g7.cloudfront.net/books/1407109549l/21671.jpg,416,2001
 1650,Say You're One of Them,Uwem Akpan,3.48,"11,851",2296567.Say_You_re_One_of_Them,https://d2arxad8u2l0g7.cloudfront.net/books/1266709325l/2296567.jpg,358,2008
 1651,Black Water,Joyce Carol Oates,3.52,"4,604",15974.Black_Water,https://d2arxad8u2l0g7.cloudfront.net/books/1388283255l/15974.jpg,160,1992
@@ -1669,7 +1669,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1665,The Arrival,Shaun Tan,4.32,"32,367",920607.The_Arrival,https://d2arxad8u2l0g7.cloudfront.net/books/1312827620l/920607.jpg,128,2006
 1666,How I Live Now,Meg Rosoff,3.58,"30,792",161426.How_I_Live_Now,https://d2arxad8u2l0g7.cloudfront.net/books/1327870252l/161426.jpg,194,2004
 1667,La Confusion des sentiments,Stefan Zweig,4.11,"2,208",1393713.La_Confusion_des_sentiments,https://d2arxad8u2l0g7.cloudfront.net/books/1319309887l/1393713.jpg,124,1927
-1668,,,,,,,,2009
+1668,The Collected Stories,William Trevor,4.47,1231,493311.The_Collected_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1347732248l/493311.jpg,1262,2009
 1669,"The Eye in the Door (Regeneration, #2)",Pat Barker,4.07,"5,547",151928.The_Eye_in_the_Door,https://d2arxad8u2l0g7.cloudfront.net/books/1439173585l/151928.jpg,288,1993
 1670,Runaway,Alice Munro,3.98,"13,920",14280.Runaway,https://d2arxad8u2l0g7.cloudfront.net/books/1431005856l/14280.jpg,335,2004
 1671,The House on Mango Street,Sandra Cisneros,3.54,"76,530",139253.The_House_on_Mango_Street,https://d2arxad8u2l0g7.cloudfront.net/books/1348245688l/139253.jpg,110,1984
