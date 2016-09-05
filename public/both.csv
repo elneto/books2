@@ -55,7 +55,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 54,Les Misérables,Victor Hugo,4.13,"527,759",24280.Les_Mis_rables,https://d2arxad8u2l0g7.cloudfront.net/books/1411852091l/24280.jpg,1463,1862
 55,To Kill a Mockingbird,Harper Lee,4.24,"2,964,495",2657.To_Kill_a_Mockingbird,https://d.gr-assets.com/books/1361975680l/2657.jpg,324,1960
 56,Paradise Lost,John Milton,3.79,"97,539",15997.Paradise_Lost,https://d.gr-assets.com/books/1455618673l/15997.jpg,453,1667
-57,The Complete Tales and Poems of Edgar Allan Poe,Edgar Allan Poe,4.75,8,30299278-the-complete-tales-and-poems-of-edgar-allan-poe,,,1975
+57,The Complete Works of Edgar Allan Poe,Edgar Allan Poe,4.50,4614,9507278-the-complete-works-of-edgar-allan-poe,https://d2arxad8u2l0g7.cloudfront.net/books/1335026116l/9507278.jpg,236,1975
 58,Pale Fire,Vladimir Nabokov,4.19,"28,372",7805.Pale_Fire,https://d.gr-assets.com/books/1388155863l/7805.jpg,248,1962
 59,A Passage to India,E.M. Forster,3.65,"46,739",45195.A_Passage_to_India,https://d2arxad8u2l0g7.cloudfront.net/books/1421883612l/45195.jpg,376,1924
 60,The Idiot,Fyodor Dostoyevsky,4.17,"80,734",12505.The_Idiot,https://d2arxad8u2l0g7.cloudfront.net/books/1327865902l/12505.jpg,667,1868
@@ -90,7 +90,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 89,The Master and Margarita,Mikhail Bulgakov,4.32,"133,653",117833.The_Master_and_Margarita,https://d2arxad8u2l0g7.cloudfront.net/books/1327867963l/117833.jpg,407,1966
 90,The Castle,Franz Kafka,3.98,"27,283",333538.The_Castle,https://d2arxad8u2l0g7.cloudfront.net/books/1331696371l/333538.jpg,316,1926
 91,Father Goriot and M. Gobseck,Honoré de Balzac,3.81,43,10106159-father-goriot-and-m-gobseck,https://d2arxad8u2l0g7.cloudfront.net/books/1347729077l/10106159.jpg,416,1835
-92,Stories Of Ernest Hemingway,Ernest Hemingway,4.33,40,988563.Stories_Of_Ernest_Hemingway,,,1987
+92,The Complete Short Stories,Ernest Hemingway,4.29,35094,4625.The_Complete_Short_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1441700461l/4625.jpg,650,1946
 93,Robinson Crusoe,Daniel Defoe,3.65,"179,759",2932.Robinson_Crusoe,https://d2arxad8u2l0g7.cloudfront.net/books/1403180114l/2932.jpg,320,1719
 94,"The Collected Works of W.B. Yeats, Vol. 1: The Poems, 2nd Edition",Richard J. Finneran,4.00,,20425605-the-collected-works-of-w-b-yeats-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1388757504l/20425605.jpg,784,1933
 95,The Charterhouse of Parma,Stendhal,3.83,"9,673",14680.The_Charterhouse_of_Parma,https://d2arxad8u2l0g7.cloudfront.net/books/1390088245l/14680.jpg,532,1839
