@@ -103,7 +103,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 102,The Waste Land,T.S. Eliot,4.10,"28,267",34080.The_Waste_Land,https://d2arxad8u2l0g7.cloudfront.net/books/1327910597l/34080.jpg,320,1922
 103,Sentimental Education,Gustave Flaubert,3.83,"12,264",2183.Sentimental_Education,https://d2arxad8u2l0g7.cloudfront.net/books/1327788473l/2183.jpg,460,1869
 104,Cousin Bette,Honoré de Balzac,3.86,"5,667",59144.Cousin_Bette,https://d2arxad8u2l0g7.cloudfront.net/books/1388880372l/59144.jpg,468,1846
-105,"The Secrets of Mia Danvers (Dangerous Liaisons, #1)",Robyn DeHart,3.59,389,17445417-the-secrets-of-mia-danvers,https://d2arxad8u2l0g7.cloudfront.net/books/1366169335l/17445417.jpg,,1782
+105,Les Liaisons dangereuses,Pierre-Ambroise Choderlos de Laclos,4.07,30513,49540.Les_Liaisons_dangereuses,https://d2arxad8u2l0g7.cloudfront.net/books/1298425654l/49540.jpg,448,1782
 106,Animal Farm,George Orwell,3.84,"1,794,732",7613.Animal_Farm,https://d2arxad8u2l0g7.cloudfront.net/books/1424037542l/7613.jpg,102,1946
 107,Tess of the D'Urbervilles,Thomas Hardy,3.74,"167,860",32261.Tess_of_the_D_Urbervilles,https://d2arxad8u2l0g7.cloudfront.net/books/1434302708l/32261.jpg,518,1891
 108,Lord of the Flies,William Golding,3.63,"1,508,150",7624.Lord_of_the_Flies,https://d2arxad8u2l0g7.cloudfront.net/books/1327869409l/7624.jpg,182,1954
@@ -204,10 +204,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 201,The Princess of Cleves: Abridged,Madame de La Fayette,3.27,15,14401127-the-princess-of-cleves,https://d2arxad8u2l0g7.cloudfront.net/books/1347753119l/14401127.jpg,154,1678
 202,Henderson the Rain King,Saul Bellow,3.79,"11,035",52783.Henderson_the_Rain_King,https://d2arxad8u2l0g7.cloudfront.net/books/1297116277l/52783.jpg,352,1959
 203,The Misanthrope,Molière,3.78,"13,501",752994.The_Misanthrope,https://d2arxad8u2l0g7.cloudfront.net/books/1416873266l/752994.jpg,64,1673
-204,キングダム 19 [Kingdom 19],Yasuhisa Hara,4.44,61,18427533-19-kingdom-19,https://d2arxad8u2l0g7.cloudfront.net/books/1378138619l/18427533.jpg,218,1932
+204,1919 (The U.S.A. Trilogy #2),John Dos Passos,4.02,1792,7104.1919,https://d2arxad8u2l0g7.cloudfront.net/books/1440254386l/7104.jpg,400,1932
 205,Collected Poems,Dylan Thomas,4.20,"13,120",367802.Collected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1388789153l/367802.jpg,203,1952
 206,Independent People,Halldór Laxness,4.18,"5,195",book/show/77287.Independent_People,https://d2arxad8u2l0g7.cloudfront.net/books/1282892439l/77287.jpg,482,1934
-207,complete poems of giacomo leopardi,Giacomo Leopardi,4.35,"1,001",9305061-complete-poems-of-giacomo-leopardi,,,1946
+207,The Poems Of Leopardi,Giacomo Leopardi,4.34,1014,6357419-the-poems-of-leopardi,https://d2arxad8u2l0g7.cloudfront.net/books/1328310054l/6357419.jpg,128,1835
 208,The Pilgrim's Progress,John Bunyan,3.96,"66,859",29797.The_Pilgrim_s_Progress,https://d2arxad8u2l0g7.cloudfront.net/books/1405982367l/29797.jpg,324,1678
 209,The Man Without Qualities,Robert Musil,4.26,"3,666",527756.The_Man_Without_Qualities,https://d2arxad8u2l0g7.cloudfront.net/books/1327330533l/527756.jpg,1774,1930
 210,Herzog,Saul Bellow,3.79,"13,977",6551.Herzog,https://d2arxad8u2l0g7.cloudfront.net/books/1386924221l/6551.jpg,371,1964
@@ -239,7 +239,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 236,The Complete Poems of John Keats,John Keats,4.23,162,959648.The_Complete_Poems_of_John_Keats,https://d2arxad8u2l0g7.cloudfront.net/books/1414348945l/959648.jpg,512,1821
 237,The Rime of the Ancient Mariner,Samuel Taylor Coleridge,3.92,"35,673",732562.The_Rime_of_the_Ancient_Mariner,https://d2arxad8u2l0g7.cloudfront.net/books/1436976206l/732562.jpg,77,1798
 238,Love in the Time of Cholera,Gabriel Garcí­a Márquez,3.88,"299,117",9712.Love_in_the_Time_of_Cholera,https://d2arxad8u2l0g7.cloudfront.net/books/1327124987l/9712.jpg,348,1985
-239,La Critique de l'École des Femmes,Molière,3.25,55,2643767-la-critique-de-l-cole-des-femmes,https://d2arxad8u2l0g7.cloudfront.net/books/1374173041l/2643767.jpg,,1662
+239,La Critique de l'École des Femmes,Molière,3.25,55,2643767-la-critique-de-l-cole-des-femmes,https://d2arxad8u2l0g7.cloudfront.net/books/1374173041l/2643767.jpg,42,1662
 240,Don Juan,Molière,3.67,"6,144",52828.Don_Juan,https://d2arxad8u2l0g7.cloudfront.net/books/1402440627l/52828.jpg,146,1821
 241,The Would-Be Gentleman,Molière,3.17,6,22976389-the-would-be-gentleman,https://d2arxad8u2l0g7.cloudfront.net/books/1449326463l/22976389.jpg,140,1670
 242,The Would-Be Invalid,Molière,3.73,"5,365",7291054-the-would-be-invalid,https://d2arxad8u2l0g7.cloudfront.net/books/1347416877l/7291054.jpg,96,1673
