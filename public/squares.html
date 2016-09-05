@@ -38,8 +38,6 @@ var size_square = 7;
 var width = 960,
     height = 500;
 
-
-
 var svg = d3.select("#theviz").append("svg")
     .attr("width", width*size_square)
     .attr("height", height*size_square);
@@ -58,10 +56,40 @@ var tt = d3.select("#tooltip");
 
 d3.csv("both.csv", function(error, data) {
 	//d3.csv("output_corregido.csv", function(error, data) {
+	data.sort(function(a, b) { return a.pages - b.pages; });
+
+	order_pages = 0;
+	previous_page = 0;
+	tmp_col = [];
 
 	data.forEach(function(d) {
     d.pages = +d.pages;
     d.avg_rating = +d.avg_rating;
+
+    if (d.pages > previous_page)
+    	{
+	    	d.order_pages = ++order_pages;
+	    	previous_page = d.pages;
+
+	    	if (tmp_col.length >=1 ){
+		    	//desc order by d.avg_rating
+		    	tmp_col.sort(function(a,b){return b.avg_rating - a.avg_rating;});
+		    	//create the d.order_rating
+		    	order_rating = 5.0;
+		    	for (var i=0; i<tmp_col.length; i++)
+		    		{
+		    			tmp_col[i].order_rating = order_rating;
+		    			order_rating-=0.1;
+		  			}	
+		    	tmp_col = [];
+		    }
+    	}
+    else
+   		{
+   			d.order_pages = order_pages;
+   			tmp_col.push(d);
+   		}
+
     if (typeof d.ratings !== "undefined")
     	d.ratings = parseInt(d.ratings.replace(/\,/g,'')); //remove commas
   });
@@ -74,9 +102,9 @@ d3.csv("both.csv", function(error, data) {
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) { return x(d.pages)*(size_square*size_square/2); })
+      .attr("x", function(d) { return x(d.order_pages)*(size_square*size_square/2); })
       .attr("width", size_square)
-      .attr("y", function(d) { return y(d.avg_rating)*(size_square); })
+      .attr("y", function(d) { return y(d.order_rating); })
       .attr("height", size_square)
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
