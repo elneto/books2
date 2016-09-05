@@ -465,7 +465,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 462,The Hunchback of Notre-Dame,Victor Hugo,3.95,"117,209",30597.The_Hunchback_of_Notre_Dame,https://d2arxad8u2l0g7.cloudfront.net/books/1388342667l/30597.jpg,510,1831
 463,Collected Works Of Edna St. Vincent Millay,Edna St. Vincent Millay,4.63,136,3190024-collected-works-of-edna-st-vincent-millay,https://d2arxad8u2l0g7.cloudfront.net/books/1355662484l/3190024.jpg,148,1950
 464,Barchester Towers (Chronicles of Barsetshire #2),Anthony Trollope,4.01,"9,365",125321.Barchester_Towers,https://d2arxad8u2l0g7.cloudfront.net/books/1387980968l/125321.jpg,418,1857
-465,Theresa Raquin,3.70,12399,18622291-theresa-raquin,https://d2arxad8u2l0g7.cloudfront.net/books/1384802982l/18622291.jpg,224,1867
+465,Theresa Raquin,Émile Zola,3.70,12399,18622291-theresa-raquin,https://d2arxad8u2l0g7.cloudfront.net/books/1384802982l/18622291.jpg,224,1867
 466,The Lady with the Dog and Other Stories,Anton Chekhov,4.01,540,18869130-the-lady-with-the-dog-and-other-stories,https://d2arxad8u2l0g7.cloudfront.net/books/1384928707l/18869130.jpg,138,1899
 467,Selected Poems,Anne Sexton,4.20,"1,340",481821.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1434818369l/481821.jpg,266,1585
 468,Endgame,Samuel Beckett,3.87,"10,003",12287.Endgame,https://d.gr-assets.com/books/1452534163l/12287.jpg,60,1957
@@ -529,7 +529,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 526,"The Complete Poems, 1927-1979",Elizabeth Bishop,4.19,"9,331",420278.The_Complete_Poems_1927_1979,https://d2arxad8u2l0g7.cloudfront.net/books/1436422208l/420278.jpg,272,1979
 527,"The Collected Poems, Vol. 1: 1909-1939",William Carlos Williams,4.19,"5,481",72155.The_Collected_Poems_Vol_1,https://d2arxad8u2l0g7.cloudfront.net/books/1412527910l/72155.jpg,465,1939
 528,Cathedral,Raymond Carver,4.30,"18,622",11449.Cathedral,https://d2arxad8u2l0g7.cloudfront.net/books/1421615759l/11449.jpg,230,1984
-529,,,,,,,,1792
+529,Le Mariage de Figaro,Pierre-Augustin Caron de Beaumarchais,3.54,635,28178840-le-mariage-de-figaro,https://d2arxad8u2l0g7.cloudfront.net/books/1449921436l/28178840.jpg,258,1792
 530,The Collected Stories,Eudora Welty,4.24,"6,345",12577.The_Collected_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1433802019l/12577.jpg,622,1982
 531,Les Tragiques,Agrippa d'Aubigné,3.15,34,1452632.Les_Tragiques,https://d2arxad8u2l0g7.cloudfront.net/books/1405864556l/1452632.jpg,568,1616
 532,Birds of America,Lorrie Moore,4.12,"10,853",19631.Birds_of_America,https://d2arxad8u2l0g7.cloudfront.net/books/1388641896l/19631.jpg,291,1998
@@ -555,7 +555,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 552,Conversation in the Cathedral,Mario Vargas Llosa,4.31,"4,077",53970.Conversation_in_the_Cathedral,https://d2arxad8u2l0g7.cloudfront.net/books/1410128964l/53970.jpg,608,1969
 553,The Complete Poetry,César Vallejo,4.55,747,186393.The_Complete_Poetry,https://d2arxad8u2l0g7.cloudfront.net/books/1348361256l/186393.jpg,732,1979
 554,Carmen,Prosper Mérimée,3.53,"2,106",193856.Carmen,https://d2arxad8u2l0g7.cloudfront.net/books/1347716305l/193856.jpg,64,1845
-555,,,,,,,,1763
+555,Le jeu de l'amour et du hasard,Pierre de Marivaux,3.67,2646,316101.Le_jeu_de_l_amour_et_du_hasard,https://d2arxad8u2l0g7.cloudfront.net/books/1173710273l/316101.jpg,145,1763
 556,La Légende des siècles,Victor Hugo,4.14,88,3205394-la-l-gende-des-si-cles,https://d2arxad8u2l0g7.cloudfront.net/books/1336550837l/3205394.jpg,1030,1859
 557,The Last Books of Héctor Viel Temperley,Héctor Viel Temperley,4.20,10,13185220-the-last-books-of-h-ctor-viel-temperley,https://d2arxad8u2l0g7.cloudfront.net/books/1328384358l/13185220.jpg,96,1982
 558,4 poemas de Pablo Neruda y un amanecer en la isla/ 4 Poems of Pablo Neruda and a Dawn in the Island,Pablo Neruda,0.00,0,1430969.4_poemas_de_Pablo_Neruda_y_un_amanecer_en_la_isla_4_Poems_of_Pablo_Neruda_and_a_Dawn_in_the_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1266800505l/1430969.jpg,36,1975
@@ -564,7 +564,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 561,Calligrammes,Guillaume Apollinaire,4.00,5,30404977-calligrammes,https://d2arxad8u2l0g7.cloudfront.net/books/1465605512l/30404977.jpg,96,1918
 562,Juan de Mairena,Antonio Machado,4.21,75,7253106-juan-de-mairena,https://d2arxad8u2l0g7.cloudfront.net/books/1259908371l/7253106.jpg,340,1936
 563,La Regenta,"Leopoldo Alas ""Clarín""",3.97,"1,891",69413.La_Regenta,https://d2arxad8u2l0g7.cloudfront.net/books/1405436155l/69413.jpg,1024,1884
-564,,,,,,,,1982
+564,Antología poética,Jaime Gil de Biedma,4.23,75,820304.Antolog_a_po_tica,https://d2arxad8u2l0g7.cloudfront.net/books/1375739335l/820304.jpg,137,1982
 565,Rimas,Gustavo Adolfo Bécquer,4.20,959,1134734.Rimas,https://d2arxad8u2l0g7.cloudfront.net/books/1401230805l/1134734.jpg,0,1850
 566,Fortunata y Jacinta - Volumen I,Benito Pérez Galdós,4.22,219,214753.Fortunata_y_Jacinta_Volumen_I,https://d2arxad8u2l0g7.cloudfront.net/books/1222492849l/214753.jpg,720,1887
 567,La Celestina,Fernando de Rojas,3.38,"7,250",214858.La_Celestina,https://d2arxad8u2l0g7.cloudfront.net/books/1405559122l/214858.jpg,336,1499
@@ -830,7 +830,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 827,Green Henry,Gottfried Keller,3.67,210,294251.Green_Henry,https://d2arxad8u2l0g7.cloudfront.net/books/1348145646l/294251.jpg,706,1855
 828,Journey to the Sacred Mountains: Awakening Your Soul in Nature,Flynn Johnson,3.50,4,9613427-journey-to-the-sacred-mountains,https://d2arxad8u2l0g7.cloudfront.net/books/1328729319l/9613427.jpg,176,1990
 829,Romance of Three Kingdoms,Guanzhong Luo,4.61,18,24769624-romance-of-three-kingdoms,https://d2arxad8u2l0g7.cloudfront.net/books/1422667536l/24769624.jpg,683,1301
-830,Beyond The Rings Of Saturn,Peter Williams,0.00,0,21381846-beyond-the-rings-of-saturn,https://d2arxad8u2l0g7.cloudfront.net/books/1394355984l/21381846.jpg,14,1998
+830,The Rings Of Saturn,W.G. Sebald,4.27,5863,434903.The_Rings_of_Saturn,https://d2arxad8u2l0g7.cloudfront.net/books/1386921954l/434903.jpg,296,1995
 831,Alcestis and Electra,Theodore Alois Buckley,0.00,0,30560440-alcestis-and-electra,,96,-438
 832,Los años con Laura Díaz,Carlos Fuentes,3.78,790,59425.Los_a_os_con_Laura_D_az,https://d2arxad8u2l0g7.cloudfront.net/books/1389317662l/59425.jpg,648,1999
 833,Happy Moscow,Andrei Platonov,3.85,401,341711.Happy_Moscow,https://d2arxad8u2l0g7.cloudfront.net/books/1173894797l/341711.jpg,153,
@@ -899,7 +899,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 896,The Jungle Book,Rudyard Kipling,3.95,"71,924",77270.The_Jungle_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1327873594l/77270.jpg,277,1894
 897,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.00,"184,407",28877.Red_Dragon,https://d2arxad8u2l0g7.cloudfront.net/books/1390284698l/28877.jpg,348,1981
 898,The Murders in the Rue Morgue,Edgar Allan Poe,3.93,"15,126",3301759-the-murders-in-the-rue-morgue,https://d2arxad8u2l0g7.cloudfront.net/books/1409105459l/3301759.jpg,38,1841
-899,The Little Engine That Could Saves the Day,Watty Piper,3.20,5,710988.The_Little_Engine_That_Could_Saves_the_Day,https://d2arxad8u2l0g7.cloudfront.net/books/1309203730l/710988.jpg,12,1930
+899,The Little Engine That Could,Watty Piper,4.14,80629,824204.The_Little_Engine_That_Could,https://d2arxad8u2l0g7.cloudfront.net/books/1352736875l/824204.jpg,48,1930
 900,"Histoire de Babar, le petit éléphant",Jean de Brunhoff,5.00,3,28804617-histoire-de-babar-le-petit-l-phant,https://d2arxad8u2l0g7.cloudfront.net/books/1454135798l/28804617.jpg,45,1931
 901,"The Warlord of Mars (Barsoom, #3)",Edgar Rice Burroughs,3.85,"9,815",40379.The_Warlord_of_Mars,https://d2arxad8u2l0g7.cloudfront.net/books/1328773630l/40379.jpg,0,1913
 902,Odes,John Keats,4.42,24,12164862-odes,,0,1927
@@ -999,8 +999,8 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 996,"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.11,"152,740",402045.The_Mists_of_Avalon,https://d2arxad8u2l0g7.cloudfront.net/books/1388857089l/402045.jpg,876,1983
 997,"Are You There God? It's Me, Margaret",Judy Blume,3.88,"152,508",37732.Are_You_There_God_It_s_Me_Margaret,https://d2arxad8u2l0g7.cloudfront.net/books/1388356524l/37732.jpg,149,1970
 998,The Narrative of Arthur Gordon Pym of Nantucket,Edgar Allan Poe,3.52,"3,971",766869.The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket,https://d2arxad8u2l0g7.cloudfront.net/books/1341387331l/766869.jpg,288,1838
-999,Harry Potter and the Chamber of Secrets Enchanted Images Glow-in-the-Dark Book,Unknown,4.00,4,16093276-harry-potter-and-the-chamber-of-secrets-enchanted-images-glow-in-the-dar,https://d2arxad8u2l0g7.cloudfront.net/books/1350531655l/16093276.jpg,16,1998
-1000,Harry Potter and the Prisoner of Azkaban with Poster (Scholastic Literature Guides,Linda Beech,4.44,9,20323226-harry-potter-and-the-prisoner-of-azkaban-with-poster-scholastic-literat,https://d2arxad8u2l0g7.cloudfront.net/books/1388180878l/20323226.jpg,16,1999
+999,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.35,1686375,15881.Harry_Potter_and_the_Chamber_of_Secrets,https://d2arxad8u2l0g7.cloudfront.net/books/1370043634l/15881.jpg,341,1998
+1000,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.51,1752282,5.Harry_Potter_and_the_Prisoner_of_Azkaban,https://d2arxad8u2l0g7.cloudfront.net/books/1362278317l/5.jpg,435,1999
 1001,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.45,"1,670,147",2.Harry_Potter_and_the_Order_of_the_Phoenix,https://d2arxad8u2l0g7.cloudfront.net/books/1387141547l/2.jpg,870,2003
 1002,Flicker,Theodore Roszak,4.02,"1,069",243162.Flicker,https://d2arxad8u2l0g7.cloudfront.net/books/1386923638l/243162.jpg,608,1991
 1003,Leave it to Psmith: The Code of the Woosters: Pigs Have Wings,P.G. Wodehouse,4.30,"5,613",11622810-leave-it-to-psmith,,850,1938
