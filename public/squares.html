@@ -122,7 +122,7 @@ d3.csv("both.csv", function(error, data) {
       d3.select("#tt-author").text(d.author);
       d3.select("#tt-pages").text(d.pages+" pages");
       d3.select("#tt-ratings").text(d.avg_rating + " from " +addCommas(d.ratings)+ " reviews");
-      d3.select("#tt-url").attr("href", "https://www.goodreads.com/"+d.url);
+      d3.select("#tt-url").attr("href", "https://www.goodreads.com/book/show/"+d.url);
       tt.style("top", y+"px").style("left", x+"px");
       tt.style("visibility", "visible");
       return 0;
