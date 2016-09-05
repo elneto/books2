@@ -186,7 +186,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 184,Finnegans Wake,James Joyce,3.66,"9,511",11013.Finnegans_Wake,https://d.gr-assets.com/books/1336408055l/11013.jpg,628,1939
 185,Further Confessions of Zeno,Italo Svevo,4.12,33,673207.Further_Confessions_of_Zeno,https://d2arxad8u2l0g7.cloudfront.net/books/1211936242l/673207.jpg,0,1923
 186,The Way Things Are: The De Rerum Natura,Titus Lucretius Carus,3.96,"7,805",195769.The_Way_Things_Are,https://d2arxad8u2l0g7.cloudfront.net/books/1383167169l/195769.jpg,256,-55
-187,"British Novels Adapted Into Films (Book Guide): A Clockwork Orange, Harry Potter and the Philosopher's Stone, the Return of the King",Source Wikipedia,3.00,,12960438-british-novels-adapted-into-films-book-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1348734830l/12960438.jpg,178,1997
+187,Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.42,4105359,3.Harry_Potter_and_the_Sorcerer_s_Stone,https://d2arxad8u2l0g7.cloudfront.net/books/1361572757l/3.jpg,310,1997
 188,Molloy,Samuel Beckett,4.10,"3,646",446542.Molloy,https://d2arxad8u2l0g7.cloudfront.net/books/1426904873l/446542.jpg,241,1951
 189,The Handmaid's Tale,Margaret Atwood,4.01,"498,814",38447.The_Handmaid_s_Tale,https://d2arxad8u2l0g7.cloudfront.net/books/1294702760l/38447.jpg,311,1985
 190,"Rabbit at Rest (Rabbit Angstrom, #4)",John Updike,3.95,"12,028",11666.Rabbit_at_Rest,https://d.gr-assets.com/books/1320394471l/11666.jpg,608,1990
@@ -603,7 +603,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 600,Daisy Miller,Henry James,3.33,"18,158",16204.Daisy_Miller,https://d2arxad8u2l0g7.cloudfront.net/books/1327911289l/16204.jpg,164,1878
 601,Illuminations,Arthur Rimbaud,4.41,"7,123",565149.Illuminations,https://d2arxad8u2l0g7.cloudfront.net/books/1347626864l/565149.jpg,182,1886
 602,Aunt Julia and the Scriptwriter,Mario Vargas Llosa,3.90,"11,087",77298.Aunt_Julia_and_the_Scriptwriter,https://d2arxad8u2l0g7.cloudfront.net/books/1327993472l/77298.jpg,384,1977
-603,,,,,,,,1965
+603,Últimas tardes con Teresa,Juan Marsé,3.66,914,726248._ltimas_tardes_con_Teresa,https://d2arxad8u2l0g7.cloudfront.net/books/1417935819l/726248.jpg,470,1965
 604,The Garden of the Finzi-Continis,Giorgio Bassani,3.76,"3,413",355789.The_Garden_of_the_Finzi_Continis,https://d2arxad8u2l0g7.cloudfront.net/books/1388301186l/355789.jpg,246,1962
 605,Luces de bohemia =: Bohemian Lights: Esperpento,Ramón María del Valle-Inclán,3.71,"2,657",7072110-luces-de-bohemia,,266,1924
 606,Selected Poems of Antonio Machado,Antonio Machado,3.50,6,2274857.Selected_Poems_of_Antonio_Machado,https://d2arxad8u2l0g7.cloudfront.net/books/1451928067l/2274857.jpg,192,1917
@@ -618,7 +618,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 615,40 Sonnets,Don Paterson,3.94,65,25366223-40-sonnets,https://d2arxad8u2l0g7.cloudfront.net/books/1439307809l/25366223.jpg,44,1625
 616,The Poetry of Luis Cernuda,Luis Cernuda,4.50,2,370460.The_Poetry_of_Luis_Cernuda,,171,1963
 617,Demian / Siddartha,Hermann Hesse,4.12,"2,226",13041.Demian_Siddartha,https://d2arxad8u2l0g7.cloudfront.net/books/1310336766l/13041.jpg,,1919
-618,,,,,,,,1955
+618,"L'otage, suivi de Le pain dur, et de Le père humilié",Paul Claudel,3.40,5,11490193-l-otage-suivi-de-le-pain-dur-et-de-le-p-re-humili,https://d2arxad8u2l0g7.cloudfront.net/books/1335382186l/11490193.jpg,440,1955
 619,Les Amours jaunes,Tristan Corbière,3.84,64,5097184-les-amours-jaunes,https://d2arxad8u2l0g7.cloudfront.net/books/1327786283l/5097184.jpg,311,1873
 620,"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,3.93,"103,770",30868.The_Bean_Trees,https://d2arxad8u2l0g7.cloudfront.net/books/1443483961l/30868.jpg,232,1988
 621,Les Contemplations,Victor Hugo,4.11,"1,217",135617.Les_Contemplations,https://d2arxad8u2l0g7.cloudfront.net/books/1172069212l/135617.jpg,,1856
@@ -721,7 +721,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 718,The Short Happy Life of Francis Macomber,Ernest Hemingway,3.76,229,22051924-the-short-happy-life-of-francis-macomber,https://d2arxad8u2l0g7.cloudfront.net/books/1447259399l/22051924.jpg,,1936
 719,Another Country,James Baldwin,4.29,"7,778",38474.Another_Country,https://d2arxad8u2l0g7.cloudfront.net/books/1353255131l/38474.jpg,448,1962
 720,Amelia,Henry Fielding,3.55,631,743885.Amelia,https://d2arxad8u2l0g7.cloudfront.net/books/1348058106l/743885.jpg,620,1751
-721,,,,,,,,
+721,Dark Symphony,James A. Emanuel,4.17,6,1073496.Dark_Symphony,https://d2arxad8u2l0g7.cloudfront.net/books/1403391381l/1073496.jpg,628,1968
 722,Of Time and the River: A Legend of Man's Hunger in His Youth,Thomas Wolfe,4.22,637,12451.Of_Time_and_the_River,https://d2arxad8u2l0g7.cloudfront.net/books/1376783841l/12451.jpg,896,1935
 723,Monsignor Quixote,Graham Greene,3.91,"2,359",138995.Monsignor_Quixote,https://d2arxad8u2l0g7.cloudfront.net/books/1172098970l/138995.jpg,221,1982
 724,The Times Are Never So Bad,Andre Dubus,4.26,218,685382.The_Times_Are_Never_So_Bad,https://d2arxad8u2l0g7.cloudfront.net/books/1442372768l/685382.jpg,180,1983
@@ -986,7 +986,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 983,The man without a way,Erik Lindegren,3.79,14,7093632-mannen-utan-v-g,https://d2arxad8u2l0g7.cloudfront.net/books/1348065037l/7093632.jpg,89,1942
 984,Mating,Norman Rush,3.79,"3,035",527513.Mating,https://d2arxad8u2l0g7.cloudfront.net/books/1320393331l/527513.jpg,480,1990
 985,The Prince of Tides,Pat Conroy,4.21,"153,515",16735.The_Prince_of_Tides,https://d2arxad8u2l0g7.cloudfront.net/books/1327894397l/16735.jpg,679,1986
-986,Harry Potter and the Goblet of Fire: The Interactive Quiz Book (The Harry Potter Series.),Julia Reed,5.00,5,19277693-harry-potter-and-the-goblet-of-fire,https://d2arxad8u2l0g7.cloudfront.net/books/1386471338l/19277693.jpg,312,2000
+986,Harry Potter and the Goblet of Fire,J.K. Rowling,4.51,"1,664,327",6.Harry_Potter_and_the_Goblet_of_Fire,https://d2arxad8u2l0g7.cloudfront.net/books/1361482611l/6.jpg,734,2000
 987,Wonder Boys,Michael Chabon,3.93,"27,320",16707.Wonder_Boys,https://d2arxad8u2l0g7.cloudfront.net/books/1380670205l/16707.jpg,383,1995
 988,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.60,"1,649,984",136251.Harry_Potter_and_the_Deathly_Hallows,https://d2arxad8u2l0g7.cloudfront.net/books/1370023538l/136251.jpg,759,2007
 989,The Christian Novel Collection: At the Back of the North Wind / Ben-Hur / In His Steps / The Man Who Was Thursday,Lew Wallace,0.00,0,10420109-the-christian-novel-collection,https://d2arxad8u2l0g7.cloudfront.net/books/1302351824l/10420109.jpg,0,1908
