@@ -289,7 +289,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 286,Uncle Tom's Cabin,Harriet Beecher Stowe,3.81,"142,045",46787.Uncle_Tom_s_Cabin,https://d2arxad8u2l0g7.cloudfront.net/books/1414349231l/46787.jpg,438,1852
 287,The Bonfire of the Vanities,Tom Wolfe,3.80,"52,147",2666.The_Bonfire_of_the_Vanities,https://d2arxad8u2l0g7.cloudfront.net/books/1389856895l/2666.jpg,690,1987
 288,The Poems of François Villon,François Villon,4.17,"1,028",97393.The_Poems_of_Fran_ois_Villon,https://d2arxad8u2l0g7.cloudfront.net/books/1347717464l/97393.jpg,270,1463
-289,Collected Poems of T.S. Eliot,T.S. Eliot,4.32,177,20520995-collected-poems-of-t-s-eliot,https://d2arxad8u2l0g7.cloudfront.net/books/1389564178l/20520995.jpg,,1936
+289,Collected Poems of T.S. Eliot,T.S. Eliot,4.32,177,20520995-collected-poems-of-t-s-eliot,https://d2arxad8u2l0g7.cloudfront.net/books/1389564178l/20520995.jpg,240,1936
 290,A Room with a View,E.M. Forster,3.91,"114,845",3087.A_Room_with_a_View,https://d.gr-assets.com/books/1388781285l/3087.jpg,240,1908
 291,River Bend The Series (River Bend #1-3),Molly McLain,4.62,37,25691414-river-bend-the-series,https://d2arxad8u2l0g7.cloudfront.net/books/1433816777l/25691414.jpg,789,1979
 292,"If I Forget Thee, Jerusalem",William Faulkner,4.00,2,29988845-if-i-forget-thee-jerusalem,https://d2arxad8u2l0g7.cloudfront.net/books/1461506827l/29988845.jpg,229,1939
@@ -367,7 +367,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 364,"Collected Poems, 1947-1980",Allen Ginsberg,4.17,"6,450",563782.Collected_Poems_1947_1980,https://d2arxad8u2l0g7.cloudfront.net/books/1387666934l/563782.jpg,864,1954
 365,Romeo and Juliet,William Shakespeare,3.73,"1,527,112",18135.Romeo_and_Juliet,https://d2arxad8u2l0g7.cloudfront.net/books/1327872146l/18135.jpg,283,1597
 366,The Road,Cormac McCarthy,3.95,"515,392",6288.The_Road,https://d.gr-assets.com/books/1439197219l/6288.jpg,241,2006
-367,Manon Lescaut,L'Abbe Prevost,3.43,7,26802928-manon-lescaut,https://d2arxad8u2l0g7.cloudfront.net/books/1443001618l/26802928.jpg,,1731
+367,Manon Lescaut,L'Abbe Prevost,3.43,7,26802928-manon-lescaut,https://d2arxad8u2l0g7.cloudfront.net/books/1443001618l/26802928.jpg,208,1731
 368,"The End of the Rainbow (Hudson, #4)",V.C. Andrews,3.82,"2,966",519616.The_End_of_the_Rainbow,https://d2arxad8u2l0g7.cloudfront.net/books/1388252316l/519616.jpg,384,1915
 369,Tristan: With the Tristran of Thomas,Gottfried von Straßburg,3.83,1261,186677.Tristan,https://d2arxad8u2l0g7.cloudfront.net/books/1172535425l/186677.jpg,384,1210
 370,Hopscotch,Julio Cortázar,4.26,"17,848",53413.Hopscotch,https://d2arxad8u2l0g7.cloudfront.net/books/1367728486l/53413.jpg,564,1963
@@ -390,7 +390,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 387,The Devil to Pay in the Backlands,João Guimarães Rosa,4.52,"1,930",165017.The_Devil_to_Pay_in_the_Backlands,https://d2arxad8u2l0g7.cloudfront.net/books/1223320051l/165017.jpg,494,1956
 388,Fragments,Heraclitus,4.20,"3,206",134891.Fragments,https://d2arxad8u2l0g7.cloudfront.net/books/1309202038l/134891.jpg,97,-475
 389,Darkness at Noon,Arthur Koestler,4.06,"17,400",30672.Darkness_at_Noon,https://d2arxad8u2l0g7.cloudfront.net/books/1290053535l/30672.jpg,216,1940
-390,The Early Short Stories of F. Scott Fitzgerald,F. Scott Fitzgerald,4.39,18,6503131-the-early-short-stories-of-f-scott-fitzgerald,,,1940
+390,The Short Stories,F. Scott Fitzgerald,4.23,12432,4662.The_Short_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1400891315l/4662.jpg,800,1920
 391,Humboldt's Gift,Saul Bellow,3.86,"6,350",11494.Humboldt_s_Gift,https://d2arxad8u2l0g7.cloudfront.net/books/1388954094l/11494.jpg,487,1975
 392,Housekeeping,Marilynne Robinson,3.82,"27,093",11741.Housekeeping,https://d2arxad8u2l0g7.cloudfront.net/books/1327882949l/11741.jpg,219,1980
 393,Fifty Fables of La Fontaine,Jean de La Fontaine,4.07,27,413363.Fifty_Fables_of_La_Fontaine,https://d2arxad8u2l0g7.cloudfront.net/books/1348543687l/413363.jpg,192,1694
@@ -453,8 +453,8 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 450,"The Chronicles Of Narnia Books, including: The Chronicles Of Narnia, The Magician's Nephew, Prince Caspian, The Lion, The Witch And The Wardrobe, The Last Battle, The Horse And His Boy, The Voyage Of The Dawn Treader, The Silver Chair",Hephaestus Books,4.46,59,12623493-the-chronicles-of-narnia-books-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348659138l/12623493.jpg,72,1955
 451,The Voyage of the Dawn Treader: The Chronicles of Narnia V.,C. S. Lewis,0.00,0,30108518-the-voyage-of-the-dawn-treader,https://d2arxad8u2l0g7.cloudfront.net/books/1462362424l/30108518.jpg,117,1952
 452,"THE CHRONICLES OF NARNIA - Complete Collection: The Lion, the Witch and the Wardrobe + Prince Caspian + The Voyage of the Dawn Treader + The Silver Chair ... Battle...: Classics of Children's Literature",C. S. Lewis,4.47,15,30129455-the-chronicles-of-narnia---complete-collection,https://d2arxad8u2l0g7.cloudfront.net/books/1462652509l/30129455.jpg,885,1953
-453,The Last Battle,C. S. Lewis,0.00,0,31182915-the-last-battle,https://d2arxad8u2l0g7.cloudfront.net/books/1469035453l/31182915.jpg,,1956
-454,THE CHRONICLES OF NARNIA III. THE HORSE AND HIS BOY (Timeless Literature Collection Book 1007),Business and Leadership Publishing,4.25,4,22873129-the-chronicles-of-narnia-iii-the-horse-and-his-boy,https://d2arxad8u2l0g7.cloudfront.net/books/1407186553l/22873129.jpg,143,1954
+453,The Last Battle (The Chronicles of Narnia (Publication Order) #7),C.S. Lewis,4.02,161957,84369.The_Last_Battle,https://d2arxad8u2l0g7.cloudfront.net/books/1308814830l/84369.jpg,224,1956
+454,The Horse and His Boy (The Chronicles of Narnia (Publication Order) #5),C.S. Lewis,3.89,190676,84119.The_Horse_and_His_Boy,https://d2arxad8u2l0g7.cloudfront.net/books/1388210968l/84119.jpg,224,1954
 455,Ragtime,E.L. Doctorow,3.87,"27,893",175675.Ragtime,https://d2arxad8u2l0g7.cloudfront.net/books/1320531790l/175675.jpg,320,1975
 456,One Hundred and One Poems by Paul Verlaine: A Bilingual Edition,Paul Verlaine,4.15,150,303506.One_Hundred_and_One_Poems_by_Paul_Verlaine,https://d2arxad8u2l0g7.cloudfront.net/books/1347999278l/303506.jpg,309,1999
 457,Bastard Out of Carolina,Dorothy Allison,4.08,"29,993",25354.Bastard_Out_of_Carolina,https://d2arxad8u2l0g7.cloudfront.net/books/1424648725l/25354.jpg,320,1993
@@ -478,7 +478,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 475,A Hero of Our Time,Mikhail Lermontov,4.11,"28,900",226378.A_Hero_of_Our_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1344023178l/226378.jpg,185,1840
 476,Moll Flanders,Daniel Defoe,3.48,"30,619",38262.Moll_Flanders,https://d2arxad8u2l0g7.cloudfront.net/books/1338130955l/38262.jpg,339,1772
 477,The Crying of Lot 49,Thomas Pynchon,3.71,"50,084",2794.The_Crying_of_Lot_49,https://d.gr-assets.com/books/1375727632l/2794.jpg,155,1966
-478,The Sufi Masnavi: An Anthology,Paul Smith,0.00,0,27484057-the-sufi-masnavi,https://d2arxad8u2l0g7.cloudfront.net/books/1446772940l/27484057.jpg,,1250
+478,The Masnavi: Book One,Jalaluddin Rumi,4.43,534,83262.The_Masnavi,https://d2arxad8u2l0g7.cloudfront.net/books/1171037878l/83262.jpg,271,1250
 479,Collected Stories,Frank O'Connor,4.29,375,396751.Collected_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1347353329l/396751.jpg,720,1965
 480,Essays and Poems,Ralph Waldo Emerson,3.97,"10,966",139004.Essays_and_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1388761686l/139004.jpg,560,2001
 481,Bostan,Sheikh Saadi,0.00,0,30316891-bostan,https://d2arxad8u2l0g7.cloudfront.net/books/1464582431l/30316891.jpg,224,1257
@@ -488,7 +488,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 485,Twice-Told Tales,Nathaniel Hawthorne,3.91,"2,187",47061.Twice_Told_Tales,https://d2arxad8u2l0g7.cloudfront.net/books/1403189952l/47061.jpg,432,1837
 486,Robert Browning's Poetry,Robert Browning,3.97,"4,055",271713.Robert_Browning_s_Poetry,https://d2arxad8u2l0g7.cloudfront.net/books/1386922329l/271713.jpg,689,1889
 487,The Sound of the Mountain,Yasunari Kawabata,3.93,"3,193",59950.The_Sound_of_the_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1388447588l/59950.jpg,276,1970
-488,"Novels by Naguib Mahfouz: Palace Walk, the Journey of Ibn Fattouma, the Beggar, Midaq Alley, the Thief and the Dogs, Children of Gebelawi",Naguib Mahfouz,4.46,67,8333832-novels-by-naguib-mahfouz,https://d2arxad8u2l0g7.cloudfront.net/books/1348190795l/8333832.jpg,,1059
+488,Children of Gebelawi,Naguib Mahfouz,4.09,15355,134821.Children_of_Gebelawi,https://d2arxad8u2l0g7.cloudfront.net/books/1210123501l/134821.jpg,355,1959
 489,Watt,Samuel Beckett,3.99,"1,937",104613.Watt,https://d2arxad8u2l0g7.cloudfront.net/books/1171520807l/104613.jpg,256,1953
 490,Njal's Saga,Unknown Icelanders,0.00,0,27617148-njal-s-saga,,180,1200
 491,The Turn of the Screw,Henry James,3.46,"57,849",12948.The_Turn_of_the_Screw,https://d2arxad8u2l0g7.cloudfront.net/books/1443203592l/12948.jpg,121,1898
