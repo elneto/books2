@@ -71,7 +71,8 @@ d3.csv("both.csv", function(error, data) {
 	    	d.order_pages = ++order_pages;
 	    	previous_page = d.pages;
 
-	    	if (tmp_col.length >=1 ){
+        d.order_rating = 5.0; //the only book with x pages, i.e, only one book has 20 pages
+	    	if (tmp_col.length >=1 ){ //more books with x pages
 		    	//desc order by d.avg_rating
 		    	tmp_col.sort(function(a,b){return b.avg_rating - a.avg_rating;});
 		    	//create the d.order_rating
@@ -82,11 +83,10 @@ d3.csv("both.csv", function(error, data) {
 		    			order_rating-=0.1;
 		  			}	
 		    	tmp_col = [];
-		    }
+		    } 
     	}
     else
    		{
-        d.order_rating = 5.0; //the only one
    			d.order_pages = order_pages;
    			tmp_col.push(d);
    		}
@@ -105,7 +105,8 @@ d3.csv("both.csv", function(error, data) {
     .attr("class", "square")
       .attr("x", function(d) { return x(d.order_pages)*(size_square*size_square/2); })
       .attr("width", size_square)
-      .attr("y", function(d) { 
+      .attr("y", function(d) {
+      console.log(d);
       //console.log(d.id+" "+d.title+" "+d.order_rating)
       return y(d.order_rating); })
       .attr("height", size_square)
