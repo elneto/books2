@@ -86,6 +86,7 @@ d3.csv("both.csv", function(error, data) {
     	}
     else
    		{
+        d.order_rating = 5.0; //the only one
    			d.order_pages = order_pages;
    			tmp_col.push(d);
    		}
@@ -104,7 +105,9 @@ d3.csv("both.csv", function(error, data) {
     .attr("class", "square")
       .attr("x", function(d) { return x(d.order_pages)*(size_square*size_square/2); })
       .attr("width", size_square)
-      .attr("y", function(d) { return y(d.order_rating); })
+      .attr("y", function(d) { 
+      //console.log(d.id+" "+d.title+" "+d.order_rating)
+      return y(d.order_rating); })
       .attr("height", size_square)
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
