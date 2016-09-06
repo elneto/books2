@@ -56,7 +56,7 @@ var tt = d3.select("#tooltip");
 
 d3.csv("both.csv", function(error, data) {
 	//d3.csv("output_corregido.csv", function(error, data) {
-	data.sort(function(a, b) { return a.pages - b.pages; });
+	data.sort(function(a, b) { return parseInt(a.pages) - parseInt(b.pages); });
 
 	order_pages = 0;
 	previous_page = 0;
@@ -72,9 +72,10 @@ d3.csv("both.csv", function(error, data) {
 	    	previous_page = d.pages;
 
         d.order_rating = 5.0; //the only book with x pages, i.e, only one book has 20 pages
+        //console.log(d)
 	    	if (tmp_col.length >=1 ){ //more books with x pages
 		    	//desc order by d.avg_rating
-		    	tmp_col.sort(function(a,b){return b.avg_rating - a.avg_rating;});
+		    	tmp_col.sort(function(a,b){return parseFloat(b.avg_rating) - parseFloat(a.avg_rating);});
 		    	//create the d.order_rating
 		    	order_rating = 5.0;
 		    	for (var i=0; i<tmp_col.length; i++)
@@ -83,11 +84,16 @@ d3.csv("both.csv", function(error, data) {
 		    			order_rating-=0.1;
 		  			}	
 		    	tmp_col = [];
-		    } 
+		    } else {
+            // console.log("tmp_col length else")
+            // console.log(d);
+            d.order_rating = 5.0; //the only book with x pages, i.e, only one book has 20 pages
+        }
     	}
     else
    		{
    			d.order_pages = order_pages;
+        d.order_rating = 5.0; 
    			tmp_col.push(d);
    		}
 
@@ -103,12 +109,20 @@ d3.csv("both.csv", function(error, data) {
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) { return x(d.order_pages)*(size_square*size_square/2); })
+      .attr("x", function(d) { 
+      //console.log(d);
+      return x(d.order_pages)*(size_square*size_square/2); })
       .attr("width", size_square)
       .attr("y", function(d) {
-      console.log(d);
+      //console.log(d);
       //console.log(d.id+" "+d.title+" "+d.order_rating)
-      return y(d.order_rating); })
+      if (!isNaN(d.order_rating))
+        return y(d.order_rating); 
+      else{
+        console.log(d);
+        return (5.0);
+      }
+      })
       .attr("height", size_square)
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
