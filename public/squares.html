@@ -80,22 +80,24 @@ d3.csv("both.csv", function(error, data) {
         previous_page = d.pages;
 
         //console.log(d)
+        console.log("cambio de pag. " + d.title)
+        console.log(previous_page_debug + " has " + tmp_col.length + " elements in tmp_col.length")
+        console.log(tmp_col);
         if (tmp_col.length >=1 ){ //more books with x pages
           //desc order by d.avg_rating
           tmp_col.sort(function(a,b){return parseFloat(b.avg_rating) - parseFloat(a.avg_rating);});
           //create the d.order_rating
           order_rating = 5.0;
           d.order_rating = order_rating; //the only book with x pages, i.e, only one book has 20 pages
-          console.log("cambio de pag. " + d.title)
-          console.log(previous_page_debug + " has " + tmp_col.length + " elements in tmp_col.length")
-          console.log(tmp_col);
+
           for (var i=0; i<tmp_col.length; i++)
             {
               tmp_col[i].order_rating = order_rating;
               //console.log(tmp_col[i]);
               order_rating-=0.1;
             } 
-          tmp_col = [];
+          tmp_col = []; //clean the temp column
+          tmp_col.push(d); //and insert the next one
         }
    			
    		}
