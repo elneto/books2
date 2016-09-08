@@ -497,7 +497,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 494,A Quoi Rêvent Les Jeunes Filles: Suivi De La Nuit Vénitienne Et De Les Marrons Du Feu,Alfred de Musset,3.00,2,9657343-a-quoi-r-vent-les-jeunes-filles,,125,1854
 495,Sophie's Choice,William Styron,4.18,"66,663",228560.Sophie_s_Choice,https://d2arxad8u2l0g7.cloudfront.net/books/1356714742l/228560.jpg,562,1979
 496,The Last Chronicle of Barset (Chronicles of Barsetshire #6),Anthony Trollope,4.14,"3,656",149789.The_Last_Chronicle_of_Barset,https://d2arxad8u2l0g7.cloudfront.net/books/1399393214l/149789.jpg,890,1867
-497,The Once and Future King: Camelot,T. H. White,4.00,9,28650892-the-once-and-future-king,https://d2arxad8u2l0g7.cloudfront.net/books/1453343583l/28650892.jpg,0,1958
+497,The Once and Future King: Camelot,T. H. White,4.00,9,28650892-the-once-and-future-king,https://d2arxad8u2l0g7.cloudfront.net/books/1453343583l/28650892.jpg,335,1967
 498,Otherwise: Last and First Poems of Eugenio Montale,Eugenio Montale,3.60,5,464933.Otherwise,https://d2arxad8u2l0g7.cloudfront.net/books/1458546187l/464933.jpg,159,1975
 499,The Sheltering Sky,Paul Bowles,3.92,"18,112",243598.The_Sheltering_Sky,https://d2arxad8u2l0g7.cloudfront.net/books/1347986956l/243598.jpg,342,1949
 500,Dom Casmurro,Machado de Assis,4.22,"10,396",82888.Dom_Casmurro,https://d2arxad8u2l0g7.cloudfront.net/books/1348286455l/82888.jpg,176,1899
@@ -902,7 +902,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 899,The Little Engine That Could,Watty Piper,4.14,80629,824204.The_Little_Engine_That_Could,https://d2arxad8u2l0g7.cloudfront.net/books/1352736875l/824204.jpg,48,1930
 900,"Histoire de Babar, le petit éléphant",Jean de Brunhoff,5.00,3,28804617-histoire-de-babar-le-petit-l-phant,https://d2arxad8u2l0g7.cloudfront.net/books/1454135798l/28804617.jpg,45,1931
 901,"The Warlord of Mars (Barsoom, #3)",Edgar Rice Burroughs,3.85,"9,815",40379.The_Warlord_of_Mars,https://d2arxad8u2l0g7.cloudfront.net/books/1328773630l/40379.jpg,0,1913
-902,Odes,John Keats,4.42,24,12164862-odes,,0,1927
+902,Odes,John Keats,4.42,24,28616466-odes,https://d2arxad8u2l0g7.cloudfront.net/books/1465671817l/28616466.jpg,32,1927
 903,"Swallows and Amazons (Swallows and Amazons, #1)",Arthur Ransome,3.97,"21,033",125190.Swallows_and_Amazons,https://d2arxad8u2l0g7.cloudfront.net/books/1277148503l/125190.jpg,315,1930
 904,The Moon Is Down,John Steinbeck,3.86,"12,920",12722.The_Moon_Is_Down,https://d2arxad8u2l0g7.cloudfront.net/books/1327961310l/12722.jpg,144,1942
 905,Edmund Dulac's Fairy Book,Edmund Dulac,4.35,20,1354693.Edmund_Dulac_s_Fairy_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1331061173l/1354693.jpg,174,1953
@@ -1156,7 +1156,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1153,Ellen Foster,Kaye Gibbons,3.74,"22,802",277397.Ellen_Foster,https://d2arxad8u2l0g7.cloudfront.net/books/1386924673l/277397.jpg,126,1987
 1154,The Gambler,Fyodor Dostoyevsky,3.87,"26,940",12857.The_Gambler,https://d2arxad8u2l0g7.cloudfront.net/books/1348607722l/12857.jpg,188,1867
 1155,London Fields,Martin Amis,3.76,"8,094",18830.London_Fields,https://d2arxad8u2l0g7.cloudfront.net/books/1334149127l/18830.jpg,470,1989
-1156,The Winds of War & War & Remembrance,Herman Wouk,4.58,609,21485.The_Winds_of_War_War_Remembrance,img/nopic.png,0,1978
+1156,War and Remembrance (The Henry Family #2),Herman Wouk,4.37,26116,42986.War_and_Remembrance,https://d2arxad8u2l0g7.cloudfront.net/books/1422331351l/42986.jpg,1056,1978
 1157,Centennial,James A. Michener,4.20,"29,936",133430.Centennial,https://d2arxad8u2l0g7.cloudfront.net/books/1348125094l/133430.jpg,1056,1974
 1158,"Hateship, Friendship, Courtship, Loveship, Marriage: Stories",Alice Munro,4.06,"11,428",111126.Hateship_Friendship_Courtship_Loveship_Marriage,https://d2arxad8u2l0g7.cloudfront.net/books/1320469931l/111126.jpg,323,2006
 1159,Sula,Toni Morrison,3.84,"38,076",11346.Sula,https://d2arxad8u2l0g7.cloudfront.net/books/1441578153l/11346.jpg,192,1973
@@ -1266,7 +1266,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1263,The Third Policeman,Flann O'Brien,4.03,"10,881",27208.The_Third_Policeman,https://d2arxad8u2l0g7.cloudfront.net/books/1343027425l/27208.jpg,200,1967
 1264,The Sportswriter,Richard Ford,3.71,"13,139",40722.The_Sportswriter,https://d2arxad8u2l0g7.cloudfront.net/books/1327936345l/40722.jpg,375,1986
 1265,The Blood Oranges,John Hawkes,3.65,516,222046.The_Blood_Oranges,https://d2arxad8u2l0g7.cloudfront.net/books/1388217573l/222046.jpg,271,1997
-1266,"Old Man's War Boxed Set  #1 (Old Man's War, #1-3)",John Scalzi,4.34,201,20889463-old-man-s-war-boxed-set-1,https://d2arxad8u2l0g7.cloudfront.net/books/1417605613l/20889463.jpg,0,1947
+1266,The Box Man,Kōbō Abe,3.71,2596,9999.The_Box_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1320459929l/9999.jpg,178,1973
 1267,"Nigerian Novels, including: Efuru, No Longer At Ease, The Palm-wine Drinkard, My Life In The Bush Of Ghosts (novel), Beasts Of No Nation, The Bride ... God, A Man Of The People, Chike And The River",Hephaestus Books,5.00,,12842483-nigerian-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348786929l/12842483.jpg,48,1952
 1268,"Novels By Haruki Murakami, including: Sputnik Sweetheart, Norwegian Wood (novel), Hard-boiled Wonderland And The End Of The World, The Wind-up Bird Chronicle, Kafka On The Shore, South Of The Border, West Of The Sun, Pinball, 1973, A Wild Sheep Chase",Hephaestus Books,4.30,60,12540656-novels-by-haruki-murakami-including,https://d2arxad8u2l0g7.cloudfront.net/books/1347232216l/12540656.jpg,44,1992
 1269,Man in the Holocene,Max Frisch,3.85,954,74186.Man_in_the_Holocene,https://d2arxad8u2l0g7.cloudfront.net/books/1388941683l/74186.jpg,128,1979
@@ -2170,7 +2170,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 230,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,3.89,"58,001",615570.The_Artist_s_Way,https://d2arxad8u2l0g7.cloudfront.net/books/1440952332l/615570.jpg,237,1992
 231,An Introduction to Metaphysics,Henri Bergson,3.87,250,208050.An_Introduction_to_Metaphysics,https://d2arxad8u2l0g7.cloudfront.net/books/1377472706l/208050.jpg,64,1903
 232,Ptolemy's Almagest,Ptolemy,3.96,414,436352.Ptolemy_s_Almagest,https://d2arxad8u2l0g7.cloudfront.net/books/1347756437l/436352.jpg,712,150
-233,"Standard Edition of the Complete Psychological Works, Vol 22 1932-36: New Introductory Lectures on Psycho-Analysis and Other Works",Sigmund Freud,4.50,2,10841874-standard-edition-of-the-complete-psychological-works-vol-22-1932-36,https://d2arxad8u2l0g7.cloudfront.net/books/1463220250l/10841874.jpg,0,1933
+233,New Introductory Lectures on Psycho-Analysis,Sigmund Freud,3.78,508,18444382-new-introductory-lectures-on-psycho-analysis,https://d2arxad8u2l0g7.cloudfront.net/books/1378679918l/18444382.jpg,240,1933
 234,The Voices of Marrakesh: A Record of a Visit,Elias Canetti,3.71,906,205194.The_Voices_of_Marrakesh,https://d2arxad8u2l0g7.cloudfront.net/books/1390953458l/205194.jpg,104,1978
 235,"The Philosophical Writings of Niels Bohr, Vol. 1: Atomic Theory and the Description of Nature",Niels Bohr,3.53,60,2215630.The_Philosophical_Writings_of_Niels_Bohr_Vol_1,https://d2arxad8u2l0g7.cloudfront.net/books/1405450448l/2215630.jpg,119,1952
 236,On Narcissism: An Introduction,Sigmund Freud,3.68,44,612181.On_Narcissism,https://d2arxad8u2l0g7.cloudfront.net/books/1407790948l/612181.jpg,236,1914
@@ -2178,7 +2178,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 238,Science and the Modern World,Alfred North Whitehead,4.03,273,253801.Science_and_the_Modern_World,https://d2arxad8u2l0g7.cloudfront.net/books/1388628037l/253801.jpg,224,1925
 239,Experience and Education,John Dewey,3.90,"1,889",739202.Experience_and_Education,https://d2arxad8u2l0g7.cloudfront.net/books/1348819216l/739202.jpg,91,1938
 240,The Fire Next Time,James Baldwin,4.39,"15,282",464260.The_Fire_Next_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1444584058l/464260.jpg,106,1963
-241,Instincts and Their Vicissitudes,Sigmund Freud,4.62,8,16173911-instincts-and-their-vicissitudes,img/nopic.png,0,1915
+241,Instincts and Their Vicissitudes,Sigmund Freud,4.62,8,16173911-instincts-and-their-vicissitudes,img/nopic.png,27,1915
 242,Beyond the Pleasure Principle,Sigmund Freud,3.68,629,706554.Beyond_the_Pleasure_Principle,https://d2arxad8u2l0g7.cloudfront.net/books/1366664246l/706554.jpg,92,1920
 243,Our Expanding Universe,Evry Schatzman,2.75,4,1552220.Our_Expanding_Universe,,100,1948
 244,Physics and Philosophy: The Revolution in Modern Science,Werner Heisenberg,4.02,"1,430",111185.Physics_and_Philosophy,https://d2arxad8u2l0g7.cloudfront.net/books/1380948980l/111185.jpg,176,1934
@@ -2780,7 +2780,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 841,We Die Alone: A WWII Epic of Escape and Endurance,David Howarth,4.04,"5,102",242669.We_Die_Alone,https://d2arxad8u2l0g7.cloudfront.net/books/1397957156l/242669.jpg,231,1943
 842,Fatal Purity: Robespierre and the French Revolution,Ruth Scurr,3.81,591,626414.Fatal_Purity,https://d2arxad8u2l0g7.cloudfront.net/books/1316727446l/626414.jpg,425,2006
 843,"Inuit Culture, including: Animism, Nanook Of The North, Polar Bear, Igloo, National Aboriginal Day, Inukshuk, Eskimo Kinship, Aboriginal Whaling, Eskimo Kissing, Angakkuq, The Savage Innocents, Qiviut, Kabloona, Inuit Qaujimajatuqangit, Siqqitiq",Hephaestus Books,0.00,0,12726145-inuit-culture-including,https://d2arxad8u2l0g7.cloudfront.net/books/1347643776l/12726145.jpg,148,1941
-844,Conquistadors Of The Useless,Lionel Terray,4.35,321,945729.Conquistadors_Of_The_Useless,https://d2arxad8u2l0g7.cloudfront.net/books/1347977795l/945729.jpg,0,1961
+844,Conquistadors Of The Useless,Lionel Terray,4.35,324,23353915-conquistadors-of-the-useless,https://d2arxad8u2l0g7.cloudfront.net/books/1413001373l/23353915.jpg,433,2001
 845,"Rollover of a Truck-Tractor and Cargo Tank Semitrailer Carrying Liquefied Petroleum Gas and Subsequent Fire, Indianapolis, Indiana, October 22, 2009: Highway Accident Report Ntsb/Har-11/01",National Transportatin Safety Board,0.00,0,21430459-rollover-of-a-truck-tractor-and-cargo-tank-semitrailer-carrying-liquefie,,108,1974
 846,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,3.92,"76,620",7214.Blue_Like_Jazz,https://d2arxad8u2l0g7.cloudfront.net/books/1407008625l/7214.jpg,243,2003
 847,My Father And Other Working Class Football Heroes,Gary Imlach,4.15,247,724876.My_Father_And_Other_Working_Class_Football_Heroes,https://d2arxad8u2l0g7.cloudfront.net/books/1338508733l/724876.jpg,234,2005
@@ -2800,7 +2800,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 861,"Letters and Notes on the Manners, Customs, and Conditions of the North American Indians, Volume 2",George Catlin,0.00,0,30582899-letters-and-notes-on-the-manners-customs-and-conditions-of-the-north-a,,488,1841
 862,I Married Adventure: The Lives of Martin and Osa Johnson,Osa Johnson,4.14,512,143428.I_Married_Adventure,https://d2arxad8u2l0g7.cloudfront.net/books/1397436167l/143428.jpg,422,1940
 863,Killing Yourself to Live: 85% of a True Story,Chuck Klosterman,3.85,"22,470",597.Killing_Yourself_to_Live,https://d2arxad8u2l0g7.cloudfront.net/books/1436917225l/597.jpg,245,2005
-864,The Descent of Pierre Saint-Martin,Norbert Casteret,4.48,29,8552689-the-descent-of-pierre-saint-martin,img/nopic.png,0,1954
+864,The Descent of Pierre Saint-Martin,Norbert Casteret,4.48,29,8552689-the-descent-of-pierre-saint-martin,img/nopic.png,160,1954
 865,The Crystal Horizon: Everest-The First Solo Ascent,Reinhold Messner,4.06,380,889459.The_Crystal_Horizon,https://d2arxad8u2l0g7.cloudfront.net/books/1348394313l/889459.jpg,324,1982
 866,"Narrative of a journey across the Rocky Mountains, to the Columbia River",John Kirk Townsend,0.00,0,25116445-narrative-of-a-journey-across-the-rocky-mountains-to-the-columbia-river,https://d2arxad8u2l0g7.cloudfront.net/books/1426026848l/25116445.jpg,204,1839
 867,The Predators' Ball: The Inside Story of Drexel Burnham and the Rise of the Junk Bond Raiders,Connie Bruck,4.00,"2,243",100788.The_Predators_Ball,https://d2arxad8u2l0g7.cloudfront.net/books/1382356059l/100788.jpg,400,1988
@@ -2891,7 +2891,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 952,Munich: The Price of Peace,Telford Taylor,4.36,25,820284.Munich,https://d2arxad8u2l0g7.cloudfront.net/books/1316570439l/820284.jpg,1084,1979
 953,"The Prize: The Epic Quest for Oil, Money, and Power",Daniel Yergin,4.39,"5,451",169354.The_Prize,https://d2arxad8u2l0g7.cloudfront.net/books/1403025725l/169354.jpg,928,1990
 954,Grant: A Biography,William S. McFeely,3.99,"1,170",382202.Grant,https://d2arxad8u2l0g7.cloudfront.net/books/1348080844l/382202.jpg,608,1981
-955,Abraham Lincoln: The War Years,Carl Sandburg,4.60,30,11491341-abraham-lincoln,,0,1939
+955,Abraham Lincoln: The War Years,Carl Sandburg,4.60,30,11491341-abraham-lincoln,img/nopic.png,655,1939
 956,"What Hath God Wrought: The Transformation of America, 1815-1848",Daniel Walker Howe,4.08,"5,283",1102243.What_Hath_God_Wrought,https://d2arxad8u2l0g7.cloudfront.net/books/1440944879l/1102243.jpg,904,2007
 957,Walter Lippmann and the American Century,Ronald Steel,4.20,61,373428.Walter_Lippmann_and_the_American_Century,https://d2arxad8u2l0g7.cloudfront.net/books/1388340472l/373428.jpg,669,1980
 958,Being Jordan: My Autobiography,Katie Price,3.38,"1,107",847076.Being_Jordan,https://d2arxad8u2l0g7.cloudfront.net/books/1328728572l/847076.jpg,288,2004
@@ -2973,7 +2973,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1034,The Private Memoirs and Confessions of a Justified Sinner,James Hogg,3.67,"4,844",87580.The_Private_Memoirs_and_Confessions_of_a_Justified_Sinner,https://d2arxad8u2l0g7.cloudfront.net/books/1407402411l/87580.jpg,258,1968
 1035,People of Paradox,Michael Kammen,3.00,,28143419-people-of-paradox,https://d2arxad8u2l0g7.cloudfront.net/books/1449593807l/28143419.jpg,368,1973
 1036,"Roosevelt: The Soldier of Freedom, 1940-1945",James MacGregor Burns,4.12,189,561644.Roosevelt,https://d2arxad8u2l0g7.cloudfront.net/books/1439675816l/561644.jpg,736,1970
-1037,Jackson Pollock: An American Saga,Gregory Smith Steven Naifeh,4.45,11,25684653-jackson-pollock,https://d2arxad8u2l0g7.cloudfront.net/books/1442706279l/25684653.jpg,0,1989
+1037,Jackson Pollock: An American Saga,Gregory Smith Steven Naifeh,4.45,11,25684653-jackson-pollock,https://d2arxad8u2l0g7.cloudfront.net/books/1442706279l/25684653.jpg,934,1989
 1038,Voices from Chernobyl: The Oral History of a Nuclear Disaster,Svetlana Alexievich,4.42,"6,513",357486.Voices_from_Chernobyl,https://d2arxad8u2l0g7.cloudfront.net/books/1316637138l/357486.jpg,236,2005
 1039,Khrushchev: The Man and His Era,William Taubman,4.02,735,334050.Khrushchev,https://d2arxad8u2l0g7.cloudfront.net/books/1388250699l/334050.jpg,896,2003
 1040,"Edmund Pendleton, 1721-1803: A Biography",David J. Mays,0.00,0,2361574.Edmund_Pendleton_1721_1803,,0,1952
@@ -3036,7 +3036,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1097,Roosevelt and Hopkins: An Intimate History,Robert E. Sherwood,4.42,43,2654162-roosevelt-and-hopkins,https://d2arxad8u2l0g7.cloudfront.net/books/1354903516l/2654162.jpg,880,1949
 1098,Benjamin Franklin,Carl Van Doren,4.15,172,1558473.Benjamin_Franklin,https://d2arxad8u2l0g7.cloudfront.net/books/1388760248l/1558473.jpg,864,1938
 1099,"The Organization and Administration of the Union Army,1861-1865, Volume II",Fred Albert Shannon,5.00,,4222465-the-organization-and-administration-of-the-union-army-1861-1865-volume,,352,1928
-1100,Woodrow Wilson: Life and Letters,Ray Stannard Baker,4.33,3,2595766-woodrow-wilson,,0,1939
+1100,"Woodrow Wilson: Life and Letters, Youth 1856-1890",Ray Stannard Baker,4.33,3,11701770-woodrow-wilson,https://d2arxad8u2l0g7.cloudfront.net/books/1328036843l/11701770.jpg,392,1939
 1101,John Paul Jones: A Sailor's Biography,Samuel Eliot Morison,4.06,142,2016691.John_Paul_Jones,https://d2arxad8u2l0g7.cloudfront.net/books/1348111441l/2016691.jpg,534,1959
 1102,In the Days of McKinley,Margaret Leech,3.64,45,407173.In_the_Days_of_McKinley,https://d2arxad8u2l0g7.cloudfront.net/books/1354758644l/407173.jpg,686,1960
 1103,"Transformation of Virginia, 1740-1790",Rhys Isaac,3.00,3,19826539-transformation-of-virginia-1740-1790,https://d2arxad8u2l0g7.cloudfront.net/books/1387763389l/19826539.jpg,462,1983

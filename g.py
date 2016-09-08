@@ -1,5 +1,4 @@
-# -*- coding: utf-8 -*-
-#! /usr/local/bin/python
+#! /usr/bin/python
 # Este script toma una lista de libros y autores en un archivo csv
 # y genera un archivo con la url correspondiente en goodreads
 __author__ = "Ernesto Araiza"
