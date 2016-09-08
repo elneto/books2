@@ -116,7 +116,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 115,"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy,4.19,"70,605",394535.Blood_Meridian_or_the_Evening_Redness_in_the_West,https://d2arxad8u2l0g7.cloudfront.net/books/1453995760l/394535.jpg,337,1986
 116,Lord Jim,Joseph Conrad,3.60,"20,963",12194.Lord_Jim,https://d2arxad8u2l0g7.cloudfront.net/books/1372366969l/12194.jpg,455,1900
 117,Gone with the Wind,Margaret Mitchell,4.27,"824,724",18405.Gone_with_the_Wind,https://d2arxad8u2l0g7.cloudfront.net/books/1328025229l/18405.jpg,1037,1937
-118,Some Pig!: A Charlotte's Web Picture Book,E.B. White,3.69,105,24184.Some_Pig_,https://d2arxad8u2l0g7.cloudfront.net/books/1435507190l/24184.jpg,32,1952
+118,Charlotte's Web,E.B. White,4.13,959651,24178.Charlotte_s_Web,https://d2arxad8u2l0g7.cloudfront.net/books/1439632243l/24178.jpg,184,1952
 119,Native Son,Richard Wright,3.94,"64,874",15622.Native_Son,https://d2arxad8u2l0g7.cloudfront.net/books/1440820866l/15622.jpg,520,1940
 120,Buddenbrooks: The Decline of a Family,Thomas Mann,4.13,"12,657",80890.Buddenbrooks,https://d2arxad8u2l0g7.cloudfront.net/books/1337128414l/80890.jpg,731,1901
 121,Sons and Lovers,D.H. Lawrence,3.61,35553,32071.Sons_and_Lovers,https://d2arxad8u2l0g7.cloudfront.net/books/1386924291l/32071.jpg,654,1913
@@ -404,7 +404,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 401,The Wild Duck,Henrik Ibsen,3.77,"4,149",197120.The_Wild_Duck,https://d2arxad8u2l0g7.cloudfront.net/books/1316958567l/197120.jpg,128,1885
 402,The Maias: Episodes from Romantic Life,Ec a De Queirous,0.00,0,23106930-the-maias,,375,1888
 403,The Remains of the Day,Kazuo Ishiguro,4.10,"109,211",28921.The_Remains_of_the_Day,https://d.gr-assets.com/books/1327128714l/28921.jpg,258,1989
-404,"Before Watchmen: Nite Owl #1 (Before Watchmen: Nite Owl, #1)",J. Michael Straczynski,3.63,332,15726018-before-watchmen,https://d2arxad8u2l0g7.cloudfront.net/books/1340880123l/15726018.jpg,32,1986
+404,Watchmen,Alan Moore,4.34,370268,472331.Watchmen,https://d2arxad8u2l0g7.cloudfront.net/books/1442239711l/472331.jpg,416,1986
 405,The Marriage of Cadmus and Harmony,Roberto Calasso,4.26,"1,187",753252.The_Marriage_of_Cadmus_and_Harmony,https://d2arxad8u2l0g7.cloudfront.net/books/1395174932l/753252.jpg,420,1988
 406,Alcools,Guillaume Apollinaire,4.06,"3,433",275505.Alcools,https://d2arxad8u2l0g7.cloudfront.net/books/1391903174l/275505.jpg,185,1913
 407,"American Lgbt Novels, including: Naked Lunch, Nova Express, The Soft Machine, Cities Of The Red Night, Junkie (novel), Queer (novel), My Education: A Book Of Dreams, The Ticket That Exploded, And The Hippos Were Boiled In Their Tanks, Dead Fingers Talk",Hephaestus Books,0.00,0,12851910-american-lgbt-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1347786268l/12851910.jpg,178,1959
@@ -484,7 +484,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 481,Bostan,Sheikh Saadi,0.00,0,30316891-bostan,https://d2arxad8u2l0g7.cloudfront.net/books/1464582431l/30316891.jpg,224,1257
 482,Poems by Walt Whitman,Walt Whitman,4.21,812,13597099-poems-by-walt-whitman,https://d2arxad8u2l0g7.cloudfront.net/books/1385408374l/13597099.jpg,304,1892
 483,"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,4.14,"141,118",16304.Murder_on_the_Orient_Express,https://d2arxad8u2l0g7.cloudfront.net/books/1388267702l/16304.jpg,322,1934
-484,Season of Migration to the North by Tayeb Salih | Summary & Study Guide,BookRags,3.00,5,9992735-season-of-migration-to-the-north-by-tayeb-salih-summary-study-guide,,34,1966
+484,Season of Migration to the North,Tayeb Salih,3.71,11214,669780.Season_of_Migration_to_the_North,https://d2arxad8u2l0g7.cloudfront.net/books/1387663113l/669780.jpg,176,1966
 485,Twice-Told Tales,Nathaniel Hawthorne,3.91,"2,187",47061.Twice_Told_Tales,https://d2arxad8u2l0g7.cloudfront.net/books/1403189952l/47061.jpg,432,1837
 486,Robert Browning's Poetry,Robert Browning,3.97,"4,055",271713.Robert_Browning_s_Poetry,https://d2arxad8u2l0g7.cloudfront.net/books/1386922329l/271713.jpg,689,1889
 487,The Sound of the Mountain,Yasunari Kawabata,3.93,"3,193",59950.The_Sound_of_the_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1388447588l/59950.jpg,276,1970
@@ -776,7 +776,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 773,The Vendor Of Sweets,R.K. Narayan,3.78,"1,570",113126.The_Vendor_Of_Sweets,https://d2arxad8u2l0g7.cloudfront.net/books/1356458165l/113126.jpg,144,1967
 774,The Complete Poems and Plays,T.S. Eliot,4.44,457,274893.The_Complete_Poems_and_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1440772447l/274893.jpg,608,1965
 775,The Iceman Cometh,Eugene O'Neill,3.96,"6,283",111734.The_Iceman_Cometh,https://d2arxad8u2l0g7.cloudfront.net/books/1327871756l/111734.jpg,240,1939
-776,Lenz,Georg Buchner,3.00,,30017628-lenz,,34,1839
+776,Lenz,Georg Büchner,3.58,1155,287510.Lenz,https://d2arxad8u2l0g7.cloudfront.net/books/1354208887l/287510.jpg,199,1835
 777,The Collected Songs of Cold Mountain,Han Shan,4.39,462,10921.The_Collected_Songs_of_Cold_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1328757968l/10921.jpg,320,1985
 778,Anna Édes,Dezső Kosztolányi,3.82,931,654438.Anna_des,https://d2arxad8u2l0g7.cloudfront.net/books/1176786394l/654438.jpg,0,1991
 779,Italian Folktales,Italo Calvino,4.19,"2,811",9807.Italian_Folktales,https://d2arxad8u2l0g7.cloudfront.net/books/1439401748l/9807.jpg,800,1956
@@ -917,7 +917,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 914,"The Voyages of Doctor Dolittle (Doctor Dolittle, #2)",Hugh Lofting,3.99,"11,695",325416.The_Voyages_of_Doctor_Dolittle,https://d2arxad8u2l0g7.cloudfront.net/books/1173762814l/325416.jpg,400,1922
 915,Jonathan Livingston Seagull,Richard Bach,3.79,"135,839",71728.Jonathan_Livingston_Seagull,https://d2arxad8u2l0g7.cloudfront.net/books/1432222358l/71728.jpg,112,1970
 916,The Island Within,Ludwig Lewisohn,3.92,12,1547545.The_Island_Within,https://d2arxad8u2l0g7.cloudfront.net/books/1348278538l/1547545.jpg,266,1928
-917,"Tall Whites, Greys and Little Green Men",Snow White,4.00,,30122218-tall-whites-greys-and-little-green-men,https://d2arxad8u2l0g7.cloudfront.net/books/1462543391l/30122218.jpg,32,1942
+917,The Little Grey Men,B.B.,4.07,716,84644.The_Little_Grey_Men,https://d2arxad8u2l0g7.cloudfront.net/books/1355131659l/84644.jpg,190,1942
 918,Gone Girl,Gillian Flynn,4.01,"1,398,233",19288043-gone-girl,https://d2arxad8u2l0g7.cloudfront.net/books/1397056917l/19288043.jpg,422,
 919,The Story of Ferdinand,Munro Leaf,4.35,"65,944",773951.The_Story_of_Ferdinand,https://d2arxad8u2l0g7.cloudfront.net/books/1348133512l/773951.jpg,72,1936
 920,Miss Susie Slagle's,Augusta Tucker,3.78,9,1461497.Miss_Susie_Slagle_s,https://d2arxad8u2l0g7.cloudfront.net/books/1348126095l/1461497.jpg,352,1939
@@ -1334,7 +1334,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1331,The Namesake,Jhumpa Lahiri,3.95,"178,568",33917.The_Namesake,https://d2arxad8u2l0g7.cloudfront.net/books/1442708168l/33917.jpg,291,2003
 1332,Going Native,Stephen Wright,3.58,566,14326.Going_Native,https://d2arxad8u2l0g7.cloudfront.net/books/1391126090l/14326.jpg,320,1994
 1333,Annie John,Jamaica Kincaid,3.63,"4,345",386336.Annie_John,https://d2arxad8u2l0g7.cloudfront.net/books/1417605628l/386336.jpg,160,1985
-1334,"Colombian Films (Film Guide): Perder Es Cuesti N de M Todo, List of Colombian Films, Satan S, a Man of Principle, Chronicle of a Death Foretold",Source Wikipedia,0.00,0,9401277-colombian-films-film-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1348651852l/9401277.jpg,30,1981
+1334,hronicle of a Death Foretold,Gabriel Garcí­a Márquez,3.94,70290,23878.Chronicle_of_a_Death_Foretold,https://d2arxad8u2l0g7.cloudfront.net/books/1430736599l/23878.jpg,120,1981
 1335,Obasan,Joy Kogawa,3.58,"4,502",9723.Obasan,https://d2arxad8u2l0g7.cloudfront.net/books/1342814508l/9723.jpg,320,1981
 1336,Girl in Hyacinth Blue,Susan Vreeland,3.71,"30,715",321577.Girl_in_Hyacinth_Blue,https://d2arxad8u2l0g7.cloudfront.net/books/1364742503l/321577.jpg,242,1999
 1337,The Bone People,Keri Hulme,4.06,"14,908",460635.The_Bone_People,https://d2arxad8u2l0g7.cloudfront.net/books/1348988500l/460635.jpg,450,1984
@@ -2341,7 +2341,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 401,The Feminine Mystique,Betty Friedan,3.84,"14,837",17573685-the-feminine-mystique,https://d2arxad8u2l0g7.cloudfront.net/books/1377019820l/17573685.jpg,592,1963
 402,Philosophiae Naturalis Principia Mathematica (1822),Isaaco Newtono,0.00,0,25855951-philosophiae-naturalis-principia-mathematica,https://d2arxad8u2l0g7.cloudfront.net/books/1436132572l/25855951.jpg,212,1913
 403,"Picture frame mouldings, room mouldings, framed pictures, trays, lamps, imported novelties and specialties for the furniture trade, mirrors, picture hardware, fine gold gilding, portrait frames, artist materials and mat boards / Walter L. Lillie.",Walter L. Lillie (Firm),0.00,0,12062531-picture-frame-mouldings-room-mouldings-framed-pictures-trays-lamps,,0,1953
-404,Ant and Grasshopper,Luli Gray,3.68,248,9206914-ant-and-grasshopper,https://d2arxad8u2l0g7.cloudfront.net/books/1344396021l/9206914.jpg,32,1990
+404,The Ants,Bert Hölldobler,4.47,373,115013.The_Ants,https://d2arxad8u2l0g7.cloudfront.net/books/1171694601l/115013.jpg,732,1990
 405,The Art of the Soluble: Creativity and Originality in Science,Peter Medawar,3.93,14,7672554-the-art-of-the-soluble,https://d2arxad8u2l0g7.cloudfront.net/books/1284833302l/7672554.jpg,176,1967
 406,A Theory of Justice,John Rawls,3.90,"8,395",129237.A_Theory_of_Justice,https://d2arxad8u2l0g7.cloudfront.net/books/1348730096l/129237.jpg,624,1971
 407,Children of Crisis: Selections from the Pulitzer Prize-winning five-volume Children of Crisis series,Robert Coles,4.26,47,14397.Children_of_Crisis,https://d2arxad8u2l0g7.cloudfront.net/books/1344269424l/14397.jpg,736,1967
@@ -2521,7 +2521,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 581,The Hare With Amber Eyes: A Family's Century of Art and Loss,Edmund de Waal,3.83,"22,415",7821828-the-hare-with-amber-eyes,https://d2arxad8u2l0g7.cloudfront.net/books/1316730175l/7821828.jpg,368,2010
 582,Venice,Jan Morris,4.06,607,953994.Venice,https://d2arxad8u2l0g7.cloudfront.net/books/1348951331l/953994.jpg,336,
 583,"Farm Hands, hard work and hard lessons from Western New York fields",Tom Rivers,3.94,16,10454579-farm-hands-hard-work-and-hard-lessons-from-western-new-york-fields,,168,
-584,Madame Curie: A Biography by Eve Curie | Summary & Study Guide,BookRags,4.00,,28467386-madame-curie,https://d2arxad8u2l0g7.cloudfront.net/books/1452104028l/28467386.jpg,33,2001
+584,Madame Curie: A Biography by Eve Curie | Summary & Study Guide,BookRags,4.00,1,28467386-madame-curie,https://d2arxad8u2l0g7.cloudfront.net/books/1452104028l/28467386.jpg,33,2001
 585,Soul of a Citizen: Living With Conviction in a Cynical Time,Paul Rogat Loeb,3.72,426,111901.Soul_of_a_Citizen,https://d2arxad8u2l0g7.cloudfront.net/books/1316636926l/111901.jpg,368,1999
 586,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,4.30,"91,919",2199.Team_of_Rivals,https://d2arxad8u2l0g7.cloudfront.net/books/1347278868l/2199.jpg,916,
 587,Born to Run,Robert L. Arend,0.00,0,21751354-born-to-run,https://d2arxad8u2l0g7.cloudfront.net/books/1399521423l/21751354.jpg,0,2009
@@ -2607,7 +2607,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 667,"And the Band Played On: Politics, People, and the AIDS Epidemic",Randy Shilts,4.36,"16,680",28212.And_the_Band_Played_On,https://d2arxad8u2l0g7.cloudfront.net/books/1386924077l/28212.jpg,656,1987
 668,The Good War: An Oral History of World War II,Studs Terkel,4.25,"2,965",306399.The_Good_War,https://d2arxad8u2l0g7.cloudfront.net/books/1328752401l/306399.jpg,608,1984
 669,Satyagraha in South Africa: The Making of Mahatma Gandhi,Mahatma Gandhi,4.11,61,298854.Satyagraha_in_South_Africa,img/nopic.png,0,1928
-670,Theory of Games and Economic Behavior de Christian Morgenstern,Encyclopædia Universalis,0.00,0,26312614-theory-of-games-and-economic-behavior-de-christian-morgenstern,https://d2arxad8u2l0g7.cloudfront.net/books/1441946904l/26312614.jpg,29,1944
+670,Theory of Games and Economic Behavior,John von Neumann,4.21,141,483055.Theory_of_Games_and_Economic_Behavior,https://d2arxad8u2l0g7.cloudfront.net/books/1347376573l/483055.jpg,739,1944
 671,The Read-Along AA Big Book,Bill Wilson,4.47,19,18984684-the-read-along-aa-big-book,https://d2arxad8u2l0g7.cloudfront.net/books/1385511833l/18984684.jpg,150,1939
 672,Understanding Behaviorism,William M. Baum,0.00,0,15451487-understanding-behaviorism,,256,1930
 673,Sexual Behavior in the Human Male,Alfred C. Kinsey,3.68,181,47380.Sexual_Behavior_in_the_Human_Male,https://d2arxad8u2l0g7.cloudfront.net/books/1334969779l/47380.jpg,820,1948
@@ -2620,7 +2620,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 680,Looking at the Dance,Edwin Denby,4.33,3,6775559-looking-at-the-dance,img/nopic.png,0,1972
 681,Intelligent Life in the Universe,Carl Sagan,4.24,264,275567.Intelligent_Life_in_the_Universe,https://d2arxad8u2l0g7.cloudfront.net/books/1173336202l/275567.jpg,509,1966
 682,Hallow This Ground,Colin Rafferty,4.50,12,25788661-hallow-this-ground,https://d2arxad8u2l0g7.cloudfront.net/books/1435169785l/25788661.jpg,208,1956
-683,"Motivational Books: Mastering Motivation To Succeed: A Practical Guide For Your Road To Success (motivational books, motivational, motivation and personality, motivation)",Imran Khalid,5.00,,30517949-motivational-books,https://d2arxad8u2l0g7.cloudfront.net/books/1465602648l/30517949.jpg,34,1954
+683,Motivation and Personality,Abraham H. Maslow,4.15,933,1297177.Motivation_and_Personality,https://d2arxad8u2l0g7.cloudfront.net/books/1387734804l/1297177.jpg,336,1954
 684,Patterns of Culture,Ruth Benedict,3.77,983,973859.Patterns_of_Culture,https://d2arxad8u2l0g7.cloudfront.net/books/1349037691l/973859.jpg,320,1934
 685,Art and Culture: Critical Essays,Clement Greenberg,3.82,271,30606.Art_and_Culture,https://d2arxad8u2l0g7.cloudfront.net/books/1333579458l/30606.jpg,288,1961
 686,Conditioned Reflexes,Ivan Pavlov,4.13,85,1079220.Conditioned_Reflexes,https://d2arxad8u2l0g7.cloudfront.net/books/1328865650l/1079220.jpg,448,1927
@@ -2657,7 +2657,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 717,Life Studies and For the Union Dead,Robert Lowell,4.08,"1,046",125211.Life_Studies_and_For_the_Union_Dead,https://d2arxad8u2l0g7.cloudfront.net/books/1312011446l/125211.jpg,72,1964
 718,The Uncertainty Principle: Poems,Bill Mayer,0.00,0,1511253.The_Uncertainty_Principle,https://d2arxad8u2l0g7.cloudfront.net/books/1328840245l/1511253.jpg,88,1935
 719,The Crack-Up,F. Scott Fitzgerald,3.93,"2,324",16893.The_Crack_Up,https://d2arxad8u2l0g7.cloudfront.net/books/1408418643l/16893.jpg,347,1945
-720,Raw & Cooked Diets For Toy Dogs,Monica Segal,5.00,,21295490-raw-cooked-diets-for-toy-dogs,https://d2arxad8u2l0g7.cloudfront.net/books/1394267039l/21295490.jpg,0,1969
+720,The Raw and the Cooked (Mythologiques #1),Claude Lévi-Strauss,4.07,215,196190.The_Raw_and_the_Cooked,https://d2arxad8u2l0g7.cloudfront.net/books/1348261738l/196190.jpg,402,1969
 721,The Montessori Method,Maria Montessori,4.04,756,372408.The_Montessori_Method,https://d2arxad8u2l0g7.cloudfront.net/books/1349020097l/372408.jpg,440,1912
 722,Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer,4.10,"283,921",1898.Into_Thin_Air,https://d2arxad8u2l0g7.cloudfront.net/books/1463384482l/1898.jpg,337,1997
 723,Parting the Waters: Martin Luther King and the Civil Rights Movement 1954-63,Taylor Branch,4.40,"5,144",99199.Parting_the_Waters,https://d2arxad8u2l0g7.cloudfront.net/books/1332554654l/99199.jpg,924,1988
@@ -2753,7 +2753,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 813,News from Tartary,Peter Fleming,0.00,0,30113068-news-from-tartary,https://d2arxad8u2l0g7.cloudfront.net/books/1464168700l/30113068.jpg,0,1936
 814,Annapurna: A Woman's Place,Arlene Blum,4.11,"1,197",306659.Annapurna,https://d2arxad8u2l0g7.cloudfront.net/books/1328746346l/306659.jpg,272,1980
 815,Peeling the Onion,Günter Grass,3.75,"1,093",35740.Peeling_the_Onion,https://d2arxad8u2l0g7.cloudfront.net/books/1328876844l/35740.jpg,432,2006
-816,Cooper Collection 045,Bill Bernico,0.00,0,19206387-cooper-collection-045,https://d2arxad8u2l0g7.cloudfront.net/books/1386250701l/19206387.jpg,31,1790
+816,The Bounty Mutiny,William Bligh,3.89,1965,254191.The_Bounty_Mutiny,https://d2arxad8u2l0g7.cloudfront.net/books/1309283572l/254191.jpg,288,1790
 817,The Order of Things: An Archaeology of the Human Sciences,Michel Foucault,4.12,"6,429",119561.The_Order_of_Things,https://d2arxad8u2l0g7.cloudfront.net/books/1327977833l/119561.jpg,387,1966
 818,Adrift: Seventy-Six Days Lost at Sea,Steven Callahan,4.08,"9,820",121410.Adrift,https://d2arxad8u2l0g7.cloudfront.net/books/1356596323l/121410.jpg,344,1986
 819,The Castaway Bride,Kandy Shepherd,3.43,161,12685802-the-castaway-bride,https://d2arxad8u2l0g7.cloudfront.net/books/1320744033l/12685802.jpg,0,1542

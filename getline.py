@@ -42,5 +42,7 @@ if pages is not None:
 else:
 	pages = "0"
 
-print title+','+author+','+rating+','+ratings+','+part_url+','+img+','+pages+','
+line = title+','+author+','+rating+','+ratings+','+part_url+','+img+','+pages+','
+
+print line.encode('utf-8')
 
