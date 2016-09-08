@@ -36,7 +36,7 @@
 var size_square = 7;
 
 var width = 960,
-    height = 500;
+    height = 400;
 
 var svg = d3.select("#theviz").append("svg")
     .attr("width", width*size_square)
@@ -55,12 +55,13 @@ var color_scale = chroma.scale(['lightgray', 'red']);
 var tt = d3.select("#tooltip");
 
 d3.csv("both.csv", function(error, data) {
-	//d3.csv("output_corregido.csv", function(error, data) {
+	//d3.tsv("bbeverpicsTotalPages.tsv", function(error, data) {
 	data.sort(function(a, b) { return parseInt(a.pages) - parseInt(b.pages); });
-
 	order_pages = 0;
 	previous_page = 0;
 	tmp_col = [];
+
+  debug_total_datum = 0;
 
 	data.forEach(function(d) {
     d.pages = +d.pages;
@@ -71,6 +72,9 @@ d3.csv("both.csv", function(error, data) {
         d.order_pages = order_pages;
         d.order_rating = 5.0; 
         tmp_col.push(d); 
+
+        // console.log("<=");
+        // console.log(d);
     	}
     else //cambio de pagina
    		{
@@ -93,22 +97,27 @@ d3.csv("both.csv", function(error, data) {
           tmp_col = []; //clean the temp column
           tmp_col.push(d); //and insert the next one
         }
+
+        // console.log("else");
+        // console.log(d);
    			
    		}
 
     if (typeof d.ratings !== "undefined")
     	d.ratings = parseInt(d.ratings.replace(/\,/g,'')); //remove commas
+
+    //console.log(++debug_total_datum);
   });
 
 	y.domain([0,5]);
-	x.domain([0,d3.max(data, function(d) { return d.pages; })]);
+	x.domain([0,d3.max(data, function(d) { return d.order_pages; })]);
 	cs.domain([0,d3.max(data, function(d) { return d.ratings; })]);
 
 	svg.selectAll(".square")
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) {return x(d.order_pages)*(size_square*size_square/2); })
+      .attr("x", function(d) {return x(d.order_pages)*(size_square/2); })
       .attr("width", size_square)
       .attr("y", function(d) {return y(d.order_rating);})
       .attr("height", size_square)
