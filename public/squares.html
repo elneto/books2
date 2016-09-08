@@ -142,7 +142,7 @@ d3.csv("both.csv", function(error, data) {
         d3.select("#tt-img").attr("src", d.img);
       else
         d3.select("#tt-img").attr("src", "img/nopic.png");
-      d3.select("#tt-title").text(d.title);
+      d3.select("#tt-title").text(d.title + ' ('+d.id+')'); //debug id
       d3.select("#tt-author").text(d.author);
       d3.select("#tt-pages").text(d.pages+" pages");
       d3.select("#tt-ratings").text(d.avg_rating + " from " +addCommas(d.ratings)+ " reviews");
