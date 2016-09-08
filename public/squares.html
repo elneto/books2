@@ -117,7 +117,7 @@ d3.csv("both.csv", function(error, data) {
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) {return x(d.order_pages)*(size_square/2); })
+      .attr("x", function(d) {return x(d.order_pages)*(size_square-1); })
       .attr("width", size_square)
       .attr("y", function(d) {return y(d.order_rating);})
       .attr("height", size_square)
