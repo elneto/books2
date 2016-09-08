@@ -249,7 +249,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 246,Song of Solomon,Toni Morrison,3.98,"56,763",11334.Song_of_Solomon,https://d2arxad8u2l0g7.cloudfront.net/books/1451448230l/11334.jpg,337,1977
 247,The Unnamable,Samuel Beckett,4.03,"1,109",78457.The_Unnamable,https://d2arxad8u2l0g7.cloudfront.net/books/1231431771l/78457.jpg,186,1953
 248,The Book of Disquiet,Fernando Pessoa,4.51,"11,057",45974.The_Book_of_Disquiet,https://d2arxad8u2l0g7.cloudfront.net/books/1382871857l/45974.jpg,544,1982
-249,Winnie-The-Pooh Meets Gopher,A.A. Milne,4.29,194,2716670-winnie-the-pooh-meets-gopher,https://d2arxad8u2l0g7.cloudfront.net/books/1358590755l/2716670.jpg,24,1926
+249,Winnie-the-Pooh (Winnie-the-Pooh #1),A.A. Milne,4.33,202053,99107.Winnie_the_Pooh,https://d2arxad8u2l0g7.cloudfront.net/books/1298440130l/99107.jpg,145,1926
 250,"Le Morte d'Arthur, Vol. 2",Thomas Malory,4.12,"3,849",219269.Le_Morte_d_Arthur_Vol_2,https://d2arxad8u2l0g7.cloudfront.net/books/1347344985l/219269.jpg,560,1485
 251,A Confederacy of Dunces,John Kennedy Toole,3.88,"170,319",310612.A_Confederacy_of_Dunces,https://d2arxad8u2l0g7.cloudfront.net/books/1436747103l/310612.jpg,416,1980
 252,Our Mutual Friend,Charles Dickens,4.06,"18,458",31244.Our_Mutual_Friend,https://d.gr-assets.com/books/1403189244l/31244.jpg,801,1865
@@ -502,7 +502,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 499,The Sheltering Sky,Paul Bowles,3.92,"18,112",243598.The_Sheltering_Sky,https://d2arxad8u2l0g7.cloudfront.net/books/1347986956l/243598.jpg,342,1949
 500,Dom Casmurro,Machado de Assis,4.22,"10,396",82888.Dom_Casmurro,https://d2arxad8u2l0g7.cloudfront.net/books/1348286455l/82888.jpg,176,1899
 501,The Day of the Locust,Nathanael West,3.79,"15,439",113441.The_Day_of_the_Locust,https://d2arxad8u2l0g7.cloudfront.net/books/1387706380l/113441.jpg,208,1939
-502,"Novels by Junichiro Tanizaki: Naomi, Some Prefer Nettles, the Makioka Sisters, Quicksand, the Key",Books LLC,3.85,26,8840814-novels-by-junichiro-tanizaki,https://d2arxad8u2l0g7.cloudfront.net/books/1349049504l/8840814.jpg,28,1929
+502,Some Prefer Nettles,Jun'ichirō Tanizaki,3.66,2046,194642.Some_Prefer_Nettles,https://d2arxad8u2l0g7.cloudfront.net/books/1347770539l/194642.jpg,202,1929
 503,The Complete Writings of Alfred de Musset,Alfred de Musset,4.00,3,14370287-the-complete-writings-of-alfred-de-musset,https://d2arxad8u2l0g7.cloudfront.net/books/1349057339l/14370287.jpg,368,1857
 504,Daphnis and Chloe,Longus,3.74,"1,578",1016881.Daphnis_and_Chloe,https://d2arxad8u2l0g7.cloudfront.net/books/1387740579l/1016881.jpg,128,200
 505,Snowy Tower: Parzival and the Wet Black Branch of Language,Martin Shaw,4.71,17,18114496-snowy-tower,https://d2arxad8u2l0g7.cloudfront.net/books/1378802317l/18114496.jpg,272,1200
@@ -568,7 +568,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 565,Rimas,Gustavo Adolfo Bécquer,4.20,959,1134734.Rimas,https://d2arxad8u2l0g7.cloudfront.net/books/1401230805l/1134734.jpg,0,1850
 566,Fortunata y Jacinta - Volumen I,Benito Pérez Galdós,4.22,219,214753.Fortunata_y_Jacinta_Volumen_I,https://d2arxad8u2l0g7.cloudfront.net/books/1222492849l/214753.jpg,720,1887
 567,La Celestina,Fernando de Rojas,3.38,"7,250",214858.La_Celestina,https://d2arxad8u2l0g7.cloudfront.net/books/1405559122l/214858.jpg,336,1499
-568,Ventilation in Shipyard Employment,U.S. Department of Labor,0.00,0,21447689-ventilation-in-shipyard-employment,https://d2arxad8u2l0g7.cloudfront.net/books/1396834080l/21447689.jpg,26,1961
+568,The Shipyard,Juan Carlos Onetti,3.84,697,2250881.The_Shipyard,https://d2arxad8u2l0g7.cloudfront.net/books/1266671872l/2250881.jpg,192,1961
 569,Residence on Earth,Pablo Neruda,4.40,"2,947",214888.Residence_on_Earth,https://d2arxad8u2l0g7.cloudfront.net/books/1385248113l/214888.jpg,359,1933
 570,Trilce,César Vallejo,4.28,518,167425.Trilce,https://d2arxad8u2l0g7.cloudfront.net/books/1347776177l/167425.jpg,256,1922
 571,Three Trapped Tigers,Guillermo Cabrera Infante,4.00,"1,016",223455.Three_Trapped_Tigers,https://d2arxad8u2l0g7.cloudfront.net/books/1403209034l/223455.jpg,487,1967
@@ -860,7 +860,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 857,The Way of All Flesh,Samuel Butler,3.62,"6,048",126512.The_Way_of_All_Flesh,https://d2arxad8u2l0g7.cloudfront.net/books/1328864358l/126512.jpg,320,1903
 858,Bel Canto,Ann Patchett,3.91,"184,469",5826.Bel_Canto,https://d2arxad8u2l0g7.cloudfront.net/books/1352997328l/5826.jpg,352,2001
 859,Tales from the Kathasaritsagara,Somadeva Bhaṭṭa,4.25,60,343246.Tales_from_the_Kathasaritsagara,https://d2arxad8u2l0g7.cloudfront.net/books/1173903775l/343246.jpg,320,1070
-860,"A study guide for J. D. Salinger's ""Franny and Zooey"" (Novels for Students)",The Gale Group,0.00,0,31285370-a-study-guide-for-j-d-salinger-s-franny-and-zooey,https://d2arxad8u2l0g7.cloudfront.net/books/1469734887l/31285370.jpg,28,1961
+860,Franny and Zooey,J.D. Salinger,3.98,154402,5113.Franny_and_Zooey,https://d2arxad8u2l0g7.cloudfront.net/books/1355037988l/5113.jpg,201,1961
 861,Sister Carrie,Theodore Dreiser,3.71,"27,788",126609.Sister_Carrie,https://d2arxad8u2l0g7.cloudfront.net/books/1387666415l/126609.jpg,580,1900
 862,Schindler's List,Thomas Keneally,4.34,"108,860",375013.Schindler_s_List,https://d2arxad8u2l0g7.cloudfront.net/books/1348163457l/375013.jpg,429,1982
 863,A Fine Balance,Rohinton Mistry,4.34,"97,891",5211.A_Fine_Balance,https://d2arxad8u2l0g7.cloudfront.net/books/1386925449l/5211.jpg,603,1995
@@ -1376,7 +1376,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1373,Affliction,Russell Banks,3.98,"2,718",227751.Affliction,https://d2arxad8u2l0g7.cloudfront.net/books/1310092463l/227751.jpg,368,1997
 1374,Where Angels Fear to Tread / A Room with a View,E.M. Forster,5.00,,24231696-where-angels-fear-to-tread-a-room-with-a-view,,377,1905
 1375,"City of the Beasts (Eagle and Jaguar, #1)",Isabel Allende,3.68,"19,688",3304.City_of_the_Beasts,https://d2arxad8u2l0g7.cloudfront.net/books/1331488122l/3304.jpg,408,2002
-1376,Ginger Snap: The Sweet Shop Girls,Arden Bell,5.00,,23839337-ginger-snap,https://d2arxad8u2l0g7.cloudfront.net/books/1419354135l/23839337.jpg,27,1955
+1376,The Ginger Man,J.P. Donleavy,3.67,7521,127020.The_Ginger_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1348768755l/127020.jpg,352,1955
 1377,Crow Lake,Mary Lawson,3.84,"12,163",8646.Crow_Lake,https://d2arxad8u2l0g7.cloudfront.net/books/1388187730l/8646.jpg,324,2002
 1378,"Ancient Greek Stories - About Africa,",J.O. de Graft Hanson,0.00,0,28228412-ancient-greek-stories---about-africa,https://d2arxad8u2l0g7.cloudfront.net/books/1450306168l/28228412.jpg,65,1953
 1379,The Tiger Who Came to Tea,Judith Kerr,4.22,"9,904",1099097.The_Tiger_Who_Came_to_Tea,https://d2arxad8u2l0g7.cloudfront.net/books/1369858732l/1099097.jpg,32,1968
@@ -2077,7 +2077,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 136,Euclid's Elements,Euclid,4.26,"2,303",214441.Euclid_s_Elements,https://d2arxad8u2l0g7.cloudfront.net/books/1386924722l/214441.jpg,499,-280
 137,Rationalism in Politics and Other Essays,Michael Oakeshott,4.06,149,112736.Rationalism_in_Politics_and_Other_Essays,https://d2arxad8u2l0g7.cloudfront.net/books/1328776874l/112736.jpg,582,1962
 138,Poetics,Aristotle,3.80,"11,596",13270.Poetics,https://d2arxad8u2l0g7.cloudfront.net/books/1348161995l/13270.jpg,62,-335
-139,"Uvre de Claude LVI-Strauss: La Pense Sauvage, Tristes Tropiques, Le Cru Et Le Cuit, Anthropologie Structurale",Livres Groupe,4.33,3,9602144-uvre-de-claude-lvi-strauss,https://d2arxad8u2l0g7.cloudfront.net/books/1347562269l/9602144.jpg,26,1955
+139,Tristes Tropiques,Claude Lévi-Strauss,4.12,1744,283901.Tristes_Tropiques,https://d2arxad8u2l0g7.cloudfront.net/books/1302750303l/283901.jpg,417,1955
 140,Dispatches,Michael Herr,4.24,"9,669",4339.Dispatches,https://d2arxad8u2l0g7.cloudfront.net/books/1343099128l/4339.jpg,260,1977
 141,A Supposedly Fun Thing I'll Never Do Again:  Essays and Arguments,David Foster Wallace,4.27,"24,267",6748.A_Supposedly_Fun_Thing_I_ll_Never_Do_Again,https://d2arxad8u2l0g7.cloudfront.net/books/1438206388l/6748.jpg,353,1997
 142,Second Treatise of Government,John Locke,3.74,"13,471",448836.Second_Treatise_of_Government,https://d2arxad8u2l0g7.cloudfront.net/books/1405624453l/448836.jpg,148,1689
@@ -2452,7 +2452,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 512,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,4.14,"57,492",767171.The_Rise_and_Fall_of_the_Third_Reich,https://d2arxad8u2l0g7.cloudfront.net/books/1331223772l/767171.jpg,1614,
 513,Notes from a Small Island,Bill Bryson,3.91,"64,608",28.Notes_from_a_Small_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1411111661l/28.jpg,324,1995
 514,"Transgression (City of God, #1)",R. S. Ingermanson,4.00,12,22889062-transgression,img/nopic.png,0,426
-515,"God, Me & a Cup of Tea (#3)",Michele Huey,5.00,,23625092-god-me-a-cup-of-tea,https://d2arxad8u2l0g7.cloudfront.net/books/1417103989l/23625092.jpg,24,2006
+515,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,3.63,270299,49436.Three_Cups_of_Tea,https://d2arxad8u2l0g7.cloudfront.net/books/1395407074l/49436.jpg,349,2006
 516,"Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, A Man Who Would Cure the World",Tracy Kidder,4.20,"50,374",10235.Mountains_Beyond_Mountains,https://d2arxad8u2l0g7.cloudfront.net/books/1433156001l/10235.jpg,333,2003
 517,Kaffir Boy in America: An Encounter with Apartheid,Mark Mathabane,3.76,449,83170.Kaffir_Boy_in_America,https://d2arxad8u2l0g7.cloudfront.net/books/1171036680l/83170.jpg,303,1986
 518,A Heartbreaking Work of Staggering Genius,Dave Eggers,3.67,"142,378",4953.A_Heartbreaking_Work_of_Staggering_Genius,https://d2arxad8u2l0g7.cloudfront.net/books/1327714834l/4953.jpg,496,2000
@@ -2665,7 +2665,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 725,"Common Ground (Common Denominator, #2)",Richard David Bach,4.20,5,17983392-common-ground,https://d2arxad8u2l0g7.cloudfront.net/books/1369694289l/17983392.jpg,250,1985
 726,Dreams from My Father: A Story of Race and Inheritance,Barack Obama,3.77,"117,542",88061.Dreams_from_My_Father,https://d2arxad8u2l0g7.cloudfront.net/books/1352340675l/88061.jpg,453,2004
 727,The God Delusion,Richard Dawkins,3.89,"156,459",14743.The_God_Delusion,https://d2arxad8u2l0g7.cloudfront.net/books/1347220693l/14743.jpg,374,2006
-728,Spirit of St. Louis Lace Panel Filet Crochet Pattern: Complete Instructions and Chart,Mrs F a Wright,0.00,0,27675597-spirit-of-st-louis-lace-panel-filet-crochet-pattern,https://d2arxad8u2l0g7.cloudfront.net/books/1449433420l/27675597.jpg,26,1953
+728,The Spirit of St. Louis,Charles A. Lindbergh,4.11,883,571406.The_Spirit_of_St_Louis,https://d2arxad8u2l0g7.cloudfront.net/books/1348627414l/571406.jpg,576,1953
 729,The 9/11 Report,Sid Jacobson,3.67,"1,262",160220.The_9_11_Report,https://d2arxad8u2l0g7.cloudfront.net/books/1312023493l/160220.jpg,117,2004
 730,The Rest Is Noise Series: Sunken Cathedrals: Music at Century's End,Alex Ross,0.00,0,29763663-the-rest-is-noise-series,https://d2arxad8u2l0g7.cloudfront.net/books/1459635105l/29763663.jpg,45,2007
 731,The Noonday Demon: An Atlas of Depression,Andrew Solomon,4.12,"7,234",13932.The_Noonday_Demon,https://d2arxad8u2l0g7.cloudfront.net/books/1438193191l/13932.jpg,576,2001
@@ -3052,7 +3052,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1112,"Raven (Raven, #1)",Kimberly Brockman,4.16,63,17305412-raven,https://d2arxad8u2l0g7.cloudfront.net/books/1359610539l/17305412.jpg,236,1930
 1113,The People's Choice: From Washington to Harding : A Study in Democracy,Herbert Agar,0.00,0,3115867-the-people-s-choice,,337,1933
 1114,Embracing Defeat: Japan in the Wake of World War II,John W. Dower,4.09,"2,381",273197.Embracing_Defeat,https://d2arxad8u2l0g7.cloudfront.net/books/1388205271l/273197.jpg,676,1999
-1115,The Content of Our Character: A New Vision of Race in America by Shelby Steele | Summary & Study Guide,BookRags,4.00,,20661423-the-content-of-our-character,https://d2arxad8u2l0g7.cloudfront.net/books/1391182178l/20661423.jpg,29,1989
+1115,The Content of Our Character: A New Vision of Race In America,Shelby Steele,3.89,289,55549.The_Content_of_Our_Character,https://d2arxad8u2l0g7.cloudfront.net/books/1429850066l/55549.jpg,192,1989
 1116,The Disruption of American Democracy,Roy Franklin Nichols,5.00,,1551829.The_Disruption_of_American_Democracy,img/nopic.png,0,1948
 1117,Malcolm X: A Life of Reinvention,Manning Marable,4.19,"9,797",7940589-malcolm-x,https://d2arxad8u2l0g7.cloudfront.net/books/1347690389l/7940589.jpg,608,2011
 1118,The Measure of a Man,Amelia E. Barr,4.50,2,10912688-the-measure-of-a-man,https://d2arxad8u2l0g7.cloudfront.net/books/1349003791l/10912688.jpg,240,1954
