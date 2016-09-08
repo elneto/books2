@@ -6,6 +6,7 @@
   fill:lightgray;
   stroke:white;
   stroke-width:1;
+  cursor: pointer; cursor: hand;
 }
 
 .square:hover {
@@ -126,6 +127,9 @@ d3.csv("both.csv", function(error, data) {
           //d3.select(this).transition().duration(300).attr("height", size_square*2).attr("width", size_square*2);
           showTooltip(d, this, event.pageX, event.pageY);
         })
+      .on("click", function(d){
+          window.open("https://www.goodreads.com/book/show/"+d.url, '_blank');
+      })
       // .on("mouseout", function(d){ 
       //     d3.select(this).transition().duration(300).attr("height", size_square).attr("width", size_square);
       //   })
