@@ -123,7 +123,11 @@ d3.csv("both.csv", function(error, data) {
       .attr("height", size_square)
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
+          d3.select(this).transition().duration(300).attr("height", size_square*2).attr("width", size_square*2);
           showTooltip(d, this, event.pageX, event.pageY);
+        })
+      .on("mouseout", function(d){ 
+          d3.select(this).transition().duration(300).attr("height", size_square).attr("width", size_square);
         });
 
   d3.select("#closett").on("click",function(d){return tt.style("visibility", "hidden");});

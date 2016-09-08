@@ -1117,7 +1117,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1114,"The Twelve Labours of Hercules, Son of Jupiter and Alcmena",Unknown author,0.00,0,30910739-the-twelve-labours-of-hercules-son-of-jupiter-and-alcmena,,36,-600
 1115,Wild at Heart,Barry Gifford,3.76,859,12867.Wild_at_Heart,https://d2arxad8u2l0g7.cloudfront.net/books/1348209142l/12867.jpg,160,1990
 1116,Wondrous Moment: Selected Poetry,Alexander Pushkin,4.20,137,5977679-wondrous-moment,https://d2arxad8u2l0g7.cloudfront.net/books/1400852307l/5977679.jpg,92,1837
-1117,The Hunting of the Snark: An Agony in Eight Fits,Henry Holiday Lewis Carroll,4.67,3,11155246-the-hunting-of-the-snark,,0,1876
+1117,The Hunting of the Snark,Lewis Carroll,4.08,3682,296866.The_Hunting_of_the_Snark,https://d2arxad8u2l0g7.cloudfront.net/books/1173486610l/296866.jpg,27,1876
 1118,Trilogy & Hagoromo: A Celestial Robe,Yoko Danno,0.00,0,9364414-trilogy-hagoromo,https://d2arxad8u2l0g7.cloudfront.net/books/1347876628l/9364414.jpg,94,1524
 1119,"THEMES OF ANALYTICAL PSYCHOLOGY: Essay on «THE GOLDEN ASS», a tale of Apuleius (P)(GB)(FR)",Maria Dias,0.00,0,23903672-themes-of-analytical-psychology,https://d2arxad8u2l0g7.cloudfront.net/books/1422008642l/23903672.jpg,0,1953
 1120,Ollantay,Anonymous,3.43,47,24396766-ollantay,https://d2arxad8u2l0g7.cloudfront.net/books/1458568143l/24396766.jpg,160,1857
@@ -2003,8 +2003,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 62,Orthodoxy,Chesterton Gilbert Keith,0.00,0,31169302-orthodoxy,,158,1908
 63,Civil Disobedience,Henry David Thoreau,3.95,"5,210",18626866-civil-disobedience,https://d2arxad8u2l0g7.cloudfront.net/books/1384803290l/18626866.jpg,33,1849
 64,A Moveable Feast,Ernest Hemingway,4.03,"81,878",4631.A_Moveable_Feast,https://d2arxad8u2l0g7.cloudfront.net/books/1427463201l/4631.jpg,181,1964
-65,R. E. Lee:  A Biography Volume III,Douglas Southall Freeman,4.69,61,2151059.R_E_Lee,img/nopic.png,0,1934
-66,Concise Oxford English Dictionary with CDROM,Oxford University Press,4.43,196,203824.Concise_Oxford_English_Dictionary_with_CDROM,https://d2arxad8u2l0g7.cloudfront.net/books/1172652152l/203824.jpg,1728,1884
+65,Lee,Douglas Southall Freeman,4.26,1150,932370.Lee,https://d2arxad8u2l0g7.cloudfront.net/books/1349033663l/932370.jpg,656,1884
 67,Black Lamb and Grey Falcon,Rebecca West,4.23,"1,342",12880.Black_Lamb_and_Grey_Falcon,https://d2arxad8u2l0g7.cloudfront.net/books/1388190495l/12880.jpg,1181,1941
 68,Encyclopedia Britannica. 2006 Book Of The Year,Encyclopaedia Britannica,5.00,,7431821-encyclopedia-britannica-2006-book-of-the-year,,904,1771
 69,It's Time to Implement the Forgotten Constitution of India for liberty and dignity,K.C. Agrawal,5.00,2,28487584-it-s-time-to-implement-the-forgotten-constitution-of-india-for-liberty-a,https://d2arxad8u2l0g7.cloudfront.net/books/1452267897l/28487584.jpg,232,1960
@@ -2508,7 +2507,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 568,All But My Life: A Memoir,Gerda Weissmann Klein,4.29,"12,373",163363.All_But_My_Life,https://d2arxad8u2l0g7.cloudfront.net/books/1316131452l/163363.jpg,272,1957
 569,My Forbidden Face: Growing Up Under the Taliban: A Young Woman's Story,Latifa,3.79,"2,303",53693.My_Forbidden_Face,https://d2arxad8u2l0g7.cloudfront.net/books/1436530472l/53693.jpg,224,2001
 570,Falling Leaves: The Memoir of an Unwanted Chinese Daughter,Adeline Yen Mah,3.87,"19,996",54529.Falling_Leaves,https://d2arxad8u2l0g7.cloudfront.net/books/1423952608l/54529.jpg,280,1997
-571,Lifting My Hands to Heaven,April Nichole,4.25,4,16111162-lifting-my-hands-to-heaven,https://d2arxad8u2l0g7.cloudfront.net/books/1351302552l/16111162.jpg,36,1999
+571,In My Hands: Memories of a Holocaust Rescuer,Irene Gut Opdyke,4.19,8406,494320.In_My_Hands,https://d2arxad8u2l0g7.cloudfront.net/books/1320440794l/494320.jpg,304,1992
 572,Funny in Farsi: A Memoir of Growing Up Iranian in America,Firoozeh Dumas,3.75,"11,575",46349.Funny_in_Farsi,https://d2arxad8u2l0g7.cloudfront.net/books/1411923160l/46349.jpg,240,2003
 573,Enrique's Journey: The Story of a Boy's Dangerous Odyssey to Reunite with His Mother,Sonia Nazario,3.80,"7,177",158277.Enrique_s_Journey,https://d2arxad8u2l0g7.cloudfront.net/books/1320543035l/158277.jpg,300,2006
 574,"American Shaolin: Flying Kicks, Buddhist Monks, and the Legend of Iron Crotch: An Odyssey in the New China",Matthew Polly,3.98,"2,272",207268.American_Shaolin,https://d2arxad8u2l0g7.cloudfront.net/books/1388197834l/207268.jpg,384,2006
