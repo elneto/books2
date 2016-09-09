@@ -686,7 +686,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 683,Northern LIghts,Sienna Stapleton,3.50,2,23388825-northern-lights,img/nopic.png,0,1995
 684,The Complete Poems of Sappho,Sappho,4.09,513,5945516-the-complete-poems-of-sappho,https://d2arxad8u2l0g7.cloudfront.net/books/1388456588l/5945516.jpg,224,-570
 685,Legends of the Fall,Jim Harrison,4.04,"6,035",395397.Legends_of_the_Fall,https://d2arxad8u2l0g7.cloudfront.net/books/1320469969l/395397.jpg,288,1979
-686,"Notes from the letters of Thomas Moore to his music publisher, James Power. With an introductory letter from T.C. Croker. [With an additional engr. title-leaf, Lond., 1853. With] Letter from Thomas Crofton Croker ... to J.S. Redfield ... respecting t",Thomas Moore,4.00,,7626467-notes-from-the-letters-of-thomas-moore-to-his-music-publisher-james-pow,img/nopic.png,0,1824
+686,Selected Poems,George Gordon Byron,4.04,10527,119239.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1411634706l/119239.jpg,864,1824
 687,Miss Lonelyhearts,Nathanael West,3.65,"2,236",250041.Miss_Lonelyhearts,https://d2arxad8u2l0g7.cloudfront.net/books/1356886809l/250041.jpg,80,1933
 688,Possession,A.S. Byatt,3.88,"55,992",41219.Possession,https://d2arxad8u2l0g7.cloudfront.net/books/1391124124l/41219.jpg,555,1990
 689,"The Monkey Wrench Gang (Monkey Wrench Gang, #1)",Edward Abbey,4.08,"15,536",99208.The_Monkey_Wrench_Gang,https://d2arxad8u2l0g7.cloudfront.net/books/1349067863l/99208.jpg,421,1975
@@ -1111,7 +1111,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1108,Der Struwwelpeter,Heinrich Hoffmann,3.90,"1,270",1422884.Der_Struwwelpeter,https://d2arxad8u2l0g7.cloudfront.net/books/1183476377l/1422884.jpg,20,1845
 1109,"The Diary of Anaïs Nin, Vol. 1: 1931-1934",Anaïs Nin,4.09,"4,683",46064.The_Diary_of_Ana_s_Nin_Vol_1,https://d2arxad8u2l0g7.cloudfront.net/books/1386925001l/46064.jpg,384,1934
 1110,Resurrection,Leo Tolstoy,4.08,"10,455",42641.Resurrection,https://d2arxad8u2l0g7.cloudfront.net/books/1335874776l/42641.jpg,562,1899
-1111,Nikolai Gogol Reader; Two Short Stories By Nikolai Gogol,Nikolai Gogol,4.00,,21389220-nikolai-gogol-reader-two-short-stories-by-nikolai-gogol,https://d2arxad8u2l0g7.cloudfront.net/books/1394334872l/21389220.jpg,0,1852
+1111,The Collected Tales of Nikolai Gogol,Nikolai Gogol,4.36,9418,252981.The_Collected_Tales_of_Nikolai_Gogol,https://d2arxad8u2l0g7.cloudfront.net/books/1403184138l/252981.jpg,435,1852
 1112,The Magic Toyshop,Angela Carter,3.88,"5,354",81026.The_Magic_Toyshop,https://d2arxad8u2l0g7.cloudfront.net/books/1388410534l/81026.jpg,200,1967
 1113,The Complete Short Stories of Jack London,Jack London,4.42,26,15740800-the-complete-short-stories-of-jack-london,https://d2arxad8u2l0g7.cloudfront.net/books/1341685821l/15740800.jpg,2557,1916
 1114,"The Twelve Labours of Hercules, Son of Jupiter and Alcmena",Unknown author,0.00,0,30910739-the-twelve-labours-of-hercules-son-of-jupiter-and-alcmena,,36,-600
@@ -1124,7 +1124,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1121,Penguin Island,Anatole France,3.66,878,346024.Penguin_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1348098763l/346024.jpg,284,1908
 1122,Spoon River Anthology,Edgar Lee Masters,4.00,"6,181",292668.Spoon_River_Anthology,https://d2arxad8u2l0g7.cloudfront.net/books/1173464177l/292668.jpg,112,1915
 1123,Miss Julie,August Strindberg,3.53,"8,032",325916.Miss_Julie,https://d2arxad8u2l0g7.cloudfront.net/books/1353573878l/325916.jpg,96,1888
-1124,The Complete Fairy Tales of Charles Perrault,Charles Perrault,4.00,,16409678-the-complete-fairy-tales-of-charles-perrault,img/nopic.png,0,1703
+1124,The Complete Fairy Tales,Charles Perrault,4.07,177,6614115-the-complete-fairy-tales,https://d2arxad8u2l0g7.cloudfront.net/books/1348592846l/6614115.jpg,204,1703
 1125,"The Red Room & Other Horrors: H. G. Wells' Best Weird Science Fiction and Ghost Stories, Annotated and Illustrated",H.G. Wells,3.00,,26395702-the-red-room-other-horrors,https://d2arxad8u2l0g7.cloudfront.net/books/1442874690l/26395702.jpg,214,1946
 1126,The New Atlantis,Francis Bacon,3.16,"1,362",277032.The_New_Atlantis,https://d2arxad8u2l0g7.cloudfront.net/books/1348118743l/277032.jpg,33,1627
 1127,Oroonoko,Aphra Behn,2.97,"5,911",51190.Oroonoko,https://d2arxad8u2l0g7.cloudfront.net/books/1438766417l/51190.jpg,144,1689
@@ -1543,7 +1543,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1540,The Secret Garden,Frances Hodgson Burnett,4.11,"623,317",2998.The_Secret_Garden,https://d2arxad8u2l0g7.cloudfront.net/books/1327873635l/2998.jpg,331,1911
 1541,"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor,3.78,"92,399",310459.Roll_of_Thunder_Hear_My_Cry,https://d2arxad8u2l0g7.cloudfront.net/books/1388345167l/310459.jpg,288,1976
 1542,Nightwood,Djuna Barnes,3.71,"5,848",53101.Nightwood,https://d2arxad8u2l0g7.cloudfront.net/books/1298480120l/53101.jpg,182,1936
-1543,"The Lord Peter Wimsey Radio Dramas: Eight Full-Cast BBC Radio Dramatizations: Gaudy Night, The Nine Tailors, Murder Must Advertise, Busman’s Honeymoon, The Unpleasantness at the Bellona Club, Five Red Herrings, Clouds of Witness, Unnatural Death",Dorothy L. Sayers,4.00,10,11532856-the-lord-peter-wimsey-radio-dramas,https://d2arxad8u2l0g7.cloudfront.net/books/1328737066l/11532856.jpg,0,1937
+1543,Busman's Honeymoon (Lord Peter Wimsey #13),Dorothy L. Sayers,4.28,12317,116971.Busman_s_Honeymoon,https://d2arxad8u2l0g7.cloudfront.net/books/1431714605l/116971.jpg,409,1937
 1544,The Counterlife,Philip Roth,3.90,"2,847",11655.The_Counterlife,https://d2arxad8u2l0g7.cloudfront.net/books/1327936114l/11655.jpg,336,1986
 1545,Operation Shylock: A Confession,Philip Roth,3.77,"2,809",12881.Operation_Shylock,https://d2arxad8u2l0g7.cloudfront.net/books/1348763213l/12881.jpg,400,1993
 1546,Always Coming Home,Ursula K. Le Guin,3.95,"1,977",201901.Always_Coming_Home,https://d2arxad8u2l0g7.cloudfront.net/books/1386919467l/201901.jpg,525,1985
@@ -2094,7 +2094,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999154,A Mathematician's Apology,G Hardy,0.00,0,29465724-a-mathematician-s-apology,,74,1940
 999155,The Affluent Society,John Kenneth Galbraith,3.98,"1,785",41589.The_Affluent_Society,https://d2arxad8u2l0g7.cloudfront.net/books/1348310809l/41589.jpg,276,1958
 999156,Centesimus Annus: On the Hundredth Anniversary of Rerum Novarum,Pope John Paul II,4.08,79,368387.Centesimus_Annus,https://d2arxad8u2l0g7.cloudfront.net/books/1386920922l/368387.jpg,92,1991
-999157,Patriotic Gore,Edmund Wilson,4.00,,27163083-patriotic-gore,img/nopic.png,0,1962
+999157,Patriotic Gore: Studies in the Literature of the American Civil War,Edmund Wilson,4.17,175,1100729.Patriotic_Gore,https://d2arxad8u2l0g7.cloudfront.net/books/1347749176l/1100729.jpg,848,962
 999158,Jefferson And His Time,Dumas Malone,5.00,2,961488.Jefferson_And_His_Time,https://d2arxad8u2l0g7.cloudfront.net/books/1179838111l/961488.jpg,3300,1948
 999159,Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages,Norman Cohn,4.27,498,191131.Pursuit_of_the_Millennium,https://d2arxad8u2l0g7.cloudfront.net/books/1333509401l/191131.jpg,416,1957
 999160,Up in the Old Hotel,Joseph Mitchell,4.35,"2,502",210783.Up_in_the_Old_Hotel,https://d2arxad8u2l0g7.cloudfront.net/books/1437793030l/210783.jpg,716,1992
@@ -2450,7 +2450,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999511,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",Laura Hillenbrand,4.42,"438,160",8664353-unbroken,https://d2arxad8u2l0g7.cloudfront.net/books/1327861115l/8664353.jpg,473,
 999512,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,4.14,"57,492",767171.The_Rise_and_Fall_of_the_Third_Reich,https://d2arxad8u2l0g7.cloudfront.net/books/1331223772l/767171.jpg,1614,
 999513,Notes from a Small Island,Bill Bryson,3.91,"64,608",28.Notes_from_a_Small_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1411111661l/28.jpg,324,1995
-999514,"Transgression (City of God, #1)",R. S. Ingermanson,4.00,12,22889062-transgression,img/nopic.png,0,426
+999514,The City of God: Books 11-22,Augustine of Hippo,4.36,11,17433168-the-city-of-god,https://d2arxad8u2l0g7.cloudfront.net/books/1372057433l/17433168.jpg,466,426
 999515,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,3.63,270299,49436.Three_Cups_of_Tea,https://d2arxad8u2l0g7.cloudfront.net/books/1395407074l/49436.jpg,349,2006
 999516,"Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, A Man Who Would Cure the World",Tracy Kidder,4.20,"50,374",10235.Mountains_Beyond_Mountains,https://d2arxad8u2l0g7.cloudfront.net/books/1433156001l/10235.jpg,333,2003
 999517,Kaffir Boy in America: An Encounter with Apartheid,Mark Mathabane,3.76,449,83170.Kaffir_Boy_in_America,https://d2arxad8u2l0g7.cloudfront.net/books/1171036680l/83170.jpg,303,1986
@@ -2489,7 +2489,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999550,My Life in France,Julia Child,4.15,"63,767",5084.My_Life_in_France,https://d2arxad8u2l0g7.cloudfront.net/books/1395564378l/5084.jpg,317,2006
 999551,The Meaning of Hitler,Sebastian Haffner,4.18,766,54338.The_Meaning_of_Hitler,https://d2arxad8u2l0g7.cloudfront.net/books/1348734757l/54338.jpg,165,1978
 999552,The Entropy Effect (Star Trek TOS #2),Vonda N. McIntyre,3.59,"1,381",216645.The_Entropy_Effect,https://d2arxad8u2l0g7.cloudfront.net/books/1348227007l/216645.jpg,224,
-999553,Of the Flesh: Dangerous New Fiction,Greg Wharton,4.00,,1723886.Of_the_Flesh,https://d2arxad8u2l0g7.cloudfront.net/books/1187414226l/1723886.jpg,0,1974
+999553,"Superfiction, or The American Story Transformed: An Anthology",Joe David Bellamy,3.64,22,761975.Superfiction_or_The_American_Story_Transformed,https://d2arxad8u2l0g7.cloudfront.net/books/1178133101l/761975.jpg,293,1974
 999554,A Homemade World: The American Modernist Writers,Hugh Kenner,4.07,43,30342.A_Homemade_World,https://d2arxad8u2l0g7.cloudfront.net/books/1383355806l/30342.jpg,256,1951
 999555,The Clash of Civilizations and the Remaking of World Order,Samuel P. Huntington,3.67,"6,102",413179.The_Clash_of_Civilizations_and_the_Remaking_of_World_Order,https://d2arxad8u2l0g7.cloudfront.net/books/1338424958l/413179.jpg,368,1996
 999556,FICTION / NON-FICTION. A READER AND RHETORIC,Garry Engkent,0.00,0,25467973-fiction-non-fiction-a-reader-and-rhetoric,https://d2arxad8u2l0g7.cloudfront.net/books/1430572571l/25467973.jpg,461,1961
@@ -2588,7 +2588,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999649,Masscult and Midcult: Essays Against the American Grain,Dwight Macdonald,3.87,163,10584172-masscult-and-midcult,https://d2arxad8u2l0g7.cloudfront.net/books/1333580708l/10584172.jpg,289,1962
 999650,The Wordy Shipmates,Sarah Vowell,3.65,"17,974",2845287-the-wordy-shipmates,https://d2arxad8u2l0g7.cloudfront.net/books/1442802485l/2845287.jpg,272,2008
 999651,Reliable Essays: The Best Of Clive James,Clive James,4.03,69,560048.Reliable_Essays,https://d2arxad8u2l0g7.cloudfront.net/books/1347513001l/560048.jpg,350,2001
-999652,Dust Tracks on a Road: An Autobiography,Zora Neale Hurston,4.00,,30037303-dust-tracks-on-a-road,https://d2arxad8u2l0g7.cloudfront.net/books/1471280352l/30037303.jpg,0,1942
+999652,Dust Tracks on a Road,Zora Neale Hurston,4.09,4042,58399.Dust_Tracks_on_a_Road,https://d2arxad8u2l0g7.cloudfront.net/books/1441480196l/58399.jpg,324,1942
 999653,My Life and Hard Times,James Thurber,4.16,"2,366",72995.My_Life_and_Hard_Times,https://d2arxad8u2l0g7.cloudfront.net/books/1386921047l/72995.jpg,106,1933
 999654,Ever Since Darwin: Reflections in Natural History,Stephen Jay Gould,4.13,"2,343",54209.Ever_Since_Darwin,https://d2arxad8u2l0g7.cloudfront.net/books/1431172846l/54209.jpg,285,1977
 999655,Snobbery: The American Version,Joseph Epstein,3.35,536,87519.Snobbery,https://d2arxad8u2l0g7.cloudfront.net/books/1347401731l/87519.jpg,288,2002
@@ -2885,7 +2885,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999946,Julia Ward Howe 1819-1910 Complete,Laura E Richards and Maud Howe Elliott,0.00,0,30024321-julia-ward-howe-1819-1910-complete,,416,1916
 999947,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,3.67,"106,347",9742.The_Audacity_of_Hope,https://d2arxad8u2l0g7.cloudfront.net/books/1386925614l/9742.jpg,375,2006
 999948,Fire in the Lake: The Vietnamese and the Americans in Vietnam,Frances FitzGerald,4.04,"1,425",565319.Fire_in_the_Lake,https://d2arxad8u2l0g7.cloudfront.net/books/1344264389l/565319.jpg,512,1972
-999949,"Benjamin Franklin, Self-Revealed",William Cabell Bruce,4.00,4,2595965-benjamin-franklin-self-revealed,img/nopic.png,0,1917
+999949,"Benjamin Franklin, Self-Revealed",William Cabell Bruce,4.00,4,2595965-benjamin-franklin-self-revealed,img/nopic.png,544,1917
 999950,The Taft Story,William S. White,2.83,6,2595669-the-taft-story,https://d2arxad8u2l0g7.cloudfront.net/books/1212578648l/2595669.jpg,288,1955
 999951,Admiral of the Ocean Sea: A Life of Christopher Columbus,Samuel Eliot Morison,4.08,219,1413941.Admiral_of_the_Ocean_Sea,https://d2arxad8u2l0g7.cloudfront.net/books/1348247485l/1413941.jpg,680,1942
 999952,Munich: The Price of Peace,Telford Taylor,4.36,25,820284.Munich,https://d2arxad8u2l0g7.cloudfront.net/books/1316570439l/820284.jpg,1084,1979
@@ -2993,7 +2993,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991054,"The Rape of Europa by Jupiter (1694); And, Acis and Galatea (1701)",John Eccles,3.00,,564423.The_Rape_of_Europa_by_Jupiter_1694_And_Acis_and_Galatea,img/nopic.png,0,1995
 9991055,The Founding of New England,James Truslow Adams,3.00,,1192937.The_Founding_of_New_England,https://d2arxad8u2l0g7.cloudfront.net/books/1348010655l/1192937.jpg,0,1921
 9991056,The Autobiography of William Allen White,William Allen White,4.12,24,206805.The_Autobiography_of_William_Allen_White,https://d2arxad8u2l0g7.cloudfront.net/books/1386924924l/206805.jpg,700,1946
-9991057,"The Flowering of New England, 1815-1865",Van Wyck Brooks,4.00,41,1206754.The_Flowering_of_New_England_1815_1865,https://d2arxad8u2l0g7.cloudfront.net/books/1376031559l/1206754.jpg,0,1937
+9991057,"The Flowering of New England, 1815-1865",Van Wyck Brooks,4.00,41,1206754.The_Flowering_of_New_England_1815_1865,https://d2arxad8u2l0g7.cloudfront.net/books/1376031559l/1206754.jpg,550,1936
 9991058,A Prince of Our Disorder: The Life of T.E. Lawrence,John E. Mack,4.19,219,64682.A_Prince_of_Our_Disorder,https://d2arxad8u2l0g7.cloudfront.net/books/1388293815l/64682.jpg,624,1976
 9991059,The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy,David E. Hoffman,4.08,"2,408",6623920-the-dead-hand,https://d2arxad8u2l0g7.cloudfront.net/books/1320419175l/6623920.jpg,592,2009
 9991060,George Washington on Leadership,Richard Brookhiser,3.67,207,2564808-george-washington-on-leadership,https://d2arxad8u2l0g7.cloudfront.net/books/1442849037l/2564808.jpg,272,1957
@@ -3077,6 +3077,6 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991138,"Mathematics Books (Study Guide): Principia Mathematica, Godel, Escher, Bach, Where Mathematics Comes from",Books LLC,4.25,4,10428428-mathematics-books-study-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1348906628l/10428428.jpg,114,1979
 9991139,"An Army at Dawn: The War in North Africa, 1942-1943 (World War II Liberation Trilogy, #1)",Rick Atkinson,4.24,"11,341",541920.An_Army_at_Dawn,https://d2arxad8u2l0g7.cloudfront.net/books/1440057096l/541920.jpg,704,2002
 9991140,"A History of the American Frontier, 1763-1893",Frederic L. Paxson,2.00,,6681024-a-history-of-the-american-frontier-1763-1893,,598,1924
-9991141,The Life and Letters of Walter H. Page,Burton J. Hendrick,4.00,,8338849-the-life-and-letters-of-walter-h-page,https://d2arxad8u2l0g7.cloudfront.net/books/1328327977l/8338849.jpg,0,1923
+9991141,The Life and Letters of Walter H. Page,Burton J. Hendrick,4.00,,8338849-the-life-and-letters-of-walter-h-page,https://d2arxad8u2l0g7.cloudfront.net/books/1328327977l/8338849.jpg,356,1922
 9991142,Lincoln at Gettysburg: The Words That Remade America,Garry Wills,4.12,"5,763",20809.Lincoln_at_Gettysburg,https://d2arxad8u2l0g7.cloudfront.net/books/1388267483l/20809.jpg,320,1992
 9991143,"Bearing the Cross: Martin Luther King, JR., and the Southern Christian Leadership Conference",David J. Garrow,4.27,"1,167",1659305.Bearing_the_Cross,https://d2arxad8u2l0g7.cloudfront.net/books/1428594389l/1659305.jpg,800,1986
