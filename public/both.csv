@@ -536,7 +536,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 533,His Dark Materials (His Dark Materials #1-3),Philip Pullman,4.24,"95,848",18116.His_Dark_Materials,https://d2arxad8u2l0g7.cloudfront.net/books/1442329494l/18116.jpg,1088,1995
 534,Poèmes antiques et modernes - Les Destinées,Alfred de Vigny,3.81,26,2015586.Po_mes_antiques_et_modernes_Les_Destin_es,https://d2arxad8u2l0g7.cloudfront.net/books/1328306783l/2015586.jpg,320,1864
 535,Love Medicine,Louise Erdrich,3.97,"15,596",91440.Love_Medicine,https://d2arxad8u2l0g7.cloudfront.net/books/1442951349l/91440.jpg,367,1984
-536,Betrayed by Rita Hayworth,Manuel Puig,3.67,452,71761.Betrayed_by_Rita_Hayworth,https://d2arxad8u2l0g7.cloudfront.net/books/1255448514l/71761.jpg,0,1968
+536,La traición de Rita Hayworth,Manuel Puig,3.66,459,71765.La_traici_n_de_Rita_Hayworth,https://d2arxad8u2l0g7.cloudfront.net/books/1346949720l/71765.jpg,299,1968
 537,The Hobbit (Middle-Earth Universe),J.R.R. Tolkien,4.23,1993584,5907.The_Hobbit,https://d2arxad8u2l0g7.cloudfront.net/books/1372847500l/5907.jpg,366,1937
 538,Emigrants,Hector Bolitho,5.00,,3692361-emigrants,,223,1992
 539,Daniel Deronda,George Eliot,3.81,"17,443",304.Daniel_Deronda,https://d2arxad8u2l0g7.cloudfront.net/books/1320432000l/304.jpg,796,1876
@@ -683,7 +683,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 680,"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,3.97,"374,392",43763.Interview_with_the_Vampire,https://d2arxad8u2l0g7.cloudfront.net/books/1380631642l/43763.jpg,342,1976
 681,Captain Hornblower R.N.: Hornblower and the Atropos / The Happy Return / A Ship of the Line,C.S. Forester,4.34,340,927352.Captain_Hornblower_R_N_,https://d2arxad8u2l0g7.cloudfront.net/books/1347614231l/927352.jpg,244,1937
 682,"Dear Dumb Diary, Year Two: Nobody's Perfect. I'm as close as it gets",Jim Benton,4.00,,31345994-dear-dumb-diary-year-two,,120,1892
-683,Northern LIghts,Sienna Stapleton,3.50,2,23388825-northern-lights,img/nopic.png,0,1995
+683,Northern Lights (His Dark Materials #1),Philip Pullman,3.92,906288,70947.Northern_Lights,https://d2arxad8u2l0g7.cloudfront.net/books/1327235223l/70947.jpg,399,1995
 684,The Complete Poems of Sappho,Sappho,4.09,513,5945516-the-complete-poems-of-sappho,https://d2arxad8u2l0g7.cloudfront.net/books/1388456588l/5945516.jpg,224,-570
 685,Legends of the Fall,Jim Harrison,4.04,"6,035",395397.Legends_of_the_Fall,https://d2arxad8u2l0g7.cloudfront.net/books/1320469969l/395397.jpg,288,1979
 686,Selected Poems,George Gordon Byron,4.04,10527,119239.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1411634706l/119239.jpg,864,1824
@@ -718,7 +718,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 715,Body Rags,Galway Kinnell,4.20,82,197838.Body_Rags,https://d2arxad8u2l0g7.cloudfront.net/books/1352922521l/197838.jpg,63,1968
 716,The Prince and the Pauper; A Tale for Young People of All Ages,Mark Twain,0.00,0,30426963-the-prince-and-the-pauper-a-tale-for-young-people-of-all-ages,,322,1881
 717,The Loneliness of the Long-Distance Runner,Alan Sillitoe,3.80,"3,387",233436.The_Loneliness_of_the_Long_Distance_Runner,https://d2arxad8u2l0g7.cloudfront.net/books/1327975162l/233436.jpg,176,1959
-718,The Short Happy Life of Francis Macomber,Ernest Hemingway,3.76,229,22051924-the-short-happy-life-of-francis-macomber,https://d2arxad8u2l0g7.cloudfront.net/books/1447259399l/22051924.jpg,0,1936
+718,The Short Happy Life of Francis Macomber & Other Stories,Ernest Hemingway,4.08,1774,273685.The_Short_Happy_Life_of_Francis_Macomber_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1444935577l/273685.jpg,72,1936
 719,Another Country,James Baldwin,4.29,"7,778",38474.Another_Country,https://d2arxad8u2l0g7.cloudfront.net/books/1353255131l/38474.jpg,448,1962
 720,Amelia,Henry Fielding,3.55,631,743885.Amelia,https://d2arxad8u2l0g7.cloudfront.net/books/1348058106l/743885.jpg,620,1751
 721,Dark Symphony,James A. Emanuel,4.17,6,1073496.Dark_Symphony,https://d2arxad8u2l0g7.cloudfront.net/books/1403391381l/1073496.jpg,628,1968
@@ -778,7 +778,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 775,The Iceman Cometh,Eugene O'Neill,3.96,"6,283",111734.The_Iceman_Cometh,https://d2arxad8u2l0g7.cloudfront.net/books/1327871756l/111734.jpg,240,1939
 776,Lenz,Georg Büchner,3.58,1155,287510.Lenz,https://d2arxad8u2l0g7.cloudfront.net/books/1354208887l/287510.jpg,199,1835
 777,The Collected Songs of Cold Mountain,Han Shan,4.39,462,10921.The_Collected_Songs_of_Cold_Mountain,https://d2arxad8u2l0g7.cloudfront.net/books/1328757968l/10921.jpg,320,1985
-778,Anna Édes,Dezső Kosztolányi,3.82,931,654438.Anna_des,https://d2arxad8u2l0g7.cloudfront.net/books/1176786394l/654438.jpg,0,1991
+778,Anna Édes,Dezső Kosztolányi,3.81,944,2419226.Anna_des,https://d2arxad8u2l0g7.cloudfront.net/books/1347748710l/2419226.jpg,220,1926
 779,Italian Folktales,Italo Calvino,4.19,"2,811",9807.Italian_Folktales,https://d2arxad8u2l0g7.cloudfront.net/books/1439401748l/9807.jpg,800,1956
 780,Querelle,Jean Genet,3.95,"1,458",53007.Querelle,https://d2arxad8u2l0g7.cloudfront.net/books/1389104954l/53007.jpg,276,1947
 781,Somersault,Kenzaburō Ōe,3.22,242,251160.Somersault,https://d2arxad8u2l0g7.cloudfront.net/books/1328822239l/251160.jpg,576,1999
@@ -901,7 +901,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 898,The Murders in the Rue Morgue,Edgar Allan Poe,3.93,"15,126",3301759-the-murders-in-the-rue-morgue,https://d2arxad8u2l0g7.cloudfront.net/books/1409105459l/3301759.jpg,38,1841
 899,The Little Engine That Could,Watty Piper,4.14,80629,824204.The_Little_Engine_That_Could,https://d2arxad8u2l0g7.cloudfront.net/books/1352736875l/824204.jpg,48,1930
 900,"Histoire de Babar, le petit éléphant",Jean de Brunhoff,5.00,3,28804617-histoire-de-babar-le-petit-l-phant,https://d2arxad8u2l0g7.cloudfront.net/books/1454135798l/28804617.jpg,45,1931
-901,"The Warlord of Mars (Barsoom, #3)",Edgar Rice Burroughs,3.85,"9,815",40379.The_Warlord_of_Mars,https://d2arxad8u2l0g7.cloudfront.net/books/1328773630l/40379.jpg,0,1913
+901,The Warlord of Mars (Barsoom #3),Edgar Rice Burroughs,3.85,9877,17254638-the-warlord-of-mars,https://d2arxad8u2l0g7.cloudfront.net/books/1358373372l/17254638.jpg,182,1914
 902,Odes,John Keats,4.42,24,28616466-odes,https://d2arxad8u2l0g7.cloudfront.net/books/1465671817l/28616466.jpg,32,1927
 903,"Swallows and Amazons (Swallows and Amazons, #1)",Arthur Ransome,3.97,"21,033",125190.Swallows_and_Amazons,https://d2arxad8u2l0g7.cloudfront.net/books/1277148503l/125190.jpg,315,1930
 904,The Moon Is Down,John Steinbeck,3.86,"12,920",12722.The_Moon_Is_Down,https://d2arxad8u2l0g7.cloudfront.net/books/1327961310l/12722.jpg,144,1942
@@ -951,7 +951,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 948,Stockholm Series V: City in the World,Per Anders Fogelström,3.33,3,28946279-stockholm-series-v,https://d2arxad8u2l0g7.cloudfront.net/books/1454764391l/28946279.jpg,330,1960
 949,The House with the Blind Glass Windows,Herbjørg Wassmo,3.87,592,2030100.The_House_with_the_Blind_Glass_Windows,https://d2arxad8u2l0g7.cloudfront.net/books/1394707352l/2030100.jpg,227,
 950,The Women's Room,Marilyn French,3.91,"5,428",46456.The_Women_s_Room,https://d2arxad8u2l0g7.cloudfront.net/books/1390348332l/46456.jpg,526,1977
-951,The Bells of Bicetre,Georges Simenon,3.85,107,140788.The_Bells_of_Bicetre,https://d2arxad8u2l0g7.cloudfront.net/books/1366882423l/140788.jpg,0,
+951,Le campane di Bicêtre,Georges Simenon,3.85,107,9724492-le-campane-di-bice-tre,https://d2arxad8u2l0g7.cloudfront.net/books/1344605174l/9724492.jpg,261,1963
 952,Flowering Nettle,Harry Martinson,3.53,269,16117055-flowering-nettle,,291,1935
 953,"Barefoot Season (Blackberry Island, #1)",Susan Mallery,3.87,"7,196",12777901-barefoot-season,https://d2arxad8u2l0g7.cloudfront.net/books/1325891756l/12777901.jpg,368,
 954,The Unknown Soldier,Väinö Linna,3.96,"2,466",422728.The_Unknown_Soldier,https://d2arxad8u2l0g7.cloudfront.net/books/1359743681l/422728.jpg,338,1954
@@ -1222,7 +1222,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1219,Sweet Days of Discipline,Fleur Jaeggy,3.72,338,1440460.Sweet_Days_of_Discipline,https://d2arxad8u2l0g7.cloudfront.net/books/1322600504l/1440460.jpg,101,1989
 1220,"I, Tituba, Black Witch of Salem",Maryse Condé,3.75,"1,557",89526.I_Tituba_Black_Witch_of_Salem,https://d2arxad8u2l0g7.cloudfront.net/books/1223646894l/89526.jpg,225,1986
 1221,Stranger Things Happen,Kelly Link,3.84,"4,112",66659.Stranger_Things_Happen,https://d2arxad8u2l0g7.cloudfront.net/books/1386924859l/66659.jpg,266,2001
-1222,"The Selected Stories of Philip K. Dick, Vol. 1",Philip K. Dick,3.79,70,15871334-the-selected-stories-of-philip-k-dick-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1356191431l/15871334.jpg,0,1982
+1222,Selected Stories of Phillip K. Dick,Philip K. Dick,4.21,2192,14180.Selected_Stories_of_Phillip_K_Dick,https://d2arxad8u2l0g7.cloudfront.net/books/1451407766l/14180.jpg,496,1982
 1223,Distant Star,Roberto Bolaño,3.91,"4,279",63030.Distant_Star,https://d2arxad8u2l0g7.cloudfront.net/books/1348416966l/63030.jpg,150,1996
 1224,American Genius,Lynne Tillman,3.81,171,231762.American_Genius,https://d2arxad8u2l0g7.cloudfront.net/books/1348842695l/231762.jpg,291,2006
 1225,The Kreutzer Sonata and Other Stories,Leo Tolstoy,3.83,313,584447.The_Kreutzer_Sonata_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1176014806l/584447.jpg,288,1889
@@ -1282,7 +1282,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1279,The Physicist,Mitchell Frogge,0.00,0,7562391-the-physicist,https://d2arxad8u2l0g7.cloudfront.net/books/1347576157l/7562391.jpg,276,1962
 1280,Effi Briest,Theodor Fontane,3.24,"5,931",442296.Effi_Briest,https://d2arxad8u2l0g7.cloudfront.net/books/1327325171l/442296.jpg,272,1896
 1281,"Dark Tales (Illustrated Edition): Gothic Classics: ""The House of the Seven Gables"", ""The Minister's Black Veil"", ""Dr. Heidegger's Experiment"", ""Birthmark"", ... Woman's Tale"", ""Ghost of Doctor Harris""...",Nathaniel Hawthorne,0.00,0,26121038-dark-tales-illustrated-edition,https://d2arxad8u2l0g7.cloudfront.net/books/1439874381l/26121038.jpg,552,1934
-1282,Tragic Magic: A Novel,Wesley Brown,3.65,17,1710509.Tragic_Magic,https://d2arxad8u2l0g7.cloudfront.net/books/1327464262l/1710509.jpg,0,1978
+1282,Tragic Magic,Wesley Brown,3.50,18,2521029.Tragic_Magic,https://d2arxad8u2l0g7.cloudfront.net/books/1328118522l/2521029.jpg,169,1978
 1283,The Pure and the Impure,Colette,3.74,"1,051",89848.The_Pure_and_the_Impure,https://d2arxad8u2l0g7.cloudfront.net/books/1413307828l/89848.jpg,208,1967
 1284,9 Novellen: Michael Kohlhaas + Die Marquise von O... + Das Erdbeben in Chili + Geistererscheinung und mehr (Vollständige Ausgabe): Michael Kohlhaas + Die ... + Der Zweikampf,Heinrich von Kleist,0.00,0,25326114-9-novellen,https://d2arxad8u2l0g7.cloudfront.net/books/1428569420l/25326114.jpg,239,1810
 1285,Searching for Caleb,Anne Tyler,3.88,"4,685",233904.Searching_for_Caleb,https://d2arxad8u2l0g7.cloudfront.net/books/1403165193l/233904.jpg,328,1975
@@ -1348,7 +1348,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1345,Living Up The Street,Gary Soto,3.59,343,54390.Living_Up_The_Street,https://d2arxad8u2l0g7.cloudfront.net/books/1430002313l/54390.jpg,176,1985
 1346,"Siuqila Too Good, to Be True: Omen: Though So at a Vewe Yet All I Tolde You Is True, I Vpholde You, Now Cease to Aske Why? for I Can Not Lye: Herein Is Shewed by Way of Dialogue, the Wonderful Maners of the People of Mauqsun (1580)",Thomas Lupton,0.00,0,22239428-siuqila-too-good-to-be-true,,194,1990
 1347,Sold,Patricia McCormick,4.17,"34,037",201114.Sold,https://d2arxad8u2l0g7.cloudfront.net/books/1442850952l/201114.jpg,268,2006
-1348,The Iron Heel,Jack London,3.73,"4,494",929783.The_Iron_Heel,https://d2arxad8u2l0g7.cloudfront.net/books/1334104139l/929783.jpg,0,1908
+1348,The Iron Heel,Jack London,3.73,4531,70792.The_Iron_Heel,https://d2arxad8u2l0g7.cloudfront.net/books/1386922943l/70792.jpg,251,1908
 1349,You Shall Know Our Velocity!,Dave Eggers,3.62,"24,091",4954.You_Shall_Know_Our_Velocity_,https://d2arxad8u2l0g7.cloudfront.net/books/1386925932l/4954.jpg,353,2002
 1350,Before We Were Free,Julia Alvarez,3.84,"3,900",17643.Before_We_Were_Free,https://d2arxad8u2l0g7.cloudfront.net/books/1442795832l/17643.jpg,192,2002
 1351,Been Down So Long it Looks Like Up to Me,Richard Fariña,3.83,"2,103",418.Been_Down_So_Long_it_Looks_Like_Up_to_Me,https://d2arxad8u2l0g7.cloudfront.net/books/1279834010l/418.jpg,352,1966
@@ -1360,10 +1360,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1357,Lonesome Dove,Larry McMurtry,4.46,"107,110",256008.Lonesome_Dove,https://d2arxad8u2l0g7.cloudfront.net/books/1378573063l/256008.jpg,945,1985
 1358,The Phantom of the Opera,Gaston Leroux,3.97,"140,890",480204.The_Phantom_of_the_Opera,https://d2arxad8u2l0g7.cloudfront.net/books/1327867727l/480204.jpg,360,1909
 1359,Purple Hibiscus,Chimamanda Ngozi Adichie,4.08,"26,210",126381.Purple_Hibiscus,https://d2arxad8u2l0g7.cloudfront.net/books/1329431038l/126381.jpg,307,2003
-1360,My Antonia / O Pioneers!,Willa Cather,3.91,"1,373",5844400-my-antonia-o-pioneers,https://d2arxad8u2l0g7.cloudfront.net/books/1408459478l/5844400.jpg,0,1913
+1360,O Pioneers! (Great Plains Trilogy #1),Willa Cather,3.83,31064,140963.O_Pioneers_,https://d2arxad8u2l0g7.cloudfront.net/books/1388956566l/140963.jpg,159,1913
 1361,"Ties That Bind, Ties That Break",Lensey Namioka,3.81,"2,267",962767.Ties_That_Bind_Ties_That_Break,https://d2arxad8u2l0g7.cloudfront.net/books/1320393919l/962767.jpg,160,1999
 1362,A Book of Luminous Things: An International Anthology of Poetry,Czesław Miłosz,4.19,"1,805",145666.A_Book_of_Luminous_Things,https://d2arxad8u2l0g7.cloudfront.net/books/1348394355l/145666.jpg,344,1996
-1363,The Drowning Tree,Carol Goodman,3.81,"3,086",147918.The_Drowning_Tree,https://d2arxad8u2l0g7.cloudfront.net/books/1348795732l/147918.jpg,0,1996
+1363,Drown,Junot Díaz,4.04,22298,531989.Drown,https://d2arxad8u2l0g7.cloudfront.net/books/1313700390l/531989.jpg,208,1996
 1364,The Bostonians,Henry James,3.58,"4,922",194546.The_Bostonians,https://d2arxad8u2l0g7.cloudfront.net/books/1320389124l/194546.jpg,496,1886
 1365,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,3.74,"173,458",7061.The_No_1_Ladies_Detective_Agency,https://d2arxad8u2l0g7.cloudfront.net/books/1459953654l/7061.jpg,235,1998
 1366,Retold African American Folktales,David Haynes,0.00,0,14901346-retold-african-american-folktales,,112,
@@ -1442,7 +1442,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1439,Beat The Devil,Claud Cockburn,3.92,12,4795742-beat-the-devil,https://d2arxad8u2l0g7.cloudfront.net/books/1401210221l/4795742.jpg,272,1951
 1440,The Indian Lawyer: A Novel,James Welch,3.60,277,156410.The_Indian_Lawyer,https://d2arxad8u2l0g7.cloudfront.net/books/1349012666l/156410.jpg,352,1990
 1441,The Grand Resort Hotels of the White Mountains: A Vanishing Architectural Legacy,Bryant F. Tolles Jr.,4.62,8,46088.The_Grand_Resort_Hotels_of_the_White_Mountains,https://d2arxad8u2l0g7.cloudfront.net/books/1170313095l/46088.jpg,263,1981
-1442,The Ordeal Of Gilbert Pinfold,Evelyn Waugh,3.49,760,1320762.The_Ordeal_Of_Gilbert_Pinfold,https://d2arxad8u2l0g7.cloudfront.net/books/1182735753l/1320762.jpg,0,1957
+1442,The Ordeal of Gilbert Pinfold,Evelyn Waugh,3.49,766,1060081.The_Ordeal_of_Gilbert_Pinfold,https://d2arxad8u2l0g7.cloudfront.net/books/1348477491l/1060081.jpg,232,1957
 1443,The Making of Americans,Gertrude Stein,3.72,362,58367.The_Making_of_Americans,https://d2arxad8u2l0g7.cloudfront.net/books/1438891392l/58367.jpg,926,1925
 1444,Light Years,James Salter,4.06,"3,166",174622.Light_Years,https://d2arxad8u2l0g7.cloudfront.net/books/1374594784l/174622.jpg,308,1976
 1445,Nova Express (The Nova Trilogy #3),William S. Burroughs,3.68,"2,327",23931.Nova_Express,https://d2arxad8u2l0g7.cloudfront.net/books/1439123351l/23931.jpg,192,1964
@@ -1465,7 +1465,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1462,"Regeneration (Regeneration, #1)",Pat Barker,4.03,"18,126",5872.Regeneration,https://d2arxad8u2l0g7.cloudfront.net/books/1365925619l/5872.jpg,256,1991
 1463,Animal Dreams,Barbara Kingsolver,4.04,"51,459",77262.Animal_Dreams,https://d2arxad8u2l0g7.cloudfront.net/books/1421266415l/77262.jpg,342,1990
 1464,Salvage the Bones,Jesmyn Ward,3.78,17915,10846336-salvage-the-bones,https://d2arxad8u2l0g7.cloudfront.net/books/1317067649l/10846336.jpg,261,2011
-1465,The Mask of Dimitrios,Eric Ambler,4.00,2,30113015-the-mask-of-dimitrios,https://d2arxad8u2l0g7.cloudfront.net/books/1463598484l/30113015.jpg,0,1944
+1465,The Mask of Dimitrios (Charles Latimer #1),Eric Ambler,3.94,4642,6329320-the-mask-of-dimitrios,https://d2arxad8u2l0g7.cloudfront.net/books/1328045319l/6329320.jpg,240,1939
 1466,The Country of the Pointed Firs,Sarah Orne Jewett,3.73,"1,762",2347137.The_Country_of_the_Pointed_Firs,https://d2arxad8u2l0g7.cloudfront.net/books/1416475940l/2347137.jpg,224,1896
 1467,Tree of Smoke,Denis Johnson,3.57,"7,411",271074.Tree_of_Smoke,https://d2arxad8u2l0g7.cloudfront.net/books/1386924799l/271074.jpg,614,2007
 1468,Morte D'Urban,J.F. Powers,3.91,576,133166.Morte_D_Urban,https://d2arxad8u2l0g7.cloudfront.net/books/1320461227l/133166.jpg,360,1962
@@ -1617,7 +1617,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1614,"Poems: Selected and New, 1950-1974",Adrienne Rich,4.24,33,1301187.Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1337620545l/1301187.jpg,256,1974
 1615,A Fan's Notes,Frederick Exley,4.10,"2,978",774032.A_Fan_s_Notes,https://d2arxad8u2l0g7.cloudfront.net/books/1403181682l/774032.jpg,385,1968
 1616,Women,Charles Bukowski,3.90,"40,708",38500.Women,https://d2arxad8u2l0g7.cloudfront.net/books/1325028693l/38500.jpg,291,1978
-1617,"The Cunning Man (Toronto Trilogy, #2)",Robertson Davies,3.93,"2,149",132293.The_Cunning_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1172010131l/132293.jpg,0,1994
+1617,The Cunning Man (Toronto Trilogy #2),Robertson Davies,3.92,2157,76895.The_Cunning_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1400605500l/76895.jpg,469,1994
 1618,The Stone Diaries,Carol Shields,3.83,"27,015",77554.The_Stone_Diaries,https://d2arxad8u2l0g7.cloudfront.net/books/1285159303l/77554.jpg,361,1993
 1619,"The Ghost Road (Regeneration, #3)",Pat Barker,4.11,"11,710",151926.The_Ghost_Road,https://d2arxad8u2l0g7.cloudfront.net/books/1441850690l/151926.jpg,288,1995
 1620,Netherland,Joseph O'Neill,3.40,"14,942",2615008-netherland,https://d2arxad8u2l0g7.cloudfront.net/books/1344205853l/2615008.jpg,256,2009
@@ -1679,12 +1679,12 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1676,Under Satan's Sun,Georges Bernanos,3.61,267,364143.Under_Satan_s_Sun,https://d2arxad8u2l0g7.cloudfront.net/books/1328818834l/364143.jpg,257,1926
 1677,The Sandman: Overture,Neil Gaiman,3.93,"43,538",18310944-the-sandman,https://d2arxad8u2l0g7.cloudfront.net/books/1444878181l/18310944.jpg,224,1991
 1678,The Joke,Milan Kundera,3.97,"18,469",26114.The_Joke,https://d2arxad8u2l0g7.cloudfront.net/books/1448044837l/26114.jpg,371,1967
-1679,"3 Novels: The Conformist, A Ghost At Noon, The Fancy Dress Party",Alberto Moravia,4.00,11,674828.3_Novels,img/nopic.png,0,1954
+1679,A ghost at noon,Alberto Moravia,3.92,2103,2172320.A_ghost_at_noon,img/nopic.png,221,1954
 1680,Ghost Girl,Torey L. Hayden,4.12,"7,035",76423.Ghost_Girl,https://d2arxad8u2l0g7.cloudfront.net/books/1386924696l/76423.jpg,307,2007
 1681,Aurélien,Louis Aragon,4.16,375,379107.Aur_lien,https://d2arxad8u2l0g7.cloudfront.net/books/1174317824l/379107.jpg,811,1944
 1682,Waiting to Exhale,Terry McMillan,3.93,"11,485",122212.Waiting_to_Exhale,https://d2arxad8u2l0g7.cloudfront.net/books/1309282766l/122212.jpg,448,1995
 1683,"Stars in Her Eyes (Satin Slippers, #3)",Elizabeth Bernard,3.54,50,2701558-stars-in-her-eyes,https://d2arxad8u2l0g7.cloudfront.net/books/1313194861l/2701558.jpg,160,1929
-1684,Sweet Bird of Youth,Tennessee Williams,3.74,"1,672",200754.Sweet_Bird_of_Youth,https://d2arxad8u2l0g7.cloudfront.net/books/1366830831l/200754.jpg,0,2002
+1684,Youth (Scenes from Provincial Life #2),J.M. Coetzee,3.79,4582,6200.Youth,https://d2arxad8u2l0g7.cloudfront.net/books/1388190659l/6200.jpg,176,2002
 1685,"Wolf Brother (Chronicles of Ancient Darkness, #1)",Michelle Paver,4.14,"16,597",295305.Wolf_Brother,https://d2arxad8u2l0g7.cloudfront.net/books/1386924715l/295305.jpg,295,2004
 1686,The Resistible Rise of Arturo Ui,Bertolt Brecht,3.84,981,580449.The_Resistible_Rise_of_Arturo_Ui,https://d2arxad8u2l0g7.cloudfront.net/books/1388986948l/580449.jpg,125,1941
 1687,"Friday Barnes, Girl Detective (Friday Barnes #1)",R.A. Spratt,4.23,326,25663502-friday-barnes-girl-detective,https://d2arxad8u2l0g7.cloudfront.net/books/1443627404l/25663502.jpg,272,1967
@@ -1710,7 +1710,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1707,The Ravishing of Lol Stein,Marguerite Duras,3.70,"1,946",280.The_Ravishing_of_Lol_Stein,https://d2arxad8u2l0g7.cloudfront.net/books/1367749732l/280.jpg,181,1964
 1708,The Interrogators,Brooklen Borne,4.00,3,17827471-the-interrogators,,114,1963
 1709,"Blind Willow, Sleeping Woman",Haruki Murakami,3.83,"21,248",9833.Blind_Willow_Sleeping_Woman,https://d2arxad8u2l0g7.cloudfront.net/books/1388789153l/9833.jpg,352,2006
-1710,Tropisms and The Age of Suspicion (Calderbooks),Nathalie Sarraute,3.93,15,761302.Tropisms_and_The_Age_of_Suspicion,https://d2arxad8u2l0g7.cloudfront.net/books/1239755735l/761302.jpg,0,1939
+1710,Tropisms,Nathalie Sarraute,3.66,455,124415.Tropisms,https://d2arxad8u2l0g7.cloudfront.net/books/1387750355l/124415.jpg,59,1939
 1711,War Music: An Account of Homer's Iliad,Christopher Logue,4.67,45,25666078-war-music,https://d2arxad8u2l0g7.cloudfront.net/books/1444635123l/25666078.jpg,352,2009
 1712,The Damned Utd,David Peace,4.10,"4,736",984021.The_Damned_Utd,https://d2arxad8u2l0g7.cloudfront.net/books/1348174077l/984021.jpg,346,2006
 1713,A Sight for Sore Eyes,Ruth Rendell,3.81,"2,762",83410.A_Sight_for_Sore_Eyes,https://d2arxad8u2l0g7.cloudfront.net/books/1341035200l/83410.jpg,384,1998
@@ -1720,7 +1720,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1717,The Emperor's Children,Claire Messud,2.92,"16,833",3648.The_Emperor_s_Children,https://d2arxad8u2l0g7.cloudfront.net/books/1320497348l/3648.jpg,431,2006
 1718,"Go Down, Moses",William Faulkner,3.93,"7,317",17726.Go_Down_Moses,https://d2arxad8u2l0g7.cloudfront.net/books/1388191655l/17726.jpg,365,1942
 1719,Born Yesterday: The News As A Novel,Gordon Burn,3.24,79,3132882-born-yesterday,https://d2arxad8u2l0g7.cloudfront.net/books/1329679648l/3132882.jpg,214,2008
-1720,Strange Case of Peter the Lett,Georges Simenon,3.51,"1,919",12387747-strange-case-of-peter-the-lett,img/nopic.png,0,1931
+1720,Pietr the Latvian (Maigret #1),Georges Simenon,3.52,1940,18114335-pietr-the-latvian,https://d2arxad8u2l0g7.cloudfront.net/books/1372681799l/18114335.jpg,176,1931
 1721,The Enchantress Of Florence,Salman Rushdie,3.56,"13,428",1317696.The_Enchantress_Of_Florence,https://d2arxad8u2l0g7.cloudfront.net/books/1200508801l/1317696.jpg,359,2008
 1722,"Holes (Holes, #1)",Louis Sachar,3.92,"685,498",38709.Holes,https://d2arxad8u2l0g7.cloudfront.net/books/1327781893l/38709.jpg,233,1998
 1723,"Twilight (Twilight, #1)",Stephenie Meyer,3.56,"3,532,672",41865.Twilight,https://d2arxad8u2l0g7.cloudfront.net/books/1361039443l/41865.jpg,498,2005
@@ -1796,7 +1796,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1793,Paris Trout,Pete Dexter,3.86,"4,532",899813.Paris_Trout,https://d2arxad8u2l0g7.cloudfront.net/books/1302028458l/899813.jpg,306,1987
 1794,Shadow Country,Peter Matthiessen,4.03,"3,341",2253484.Shadow_Country,https://d2arxad8u2l0g7.cloudfront.net/books/1320505415l/2253484.jpg,892,2008
 1795,The Bird of Night,Susan Hill,3.63,101,1622611.The_Bird_of_Night,https://d2arxad8u2l0g7.cloudfront.net/books/1186002437l/1622611.jpg,176,1972
-1796,Dragon's Teeth,Upton Sinclair,3.79,212,544532.Dragon_s_Teeth,https://d2arxad8u2l0g7.cloudfront.net/books/1347542975l/544532.jpg,0,1942
+1796,Dragon's Teeth (World's End Lanny Budd #3),Upton Sinclair,3.80,220,28601293-dragon-s-teeth,https://d2arxad8u2l0g7.cloudfront.net/books/1453181389l/28601293.jpg,527,1942
 1797,The Luminaries,Eleanor Catton,3.69,"43,270",17333230-the-luminaries,https://d2arxad8u2l0g7.cloudfront.net/books/1410524246l/17333230.jpg,848,2013
 1798,Motherless Brooklyn,Jonathan Lethem,3.91,"23,760",328854.Motherless_Brooklyn,https://d2arxad8u2l0g7.cloudfront.net/books/1348254729l/328854.jpg,311,1999
 1799,A Bell for Adano,John Hersey,3.96,"6,248",415412.A_Bell_for_Adano,https://d2arxad8u2l0g7.cloudfront.net/books/1403185397l/415412.jpg,269,1944
@@ -1819,7 +1819,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1816,Soldiers in Hiding,Richard Wiley,4.00,28,853260.Soldiers_in_Hiding,https://d2arxad8u2l0g7.cloudfront.net/books/1328861840l/853260.jpg,200,1987
 1817,Mao II,Don DeLillo,3.68,"7,261",402.Mao_II,https://d2arxad8u2l0g7.cloudfront.net/books/1388194999l/402.jpg,254,1991
 1818,Ship Fever: Stories,Andrea Barrett,4.04,"2,732",92267.Ship_Fever,https://d2arxad8u2l0g7.cloudfront.net/books/1379901077l/92267.jpg,256,1995
-1819,The Comforts Of Madness,Paul Sayer,3.70,160,1431654.The_Comforts_Of_Madness,https://d2arxad8u2l0g7.cloudfront.net/books/1394327333l/1431654.jpg,0,1988
+1819,The Comfort Of Madness,Paul Sayer,3.70,161,7923000-the-comfort-of-madness,https://d2arxad8u2l0g7.cloudfront.net/books/1269685849l/7923000.jpg,211,1988
 1820,George Mills,Stanley Elkin,3.88,88,430611.George_Mills,https://d2arxad8u2l0g7.cloudfront.net/books/1347806899l/430611.jpg,518,1982
 1821,Mrs. Ted Bliss,Stanley Elkin,3.36,134,1340919.Mrs_Ted_Bliss,https://d2arxad8u2l0g7.cloudfront.net/books/1347920252l/1340919.jpg,294,1995
 1822,"City of Glass (The New York Trilogy, #1)",Paul Auster,3.82,"9,899",432.City_of_Glass,https://d2arxad8u2l0g7.cloudfront.net/books/1309986722l/432.jpg,203,1985
@@ -1851,11 +1851,11 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1848,"The Restless Heart (Doucet, #1)",Tami Hoag,3.56,226,620222.The_Restless_Heart,https://d2arxad8u2l0g7.cloudfront.net/books/1381139650l/620222.jpg,192,2006
 1849,Sent for You Yesterday,John Edgar Wideman,4.02,216,183408.Sent_for_You_Yesterday,https://d2arxad8u2l0g7.cloudfront.net/books/1388355314l/183408.jpg,208,1983
 1850,Spartina,John Casey,3.82,"1,713",137549.Spartina,https://d2arxad8u2l0g7.cloudfront.net/books/1320514076l/137549.jpg,384,1988
-1851,First Steps,Sean Michael,3.58,498,5577792-first-steps,https://d2arxad8u2l0g7.cloudfront.net/books/1328305955l/5577792.jpg,0,1968
+1851,Steps,Jerzy Kosiński,3.80,2276,18464.Steps,https://d2arxad8u2l0g7.cloudfront.net/books/1382420032l/18464.jpg,148,1968
 1852,How the García Girls Lost Their Accents,Julia Alvarez,3.61,"17,408",11208.How_the_Garc_a_Girls_Lost_Their_Accents,https://d2arxad8u2l0g7.cloudfront.net/books/1386922914l/11208.jpg,304,1991
 1853,Quarantine,Jim Crace,3.68,"2,633",92557.Quarantine,https://d2arxad8u2l0g7.cloudfront.net/books/1390970271l/92557.jpg,256,1997
 1854,War Trash,Ha Jin,3.77,"2,613",14729.War_Trash,https://d2arxad8u2l0g7.cloudfront.net/books/1386922155l/14729.jpg,368,2004
-1855,The Queen of the Tambourine,Jane Gardam,3.55,883,268104.The_Queen_of_the_Tambourine,https://d2arxad8u2l0g7.cloudfront.net/books/1421010125l/268104.jpg,0,1991
+1855,The Queen of the Tambourine,Jane Gardam,3.55,885,1191151.The_Queen_of_the_Tambourine,https://d2arxad8u2l0g7.cloudfront.net/books/1420570902l/1191151.jpg,256,1991
 1856,"Brown Girl, Brownstones",Paule Marshall,4.03,"2,013",32750.Brown_Girl_Brownstones,https://d2arxad8u2l0g7.cloudfront.net/books/1386926432l/32750.jpg,324,1959
 1857,The Autobiography of an Ex-Colored Man,James Weldon Johnson,3.90,"5,687",130312.The_Autobiography_of_an_Ex_Colored_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1426557468l/130312.jpg,212,1912
 1858,The Sea,John Banville,3.48,"17,454",3656.The_Sea,https://d2arxad8u2l0g7.cloudfront.net/books/1386924824l/3656.jpg,195,2005
@@ -1899,7 +1899,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1896,Pure Murder,Corey Mitchell,3.86,630,3149091-pure-murder,https://d2arxad8u2l0g7.cloudfront.net/books/1348869162l/3149091.jpg,320,2011
 1897,Guard of Honor,James Gould Cozzens,3.52,860,1045278.Guard_of_Honor,https://d2arxad8u2l0g7.cloudfront.net/books/1393484792l/1045278.jpg,614,1948
 1898,Docherty,William McIlvanney,3.87,200,512009.Docherty,https://d2arxad8u2l0g7.cloudfront.net/books/1374995917l/512009.jpg,359,1975
-1899,The Old Jest,Jennifer Johnston,3.82,109,1057740.The_Old_Jest,https://d2arxad8u2l0g7.cloudfront.net/books/1387736635l/1057740.jpg,0,1979
+1899,The Old Jest,Jennifer Johnston,3.82,109,1057742.The_Old_Jest,https://d2arxad8u2l0g7.cloudfront.net/books/1264615897l/1057742.jpg,203,1979
 1900,Picture Palace,Paul Theroux,3.52,202,131098.Picture_Palace,https://d2arxad8u2l0g7.cloudfront.net/books/1328041310l/131098.jpg,368,1978
 1901,The Shawl,Cynthia Ozick,3.87,"2,324",76523.The_Shawl,https://d2arxad8u2l0g7.cloudfront.net/books/1403172601l/76523.jpg,69,1989
 1902,Poor Things,Alasdair Gray,4.06,"1,619",72355.Poor_Things,https://d2arxad8u2l0g7.cloudfront.net/books/1347703650l/72355.jpg,336,1992
@@ -1934,7 +1934,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1931,Works of Molière,Molière,4.57,7,20555930-collected-works-of-moli-re,https://d2arxad8u2l0g7.cloudfront.net/books/1389825226l/20555930.jpg,334,1673
 1932,The Human Comedy: Selected Stories,Honoré de Balzac,4.05,149,17834880-the-human-comedy,https://d2arxad8u2l0g7.cloudfront.net/books/1390487996l/17834880.jpg,428,1845
 1933,Four Major Plays: A Doll's House / Ghosts / Hedda Gabler / The Master Builder,Henrik Ibsen,4.12,4765,80521.Four_Major_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1386924485l/80521.jpg,370,1906
-1934,Selected Plays: Mrs. Warren's Profession / Caesar and Cleopatra / Man and Superman / Major Barbara / Heartbreak House / Pygmalion,George Bernard Shaw,3.92,26,7701.Selected_Plays,https://d2arxad8u2l0g7.cloudfront.net/books/1328021728l/7701.jpg,0,1950
+1934,"Selected Plays of Bernard Shaw, Vol. 1 (Dodd, Mead Shaw Selected Plays)",George Bernard Shaw,4.00,1,25045405-selected-plays-of-bernard-shaw-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1452830672l/25045405.jpg,898,1898
 1935,Meghaduta Of Kalidasa,Kālidāsa,4.07,120,896422.Meghaduta_Of_Kalidasa,https://d2arxad8u2l0g7.cloudfront.net/books/1179270429l/896422.jpg,208,350
 1936,The Deptford Trilogy: Fifth Business/The Manticore/World of Wonders,Robertson Davies,4.33,"6,238",74403.The_Deptford_Trilogy,https://d2arxad8u2l0g7.cloudfront.net/books/1327968603l/74403.jpg,874,1970
 1937,The Chronicles of Narnia (The Chronicles of Narnia (Chronological Order) #1-7),C.S. Lewis,4.23,377335,11127.The_Chronicles_of_Narnia,https://d2arxad8u2l0g7.cloudfront.net/books/1449868701l/11127.jpg,767,1950
@@ -1950,11 +1950,11 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9999,"The Complete Works of Plato, Vol 1",Plato,3.80,5,8026029-the-complete-works-of-plato-vol-1,https://d2arxad8u2l0g7.cloudfront.net/books/1348315073l/8026029.jpg,662,-347
 99910,The Diary of a Young Girl,Anne Frank,4.09,"1,838,334",48855.The_Diary_of_a_Young_Girl,https://d2arxad8u2l0g7.cloudfront.net/books/1358276407l/48855.jpg,283,1944
 99911,Anti-Communist Manifesto,Jiri Klobouk,3.67,3,25632627-anti-communist-manifesto,,109,1848
-99912,The Confessions of Jean Jacques Rousseau 3,Jean-Jacques Rousseau,3.86,43,342561.The_Confessions_of_Jean_Jacques_Rousseau_3,https://d2arxad8u2l0g7.cloudfront.net/books/1173899179l/342561.jpg,0,1782
+99912,Confessions,Jean-Jacques Rousseau,3.61,4809,12649.Confessions,https://d2arxad8u2l0g7.cloudfront.net/books/1388293814l/12649.jpg,676,1768
 99913,"The History of Herodotus, V1",Herodotus,4.16,273,11085879-the-history-of-herodotus-v1,https://d2arxad8u2l0g7.cloudfront.net/books/1328328459l/11085879.jpg,380,-420
 99914,Silent Spring,Rachel Carson,3.93,"22,930",27333.Silent_Spring,https://d2arxad8u2l0g7.cloudfront.net/books/1442353674l/27333.jpg,378,1962
 99915,Das Kapital,Karl Marx,3.82,"5,046",238953.Das_Kapital,https://d2arxad8u2l0g7.cloudfront.net/books/1388289025l/238953.jpg,356,1867
-99916,The Antichrist/Thus Spake Zarathustra,Friedrich Nietzsche,3.96,285,6700688-the-antichrist-thus-spake-zarathustra,https://d2arxad8u2l0g7.cloudfront.net/books/1328339175l/6700688.jpg,0,1883
+99916,Thus Spoke Zarathustra,Friedrich Nietzsche,4.04,70320,51893.Thus_Spoke_Zarathustra,https://d2arxad8u2l0g7.cloudfront.net/books/1349449118l/51893.jpg,327,1883
 99917,Democracy in America,Alexis de Tocqueville,3.97,"15,768",16619.Democracy_in_America,https://d2arxad8u2l0g7.cloudfront.net/books/1388206188l/16619.jpg,992,1840
 99918,The Elements of Programming Style,Brian W. Kernighan,4.10,163,454039.The_Elements_of_Programming_Style,https://d2arxad8u2l0g7.cloudfront.net/books/1387733024l/454039.jpg,168,1918
 99919,Relativity: The Special and the General Theory,Albert Einstein,4.16,"11,790",15852.Relativity,https://d2arxad8u2l0g7.cloudfront.net/books/1420607613l/15852.jpg,130,1917
@@ -1996,7 +1996,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 99955,Civilization and Its Discontents,Sigmund Freud,3.74,"21,959",357636.Civilization_and_Its_Discontents,https://d2arxad8u2l0g7.cloudfront.net/books/1438544596l/357636.jpg,127,1929
 99956,Memoirs from Beyond the Tomb,François-René de Chateaubriand,3.95,349,18323173-memoirs-from-beyond-the-tomb,https://d2arxad8u2l0g7.cloudfront.net/books/1376393519l/18323173.jpg,432,1849
 99957,Abolition a Sedition. by a Northern Man,Calvin Colton,0.00,0,31516798-abolition-a-sedition-by-a-northern-man,,210,1943
-99958,Corpus Aristotelicum,Aristotle,3.50,2,26399871-corpus-aristotelicum,img/nopic.png,0,-400
+99958,Corpus Aristotelicum,Aristotle,3.50,2,26399871-corpus-aristotelicum,img/nopic.png,586,-400
 99959,Selected Essays,T.S. Eliot,4.05,231,309640.Selected_Essays,https://d2arxad8u2l0g7.cloudfront.net/books/1348069041l/309640.jpg,460,1932
 99960,The Gulag Archipelago 1918-1956,Aleksandr Solzhenitsyn,4.14,"11,536",70561.The_Gulag_Archipelago_1918_1956,https://d2arxad8u2l0g7.cloudfront.net/books/1388293026l/70561.jpg,472,1973
 99961,The Liberal Imagination: Essays on Literature and Society,Lionel Trilling,3.92,228,402292.The_Liberal_Imagination,https://d2arxad8u2l0g7.cloudfront.net/books/1387713230l/402292.jpg,284,1950
@@ -2061,7 +2061,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999121,An Essay Concerning Human Understanding,John Locke,3.81,"11,100",90078.An_Essay_Concerning_Human_Understanding,https://d2arxad8u2l0g7.cloudfront.net/books/1416179522l/90078.jpg,384,1690
 999122,Aspects of Narration in Peter Carey's Novels: Deconstructing Colonialism,Hermine Krassnitzer,3.00,,111115.Aspects_of_Narration_in_Peter_Carey_s_Novels,,146,1927
 999123,The Autobiography of Alice B. Toklas,Gertrude Stein,3.61,"6,005",527495.The_Autobiography_of_Alice_B_Toklas,https://d2arxad8u2l0g7.cloudfront.net/books/1403192593l/527495.jpg,252,1933
-999124,An American Dilemma Revisited,Gunnar Myrdal,3.60,5,729978.An_American_Dilemma_Revisited,img/nopic.png,0,1944
+999124,An American Dilemma: The Negro Problem and Modern Democracy Vol. 1,Gunnar Myrdal,4.10,62,781857.An_American_Dilemma,https://d2arxad8u2l0g7.cloudfront.net/books/1416178649l/781857.jpg,812,1944
 999125,Mythology: Timeless Tales of Gods and Heroes,Edith Hamilton,3.98,"33,067",23522.Mythology,https://d2arxad8u2l0g7.cloudfront.net/books/1305000423l/23522.jpg,497,1942
 999126,The Frontier in American History,Frederick Jackson Turner,3.80,863,1074893.The_Frontier_in_American_History,https://d2arxad8u2l0g7.cloudfront.net/books/1328867631l/1074893.jpg,348,1920
 999127,Life on the Mississippi,Mark Twain,3.89,"9,319",99152.Life_on_the_Mississippi,https://d2arxad8u2l0g7.cloudfront.net/books/1309286211l/99152.jpg,384,1883
@@ -2113,7 +2113,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999173,On Food and Cooking: The Science and Lore of the Kitchen,Harold McGee,4.48,"10,368",101255.On_Food_and_Cooking,https://d2arxad8u2l0g7.cloudfront.net/books/1347221060l/101255.jpg,896,1984
 999174,Correspondence: An Adventure in Letters,N. John Hall,3.52,58,8254230-correspondence,https://d2arxad8u2l0g7.cloudfront.net/books/1348114224l/8254230.jpg,238,1778
 999175,The Duke of Deception,Geoffrey Wolff,3.92,872,210805.The_Duke_of_Deception,https://d2arxad8u2l0g7.cloudfront.net/books/1388284859l/210805.jpg,304,1979
-999176,The Works Of Max Beerbohm,Max Beerbohm,3.94,16,34163.The_Works_Of_Max_Beerbohm,https://d2arxad8u2l0g7.cloudfront.net/books/1348890440l/34163.jpg,0,1896
+999176,The Works of Max Beerbohm,Max Beerbohm,3.94,16,19345990-the-works-of-max-beerbohm,https://d2arxad8u2l0g7.cloudfront.net/books/1386690352l/19345990.jpg,77,1896
 999177,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Michael Azerrad,4.19,"10,226",29393.Our_Band_Could_Be_Your_Life,https://d2arxad8u2l0g7.cloudfront.net/books/1168029429l/29393.jpg,522,2001
 999178,"One Summer: America, 1927",Bill Bryson,4.05,"28,063",17262366-one-summer,https://d2arxad8u2l0g7.cloudfront.net/books/1380292864l/17262366.jpg,456,1958
 999179,Hollywood Babylon,Kenneth Anger,3.78,"2,959",70875.Hollywood_Babylon,https://d2arxad8u2l0g7.cloudfront.net/books/1327942473l/70875.jpg,292,1959
@@ -2196,7 +2196,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999256,Group Psychology & the Analysis of the Ego/The Origin & Development of Psychoanalysis,Sigmund Freud,0.00,0,24499804-group-psychology-the-analysis-of-the-ego-the-origin-development-of-p,https://d2arxad8u2l0g7.cloudfront.net/books/1421262647l/24499804.jpg,0,1952
 999257,The Ego and the Id,Sigmund Freud,3.80,"7,053",132436.The_Ego_and_the_Id,https://d2arxad8u2l0g7.cloudfront.net/books/1386776093l/132436.jpg,87,1923
 999258,The Theory of the Leisure Class,Thorstein Veblen,3.90,"2,180",164019.The_Theory_of_the_Leisure_Class,https://d2arxad8u2l0g7.cloudfront.net/books/1172330188l/164019.jpg,320,1899
-999259,Selected Papers on Hysteria and Other Psychoneurosis,Sigmund Freud,3.55,11,151759.Selected_Papers_on_Hysteria_and_Other_Psychoneurosis,,0,1912
+999259,Selected Papers on Hysteria and Other Psychoneuroses,Sigmund Freud,3.58,12,19385190-selected-papers-on-hysteria-and-other-psychoneuroses,https://d2arxad8u2l0g7.cloudfront.net/books/1386810258l/19385190.jpg,232,1912
 999260,Fear and Trembling,Søren Kierkegaard,4.01,"11,939",24965.Fear_and_Trembling,https://d2arxad8u2l0g7.cloudfront.net/books/1309286516l/24965.jpg,160,1843
 999261,Discussion with Einstein on Epistemology,Niels Bohr,3.67,3,16173898-discussion-with-einstein-on-epistemology,,156,1965
 999262,The Problems of Philosophy,Bertrand Russell,3.90,"8,254",31799.The_Problems_of_Philosophy,https://d2arxad8u2l0g7.cloudfront.net/books/1405495766l/31799.jpg,116,1912
@@ -2354,9 +2354,9 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999415,On the Babylonian Captivity of the Church,Martin Luther,4.18,60,20342157-on-the-babylonian-captivity-of-the-church,https://d2arxad8u2l0g7.cloudfront.net/books/1388318390l/20342157.jpg,98,1520
 999416,His Grandson's Tales to Beelzebub,G. David Thayer,0.00,0,27854034-his-grandson-s-tales-to-beelzebub,https://d2arxad8u2l0g7.cloudfront.net/books/1447850836l/27854034.jpg,120,1950
 999417,A Treatise on Electricity and Magnetism,James Clerk Maxwell,4.67,3,9551674-a-treatise-on-electricity-and-magnetism,https://d2arxad8u2l0g7.cloudfront.net/books/1348984515l/9551674.jpg,546,1873
-999418,Jung's Theory of Psychological Types and the Myers Briggs Type Indicator (60004),Mary H. McCaulley,3.67,3,870729.Jung_s_Theory_of_Psychological_Types_and_the_Myers_Briggs_Type_Indicator,img/nopic.png,0,1921
+999418,Psychological Types (Jung's Collected Works #6),C.G. Jung,4.29,1531,565806.Psychological_Types,https://d2arxad8u2l0g7.cloudfront.net/books/1393791072l/565806.jpg,608,1921
 999419,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,4.03,"94,195",63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales,https://d2arxad8u2l0g7.cloudfront.net/books/1447047702l/63697.jpg,243,
-999420,First Principles,Herbert Spencer,4.00,46,328686.First_Principles,https://d2arxad8u2l0g7.cloudfront.net/books/1173795663l/328686.jpg,0,1862
+999420,First Principles,Herbert Spencer,4.00,46,328686.First_Principles,https://d2arxad8u2l0g7.cloudfront.net/books/1173795663l/328686.jpg,622,1862
 999421,Philosophical Essays,Gottfried Wilhelm Leibniz,3.85,3621,649465.Philosophical_Essays,https://d2arxad8u2l0g7.cloudfront.net/books/1356474161l/649465.jpg,386,1716
 999422,The Works of Philo (Allegorical Expositions of the Holy Laws),Philo of Alexandria,4.07,137,400068.The_Works_of_Philo,https://d2arxad8u2l0g7.cloudfront.net/books/1418767811l/400068.jpg,863,50
 999423,Outlines of Scepticism,Sextus Empiricus,3.98,293,788729.Outlines_of_Scepticism,https://d2arxad8u2l0g7.cloudfront.net/books/1348790088l/788729.jpg,286,175
@@ -2432,7 +2432,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999493,The Road from Coorain,Jill Ker Conway,4.05,"8,478",107430.The_Road_from_Coorain,https://d2arxad8u2l0g7.cloudfront.net/books/1348178288l/107430.jpg,238,1989
 999494,Studies in Iconology: Humanistic Themes in the Art of the Renaissance,Erwin Panofsky,4.15,386,760806.Studies_in_Iconology,https://d2arxad8u2l0g7.cloudfront.net/books/1347296856l/760806.jpg,400,1939
 999495,The Strange Death of Liberal England,George Dangerfield,4.17,220,1138543.The_Strange_Death_of_Liberal_England,https://d2arxad8u2l0g7.cloudfront.net/books/1351223081l/1138543.jpg,364,1935
-999496,Vermeer,Lawrence Gowing,3.93,41,1074690.Vermeer,https://d2arxad8u2l0g7.cloudfront.net/books/1347782014l/1074690.jpg,0,1952
+999496,Vermeer,Lawrence Gowing,3.90,42,11331418-vermeer,https://d2arxad8u2l0g7.cloudfront.net/books/1304960498l/11331418.jpg,90,1952
 999497,The American Political Tradition and the Men Who Made It,Richard Hofstadter,3.98,"1,145",773961.The_American_Political_Tradition_and_the_Men_Who_Made_It,https://d2arxad8u2l0g7.cloudfront.net/books/1403194874l/773961.jpg,560,1948
 999498,The Contours of American History,William Appleman Williams,4.13,45,459535.The_Contours_of_American_History,https://d2arxad8u2l0g7.cloudfront.net/books/1348374957l/459535.jpg,520,1961
 999499,The Promise of American Life,MR Herbert Croly,0.00,0,27657986-the-promise-of-american-life,,298,1909
@@ -2443,7 +2443,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999504,The Works of Archimedes,Archimedes,4.23,163,1398393.The_Works_of_Archimedes,https://d2arxad8u2l0g7.cloudfront.net/books/1328866505l/1398393.jpg,326,-212
 999505,"Theophrastus: His Psychological, Doxographical, and Scientific Writings",W.W. Fortenbaugh,0.00,0,2778080-theophrastus,https://d2arxad8u2l0g7.cloudfront.net/books/1421711657l/2778080.jpg,350,1992
 999506,An Inquiry Into the Causes and Effects of the Variolae Vaccinae,Edward Jenner,4.50,2,7619481-an-inquiry-into-the-causes-and-effects-of-the-variolae-vaccinae,https://d2arxad8u2l0g7.cloudfront.net/books/1347342202l/7619481.jpg,48,1798
-999507,"The Influence Of Sea Power Upon History, 1660 - 1783",Alfred Thayer Mahan,3.83,622,117152.The_Influence_Of_Sea_Power_Upon_History_1660_1783,https://d2arxad8u2l0g7.cloudfront.net/books/1171734026l/117152.jpg,0,1890
+999507,"The Influence of Sea Power Upon History, 1660-1783",Alfred Thayer Mahan,3.84,627,1108268.The_Influence_of_Sea_Power_Upon_History_1660_1783,https://d2arxad8u2l0g7.cloudfront.net/books/1348295364l/1108268.jpg,656,1918
 999508,"Catiline's War, The Jugurthine War, Histories",Sallust,3.75,134,755218.Catiline_s_War_The_Jugurthine_War_Histories,https://d2arxad8u2l0g7.cloudfront.net/books/1311645706l/755218.jpg,204,-35
 999509,Anabasis 1-4,Xenophon,4.03,97,501314.Anabasis_1_4,https://d2arxad8u2l0g7.cloudfront.net/books/1328815693l/501314.jpg,516,
 999510,On the Fabric of the Human Body: Book 2: The Ligaments & Muscles,Andreas Vesalius,5.00,,2362115.On_the_Fabric_of_the_Human_Body,https://d2arxad8u2l0g7.cloudfront.net/books/1266760629l/2362115.jpg,490,1543
@@ -2755,7 +2755,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999816,The Bounty Mutiny,William Bligh,3.89,1965,254191.The_Bounty_Mutiny,https://d2arxad8u2l0g7.cloudfront.net/books/1309283572l/254191.jpg,288,1790
 999817,The Order of Things: An Archaeology of the Human Sciences,Michel Foucault,4.12,"6,429",119561.The_Order_of_Things,https://d2arxad8u2l0g7.cloudfront.net/books/1327977833l/119561.jpg,387,1966
 999818,Adrift: Seventy-Six Days Lost at Sea,Steven Callahan,4.08,"9,820",121410.Adrift,https://d2arxad8u2l0g7.cloudfront.net/books/1356596323l/121410.jpg,344,1986
-999819,The Castaway Bride,Kandy Shepherd,3.43,161,12685802-the-castaway-bride,https://d2arxad8u2l0g7.cloudfront.net/books/1320744033l/12685802.jpg,0,1542
+999819,The Shipwrecked Men (Penguin Great Journeys #4),Álvar Núñez Cabeza de Vaca,3.37,95,1117710.The_Shipwrecked_Men,https://d2arxad8u2l0g7.cloudfront.net/books/1311646503l/1117710.jpg,160,1542
 999820,Touching the Void,Joe Simpson,5.00,,31244383-touching-the-void,,64,1989
 999821,"Tracker (Rylee Adamson, #6)",Shannon Mayer,4.26,"3,600",20737927-tracker,https://d2arxad8u2l0g7.cloudfront.net/books/1391616032l/20737927.jpg,270,1980
 999822,The Adventures Of Captain Bonneville,Washington Irving,0.00,0,31329140-the-adventures-of-captain-bonneville,https://d2arxad8u2l0g7.cloudfront.net/books/1470157781l/31329140.jpg,323,1837
@@ -2811,7 +2811,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999872,Nixonland: The Rise of a President and the Fracturing of America,Rick Perlstein,4.09,"5,428",2393575.Nixonland,https://d2arxad8u2l0g7.cloudfront.net/books/1347835266l/2393575.jpg,895,2008
 999873,Toms River: A Story of Science and Salvation,Dan Fagin,4.03,"2,025",15798109-toms-river,https://d2arxad8u2l0g7.cloudfront.net/books/1360096482l/15798109.jpg,560,2013
 999874,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,4.27,"45,867",7170627-the-emperor-of-all-maladies,https://d2arxad8u2l0g7.cloudfront.net/books/1280771091l/7170627.jpg,571,2010
-999875,"The Coming Of The War, 1914",Bernadotte E. Schmitt,3.50,2,3098053-the-coming-of-the-war-1914,img/nopic.png,0,1931
+999875,"The Coming Of The War, 1914",Bernadotte E. Schmitt,3.50,2,3098053-the-coming-of-the-war-1914,img/nopic.png,566,1931
 999876,Charles Evans Hughes,Merlo J. Pusey,4.00,5,2591703-charles-evans-hughes,,829,1951
 999877,"The Life of the Mind in America: From the Revolution to the Civil War, Books One Through Three",Perry Miller,4.00,18,194062.The_Life_of_the_Mind_in_America,https://d2arxad8u2l0g7.cloudfront.net/books/1392061780l/194062.jpg,300,1965
 999878,Gulag: A History,Anne Applebaum,4.17,"5,370",224379.Gulag,https://d2arxad8u2l0g7.cloudfront.net/books/1410286909l/224379.jpg,610,2003
@@ -2927,7 +2927,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999988,"O Strange New World: American Culture, the Formative Years",Howard Mumford Jones,3.58,12,4011135-o-strange-new-world,https://d2arxad8u2l0g7.cloudfront.net/books/1275651854l/4011135.jpg,464,1964
 999989,Facts of Life,Maureen Howard,3.73,26,1895341.Facts_of_Life,https://d2arxad8u2l0g7.cloudfront.net/books/1408511678l/1895341.jpg,192,1977
 999990,"Ile de La Reunion. Carnet de Voyage: Agenda de Voyage La Reunion. Pre-Imprime: Activites, Restaurant, Budget Jour. Journal de Bord Road Trip.",O M J,0.00,0,27129981-ile-de-la-reunion-carnet-de-voyage,https://d2arxad8u2l0g7.cloudfront.net/books/1444884376l/27129981.jpg,72,1900
-999991,Hamilton Fish: The Inner History of the Grant Administration,Allan Nevins,4.00,2,2164356.Hamilton_Fish,,0,1937
+999991,Hamilton Fish: The Inner History of the Grant Administration,Allan Nevins,4.00,2,2164356.Hamilton_Fish,img/nopic.png,932,1937
 999992,Lamy of Santa Fe,Paul Horgan,3.97,38,1605168.Lamy_of_Santa_Fe,https://d2arxad8u2l0g7.cloudfront.net/books/1387704218l/1605168.jpg,523,1975
 999993,Picasso and the Mysteries of Life: La Vie,William H. Robinson,4.40,5,16231755-picasso-and-the-mysteries-of-life,https://d2arxad8u2l0g7.cloudfront.net/books/1374029484l/16231755.jpg,164,1991
 999994,The Beak of the Finch: A Story of Evolution in Our Time,Jonathan Weiner,4.15,"5,645",125286.The_Beak_of_the_Finch,https://d2arxad8u2l0g7.cloudfront.net/books/1328236736l/125286.jpg,332,1994
@@ -3045,7 +3045,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991106,The Swerve: How the World Became Modern,Stephen Greenblatt,3.83,"18,926",13707734-the-swerve,https://d2arxad8u2l0g7.cloudfront.net/books/1346836299l/13707734.jpg,356,2011
 9991107,Carry Me Home,Catherine Lucas,0.00,0,3293526-carry-me-home,https://d2arxad8u2l0g7.cloudfront.net/books/1394324985l/3293526.jpg,256,2001
 9991108,Young Men and Fire,Norman Maclean,4.06,"3,412",30044.Young_Men_and_Fire,https://d2arxad8u2l0g7.cloudfront.net/books/1386924740l/30044.jpg,316,1993
-9991109,"The Launching Of Modern American Science, 1846 1876",Robert V. Bruce,3.73,11,1729525.The_Launching_Of_Modern_American_Science_1846_1876,https://d2arxad8u2l0g7.cloudfront.net/books/1187496130l/1729525.jpg,0,1987
+9991109,The Launching of Modern American Science 1846-1876,Robert V. Bruce,3.73,11,10064665-the-launching-of-modern-american-science-1846-1876,https://d2arxad8u2l0g7.cloudfront.net/books/1348133195l/10064665.jpg,468,1987
 9991110,"The Americans, Vol. 3: The Democratic Experience",Daniel J. Boorstin,4.05,495,976112.The_Americans_Vol_3,https://d2arxad8u2l0g7.cloudfront.net/books/1403179627l/976112.jpg,717,1973
 9991111,"Freedom from Fear: The American People in Depression and War, 1929-1945",David M. Kennedy,4.13,"3,615",106317.Freedom_from_Fear,https://d2arxad8u2l0g7.cloudfront.net/books/1366907871l/106317.jpg,936,1999
 9991112,"Raven (Raven, #1)",Kimberly Brockman,4.16,63,17305412-raven,https://d2arxad8u2l0g7.cloudfront.net/books/1359610539l/17305412.jpg,236,1930
