@@ -148,7 +148,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 147,The Wind in the Willows,Kenneth Grahame,3.97,"124,124",5659.The_Wind_in_the_Willows,https://d.gr-assets.com/books/1423183570l/5659.jpg,256,1908
 148,"The First Folio of Shakespeare, 1623",William Shakespeare,4.74,258,277928.The_First_Folio_of_Shakespeare_1623,https://d2arxad8u2l0g7.cloudfront.net/books/1388217681l/277928.jpg,896,1623
 148,Light in August,William Faulkner,3.93,"41,325",10979.Light_in_August,https://d.gr-assets.com/books/1355360091l/10979.jpg,507,1932
-149,Twenty Thousand Leagues Under the Seas,Jules Verne,3.76,641,7085072-twenty-thousand-leagues-under-the-seas,https://d2arxad8u2l0g7.cloudfront.net/books/1345387258l/7085072.jpg,48,1870
+149,Twenty Thousand Leagues Under The Sea [Abridged],Jules Verne,3.76,654,5985364-twenty-thousand-leagues-under-the-sea-abridged,https://d2arxad8u2l0g7.cloudfront.net/books/1355509575l/5985364.jpg,322,1870
 150,The Plague,Albert Camus,3.97,"100,660",11989.The_Plague,https://d2arxad8u2l0g7.cloudfront.net/books/1342837610l/11989.jpg,308,1947
 151,The Wind-Up Bird Chronicle,Haruki Murakami,4.17,"141,499",11275.The_Wind_Up_Bird_Chronicle,https://d2arxad8u2l0g7.cloudfront.net/books/1327872639l/11275.jpg,607,1994
 152,Hunger,Knut Hamsun,4.10,"23,780",32585.Hunger,https://d.gr-assets.com/books/1456243307l/32585.jpg,134,1890
@@ -415,10 +415,10 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 412,The Last of the Mohicans (The Leatherstocking Tales #2),James Fenimore Cooper,3.69,"69,260",38296.The_Last_of_the_Mohicans,https://d2arxad8u2l0g7.cloudfront.net/books/1388199654l/38296.jpg,410,1826
 413,Call It Sleep,Henry Roth,3.84,"6,162",366524.Call_It_Sleep,https://d2arxad8u2l0g7.cloudfront.net/books/1388873875l/366524.jpg,462,1934
 414,Waiting for the Barbarians,J.M. Coetzee,3.95,"16,065",6194.Waiting_for_the_Barbarians,https://d.gr-assets.com/books/1330879044l/6194.jpg,152,1980
-415,"25 Love Poems by Rumi, Burns, Sappho, Horace and others, with illustrations",Rumi Burns Sappho Horace and Others,0.00,0,30758655-25-love-poems-by-rumi-burns-sappho-horace-and-others-with-illustrati,https://d2arxad8u2l0g7.cloudfront.net/books/1467003611l/30758655.jpg,44,1273
+415,"Rumi and Islam: Selections from His Stories, Poems and Discourses Annotated & Explained",Maulana Jalal al-Din Rumi,0.00,0,30897095-rumi-and-islam,https://d2arxad8u2l0g7.cloudfront.net/books/1468800710l/30897095.jpg,240,1273
 416,Howl and Other Poems,Allen Ginsberg,4.14,"67,645",6295.Howl_and_Other_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1327870926l/6295.jpg,56,1956
 417,Selected Stories,Lu Xun,3.88,366,812068.Selected_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1348859050l/812068.jpg,288,1936
-418,Krapp's Last Tape & Embers,Samuel Beckett,4.06,"3,248",104627.Krapp_s_Last_Tape_Embers,https://d2arxad8u2l0g7.cloudfront.net/books/1328427103l/104627.jpg,48,1958
+418,Krapp's Last Tape,Samuel Beckett,3.74,23,28550115-krapp-s-last-tape,img/nopic.png,13,1958
 419,Utopia,Thomas More,3.48,"38,385",18414.Utopia,https://d2arxad8u2l0g7.cloudfront.net/books/1388190168l/18414.jpg,135,1516
 420,The Sot-Weed Factor,John Barth,4.07,"5,561",24835.The_Sot_Weed_Factor,https://d.gr-assets.com/books/1349029340l/24835.jpg,756,1960
 421,The French Lieutenant's Woman,John Fowles,3.85,"35,363",56034.The_French_Lieutenant_s_Woman,https://d2arxad8u2l0g7.cloudfront.net/books/1466630905l/56034.jpg,470,1969
@@ -615,7 +615,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 612,Sanctuary,William Faulkner,3.65,"8,166",18789.Sanctuary,https://d2arxad8u2l0g7.cloudfront.net/books/1385366876l/18789.jpg,317,1931
 613,"Spain, Take This Chalice from Me and Other Poems: Parallel Text edition",César Vallejo,4.25,109,1839960.Spain_Take_This_Chalice_from_Me_and_Other_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1348328290l/1839960.jpg,352,1937
 614,The First Man,Albert Camus,3.92,"4,036",15694.The_First_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1374680457l/15694.jpg,359,1994
-615,40 Sonnets,Don Paterson,3.94,65,25366223-40-sonnets,https://d2arxad8u2l0g7.cloudfront.net/books/1439307809l/25366223.jpg,44,1625
+615,Sonetos,Francisco de Quevedo,4.00,3,20498618-sonetos,https://d2arxad8u2l0g7.cloudfront.net/books/1389279695l/20498618.jpg,23,1625
 616,The Poetry of Luis Cernuda,Luis Cernuda,4.50,2,370460.The_Poetry_of_Luis_Cernuda,,171,1963
 617,"Demian. Siddartha. (Sepan Cuantos, #630)",Hermann Hesse,4.13,2259,393420.Demian_Siddartha_,https://d2arxad8u2l0g7.cloudfront.net/books/1328224601l/393420.jpg,209,1919
 618,"L'otage, suivi de Le pain dur, et de Le père humilié",Paul Claudel,3.40,5,11490193-l-otage-suivi-de-le-pain-dur-et-de-le-p-re-humili,https://d2arxad8u2l0g7.cloudfront.net/books/1335382186l/11490193.jpg,440,1955
@@ -837,7 +837,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 834,La saga/fuga de J. B.,Gonzalo Torrente Ballester,4.24,152,61714.La_saga_fuga_de_J_B_,https://d2arxad8u2l0g7.cloudfront.net/books/1170592775l/61714.jpg,585,1972
 835,Wo cheng (My city),西西 (Xi Xi),4.17,6,3089813-wo-cheng,img/nopic.png,123,1994
 836,The Stone Raft,José Saramago,3.79,"4,328",29565.The_Stone_Raft,https://d2arxad8u2l0g7.cloudfront.net/books/1348652119l/29565.jpg,272,1986
-837,Book of Songs,Associated Harvard Clubs,0.00,0,29137535-book-of-songs,,44,1937
+837,"The Book of Odes or Shih Ching, [1908]",L. Cranmer-Byng,0.00,0,25752035-the-book-of-odes-or-shih-ching-1908,https://d2arxad8u2l0g7.cloudfront.net/books/1434664128l/25752035.jpg,60,1937
 838,Antiworlds,Andrei Voznesensky,4.25,16,1542334.ANTIWORLDS,https://d2arxad8u2l0g7.cloudfront.net/books/1336337059l/1542334.jpg,120,1966
 839,The Radetzky March  (Von Trotta Family #1),Joseph Roth,4.08,"3,684",54258.The_Radetzky_March,https://d2arxad8u2l0g7.cloudfront.net/books/1320967670l/54258.jpg,384,1932
 840,"Soixante Dessins pour ""Les Enfants Terribles""",Jean Cocteau,2.40,5,18274896-soixante-dessins-pour-les-enfants-terribles,https://d2arxad8u2l0g7.cloudfront.net/books/1375371003l/18274896.jpg,128,1929
@@ -894,7 +894,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 891,"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.36,"4,362,609",2767052-the-hunger-games,https://d2arxad8u2l0g7.cloudfront.net/books/1447303603l/2767052.jpg,374,
 892,The Song of Hiawatha,Henry Wadsworth Longfellow,3.90,"1,778",780875.The_Song_of_Hiawatha,https://d2arxad8u2l0g7.cloudfront.net/books/1391963647l/780875.jpg,184,1855
 893,Barchester Towers (Chronicles of Barsetshire #2),Anthony Trollope,4.01,"9,402",125321.Barchester_Towers,https://d2arxad8u2l0g7.cloudfront.net/books/1387980968l/125321.jpg,418,1855
-894,"Game of Thrones: The Ultimate Game of Thrones Character Description Guide (Includes 39 Game of Thrones Characters) (game of thrones, game of thrones series) (Volume 1)",David Nolan,3.00,2,24444153-game-of-thrones,https://d2arxad8u2l0g7.cloudfront.net/books/1420996938l/24444153.jpg,44,1996
+894,A Game of Thrones (A Song of Ice and Fire #1),George R.R. Martin,4.44,1257286,13496.A_Game_of_Thrones,https://d2arxad8u2l0g7.cloudfront.net/books/1436732693l/13496.jpg,835,1996
 895,"The Railway Children (Penguin Readers, Level 2)",Karen Holmes,3.24,17,6443455-the-railway-children,https://d2arxad8u2l0g7.cloudfront.net/books/1370839020l/6443455.jpg,48,1906
 896,The Jungle Book,Rudyard Kipling,3.95,"71,924",77270.The_Jungle_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1327873594l/77270.jpg,277,1894
 897,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.00,"184,407",28877.Red_Dragon,https://d2arxad8u2l0g7.cloudfront.net/books/1390284698l/28877.jpg,348,1981
@@ -1267,8 +1267,8 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1264,The Sportswriter,Richard Ford,3.71,"13,139",40722.The_Sportswriter,https://d2arxad8u2l0g7.cloudfront.net/books/1327936345l/40722.jpg,375,1986
 1265,The Blood Oranges,John Hawkes,3.65,516,222046.The_Blood_Oranges,https://d2arxad8u2l0g7.cloudfront.net/books/1388217573l/222046.jpg,271,1997
 1266,The Box Man,Kōbō Abe,3.71,2596,9999.The_Box_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1320459929l/9999.jpg,178,1973
-1267,"Nigerian Novels, including: Efuru, No Longer At Ease, The Palm-wine Drinkard, My Life In The Bush Of Ghosts (novel), Beasts Of No Nation, The Bride ... God, A Man Of The People, Chike And The River",Hephaestus Books,5.00,,12842483-nigerian-novels-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348786929l/12842483.jpg,48,1952
-1268,"Novels By Haruki Murakami, including: Sputnik Sweetheart, Norwegian Wood (novel), Hard-boiled Wonderland And The End Of The World, The Wind-up Bird Chronicle, Kafka On The Shore, South Of The Border, West Of The Sun, Pinball, 1973, A Wild Sheep Chase",Hephaestus Books,4.30,60,12540656-novels-by-haruki-murakami-including,https://d2arxad8u2l0g7.cloudfront.net/books/1347232216l/12540656.jpg,44,1992
+1267,The Palm-Wine Drinkard,Amos Tutuola,3.85,1127,944103.The_Palm_Wine_Drinkard,https://d2arxad8u2l0g7.cloudfront.net/books/1349119604l/944103.jpg,125,1952
+1268,"South of the Border, West of the Sun",Haruki Murakami,3.87,52427,17799.South_of_the_Border_West_of_the_Sun,https://d2arxad8u2l0g7.cloudfront.net/books/1443685506l/17799.jpg,190,1992
 1269,Man in the Holocene,Max Frisch,3.85,954,74186.Man_in_the_Holocene,https://d2arxad8u2l0g7.cloudfront.net/books/1388941683l/74186.jpg,128,1979
 1270,The Oranging of America and Other Stories,Max Apple,3.71,107,490255.The_Oranging_of_America_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1228816364l/490255.jpg,152,1976
 1271,Love in a Cold Climate,Nancy Mitford,3.84,"3,284",372811.Love_in_a_Cold_Climate,https://d2arxad8u2l0g7.cloudfront.net/books/1450579709l/372811.jpg,249,1949
@@ -1381,7 +1381,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1378,"Ancient Greek Stories - About Africa,",J.O. de Graft Hanson,0.00,0,28228412-ancient-greek-stories---about-africa,https://d2arxad8u2l0g7.cloudfront.net/books/1450306168l/28228412.jpg,65,1953
 1379,The Tiger Who Came to Tea,Judith Kerr,4.22,"9,904",1099097.The_Tiger_Who_Came_to_Tea,https://d2arxad8u2l0g7.cloudfront.net/books/1369858732l/1099097.jpg,32,1968
 1380,Where the Sidewalk Ends: The Poems and Drawings of Shel Silverstein,Shel Silverstein,4.28,"969,261",30119.Where_the_Sidewalk_Ends,https://d2arxad8u2l0g7.cloudfront.net/books/1168052448l/30119.jpg,176,
-1381,"Wacky Aphorisms, What the Web Says about Dissolution: A Novel of Tudor England Introducing Matthew Shardlake",Andrew Bing,5.00,,17951884-wacky-aphorisms-what-the-web-says-about-dissolution,https://d2arxad8u2l0g7.cloudfront.net/books/1369158541l/17951884.jpg,44,2003
+1381,Dissolution (Matthew Shardlake #1),C.J. Sansom,4.07,24122,138685.Dissolution,https://d2arxad8u2l0g7.cloudfront.net/books/1329914905l/138685.jpg,456,2003
 1382,Cutting for Stone,Abraham Verghese,4.28,"252,438",3591262-cutting-for-stone,https://d2arxad8u2l0g7.cloudfront.net/books/1327931601l/3591262.jpg,541,
 1383,The Taming of the Shrew,William Shakespeare,3.82,"126,151",47021.The_Taming_of_the_Shrew,https://d2arxad8u2l0g7.cloudfront.net/books/1327935253l/47021.jpg,291,1592
 1384,Ubik,Philip K. Dick,4.10,"50,140",22590.Ubik,https://d2arxad8u2l0g7.cloudfront.net/books/1327995569l/22590.jpg,288,1969
@@ -2106,7 +2106,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999166,"Facundo: Or, Civilization and Barbarism",Domingo Faustino Sarmiento,3.41,"1,122",269735.Facundo,https://d2arxad8u2l0g7.cloudfront.net/books/1348584946l/269735.jpg,288,1845
 999167,Maxims of Napoleon,Napoléon Bonaparte,4.00,11,14955963-maxims-of-napoleon,,92,1680
 999168,Les Caractères,Jean de La Bruyère,3.59,550,1768274.Les_Caract_res,https://d2arxad8u2l0g7.cloudfront.net/books/1356081313l/1768274.jpg,508,1688
-999169,"Expedition Terra Nova: Terra Nova, L'Epopee Du Capitaine Scott, the Worst Journey in the World",Livres Groupe,0.00,0,9767584-expedition-terra-nova,https://d2arxad8u2l0g7.cloudfront.net/books/1355029052l/9767584.jpg,44,1922
+999169,The Worst Journey in the World (The Worst Journey in the World #1 & 2),Apsley Cherry-Garrard,4.16,4100,48503.The_Worst_Journey_in_the_World?ac=1,https://d2arxad8u2l0g7.cloudfront.net/books/1388224063l/48503.jpg,640,1922
 999170,"Lettres de Madame de Sevigne, de Sa Famille Et de Ses Amis, Vol. 1",Marie De Rabutin-Chantal Sevigne,0.00,0,31230063-lettres-de-madame-de-sevigne-de-sa-famille-et-de-ses-amis-vol-1,,548,1696
 999171,On Writing: A Memoir of the Craft,Stephen King,4.29,"131,528",10569.On_Writing,https://d2arxad8u2l0g7.cloudfront.net/books/1436735207l/10569.jpg,320,2000
 999172,The Provincial Letters,Blaise Pascal,4.11,95,268117.The_Provincial_Letters,https://d2arxad8u2l0g7.cloudfront.net/books/1348998369l/268117.jpg,232,1656
@@ -2404,7 +2404,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999466,Orientalism,Edward W. Said,4.06,"10,368",355190.Orientalism,https://d2arxad8u2l0g7.cloudfront.net/books/1409777781l/355190.jpg,395,1978
 999467,"Three Orations on the Agrarian Law, the Four Against Catiline, the Orations for Rabirius, Murena Sylla, Archias, Flaccus, Scaurus, Etc",Marcus Tullius Cicero,0.00,0,28643988-three-orations-on-the-agrarian-law-the-four-against-catiline-the-orati,,560,-63
 999468,The Hasheesh Eater,Fitz Hugh Ludlow,2.00,,26626800-the-hasheesh-eater,https://d2arxad8u2l0g7.cloudfront.net/books/1442821347l/26626800.jpg,228,1857
-999469,"Religious Autobiographies, including: Confessions (st. Augustine), Freedom In Exile, Autobiography Of A Yogi, Black Elk Speaks, The Story Of My Experiments With Truth, Steps Along The Way: A Spiritual Autobiography, Return From Tomorrow, Bruchko",Hephaestus Books,0.00,0,12743941-religious-autobiographies-including,https://d2arxad8u2l0g7.cloudfront.net/books/1348237577l/12743941.jpg,42,1932
+999469,Black Elk Speaks: Being the Life Story of a Holy Man of the Oglala Sioux,Black Elk,4.12,10275,35476.Black_Elk_Speaks,https://d2arxad8u2l0g7.cloudfront.net/books/1328819916l/35476.jpg,270,1932
 999470,Man and His Symbols: Approaching the Unconscious,C.G. Jung,4.17,144,114519.Man_and_His_Symbols,https://d2arxad8u2l0g7.cloudfront.net/books/1328041200l/114519.jpg,123,1964
 999471,The Confessions of Nat Turner,Nat Turner,3.77,257,8719113-the-confessions-of-nat-turner,https://d2arxad8u2l0g7.cloudfront.net/books/1328346335l/8719113.jpg,48,1831
 999472,The Year of Magical Thinking,Joan Didion,3.85,"89,427",7815.The_Year_of_Magical_Thinking,https://d2arxad8u2l0g7.cloudfront.net/books/1327878638l/7815.jpg,227,2005
@@ -2469,7 +2469,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999531,A Sand County Almanac and Sketches Here and There,Aldo Leopold,4.23,"17,484",210404.A_Sand_County_Almanac_and_Sketches_Here_and_There,https://d2arxad8u2l0g7.cloudfront.net/books/1283195046l/210404.jpg,269,1949
 999532,"The Theory of Economic Development: An Inquiry Into Profits, Capital, Credit, Interest, and the Business Cycle",Joseph Alois Schumpeter,4.07,89,134799.The_Theory_of_Economic_Development,https://d2arxad8u2l0g7.cloudfront.net/books/1416178728l/134799.jpg,244,1911
 999533,Dancing Wu Li Masters: An Overview of the New Physics,Gary Zukav,4.01,"7,882",64794.Dancing_Wu_Li_Masters,https://d2arxad8u2l0g7.cloudfront.net/books/1410138626l/64794.jpg,416,1979
-999534,Free to Choose: A Personal Statement by Milton Friedman | Summary & Study Guide,BookRags,4.00,,22294827-free-to-choose,https://d2arxad8u2l0g7.cloudfront.net/books/1400794753l/22294827.jpg,42,1980
+999534,Free to Choose: A Personal Statement,Milton Friedman,4.20,4634,97820.Free_to_Choose,https://d2arxad8u2l0g7.cloudfront.net/books/1328875046l/97820.jpg,368,1980
 999535,For a New Novel: Essays on Fiction,Alain Robbe-Grillet,3.97,420,107067.For_a_New_Novel,https://d2arxad8u2l0g7.cloudfront.net/books/1418363661l/107067.jpg,175,1953
 999536,"The Paris Review Interviews, I",The Paris Review,4.38,757,11473.The_Paris_Review_Interviews_I,https://d2arxad8u2l0g7.cloudfront.net/books/1388463237l/11473.jpg,528,2003
 999537,The Writer on Her Work,Janet Sternburg,3.75,80,636312.The_Writer_on_Her_Work,https://d2arxad8u2l0g7.cloudfront.net/books/1347366001l/636312.jpg,288,1980
@@ -2494,7 +2494,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999556,FICTION / NON-FICTION. A READER AND RHETORIC,Garry Engkent,0.00,0,25467973-fiction-non-fiction-a-reader-and-rhetoric,https://d2arxad8u2l0g7.cloudfront.net/books/1430572571l/25467973.jpg,461,1961
 999557,Reading Lolita in Tehran,Azar Nafisi,3.57,"94,138",7603.Reading_Lolita_in_Tehran,https://d2arxad8u2l0g7.cloudfront.net/books/1397751318l/7603.jpg,356,2003
 999558,First They Killed My Father: A Daughter of Cambodia Remembers,Loung Ung,4.26,"15,866",4373.First_They_Killed_My_Father,https://d2arxad8u2l0g7.cloudfront.net/books/1407105580l/4373.jpg,238,2000
-999559,"100 Provocative Statements about Super Freakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance",Dominic Birling,3.33,6,17957816-100-provocative-statements-about-super-freakonomics,https://d2arxad8u2l0g7.cloudfront.net/books/1369153074l/17957816.jpg,44,2005
+999559,Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics #1),Steven D. Levitt,3.92,519329,1202.Freakonomics,https://d2arxad8u2l0g7.cloudfront.net/books/1327909092l/1202.jpg,320,2005
 999560,The Looming Tower: Al-Qaeda and the Road to 9/11,Lawrence Wright,4.37,"13,236",110890.The_Looming_Tower,https://d2arxad8u2l0g7.cloudfront.net/books/1320471617l/110890.jpg,373,2006
 999561,The Liars' Club,Mary Karr,3.91,"43,829",14241.The_Liars_Club,https://d2arxad8u2l0g7.cloudfront.net/books/1422160409l/14241.jpg,320,1995
 999562,Bad Science,Ben Goldacre,4.08,"23,385",3272165-bad-science,https://d2arxad8u2l0g7.cloudfront.net/books/1327251503l/3272165.jpg,338,2008
@@ -2610,7 +2610,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999672,Understanding Behaviorism,William M. Baum,0.00,0,15451487-understanding-behaviorism,,256,1930
 999673,Sexual Behavior in the Human Male,Alfred C. Kinsey,3.68,181,47380.Sexual_Behavior_in_the_Human_Male,https://d2arxad8u2l0g7.cloudfront.net/books/1334969779l/47380.jpg,820,1948
 999674,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families,Philip Gourevitch,4.32,"16,981",11472.We_Wish_to_Inform_You_That_Tomorrow_We_Will_Be_Killed_with_Our_Families,https://d2arxad8u2l0g7.cloudfront.net/books/1442723264l/11472.jpg,356,1998
-999675,Smoking,Judith Anderson,0.00,0,7920526-smoking,https://d2arxad8u2l0g7.cloudfront.net/books/1348418231l/7920526.jpg,45,1962
+999675,Smoking and Health,Surgeon General,0.00,0,https://profiles.nlm.nih.gov/ps/access/NNBBMQ.pdf,https://profiles.nlm.nih.gov/ps/access/NNBBMQ~.png,386,1962
 999676,Creatures That Once Were Men,Maxim Gorky,3.72,107,14389330-creatures-that-once-were-men,https://d2arxad8u2l0g7.cloudfront.net/books/1348552568l/14389330.jpg,250,1906
 999677,Happiness in Marriage,Margaret Sanger,3.00,6,8463290-happiness-in-marriage,https://d2arxad8u2l0g7.cloudfront.net/books/1328756772l/8463290.jpg,240,1926
 999678,Psychology of the Unconscious,C.G. Jung,4.15,302,565633.Psychology_of_the_Unconscious,https://d2arxad8u2l0g7.cloudfront.net/books/1328865300l/565633.jpg,624,1916
@@ -2665,7 +2665,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999727,The God Delusion,Richard Dawkins,3.89,"156,459",14743.The_God_Delusion,https://d2arxad8u2l0g7.cloudfront.net/books/1347220693l/14743.jpg,374,2006
 999728,The Spirit of St. Louis,Charles A. Lindbergh,4.11,883,571406.The_Spirit_of_St_Louis,https://d2arxad8u2l0g7.cloudfront.net/books/1348627414l/571406.jpg,576,1953
 999729,The 9/11 Report,Sid Jacobson,3.67,"1,262",160220.The_9_11_Report,https://d2arxad8u2l0g7.cloudfront.net/books/1312023493l/160220.jpg,117,2004
-999730,The Rest Is Noise Series: Sunken Cathedrals: Music at Century's End,Alex Ross,0.00,0,29763663-the-rest-is-noise-series,https://d2arxad8u2l0g7.cloudfront.net/books/1459635105l/29763663.jpg,45,2007
+999730,The Rest Is Noise: Listening to the Twentieth Century,Alex  Ross,4.08,8964,392563.The_Rest_Is_Noise,https://d2arxad8u2l0g7.cloudfront.net/books/1311973474l/392563.jpg,640,2007
 999731,The Noonday Demon: An Atlas of Depression,Andrew Solomon,4.12,"7,234",13932.The_Noonday_Demon,https://d2arxad8u2l0g7.cloudfront.net/books/1438193191l/13932.jpg,576,2001
 999732,No Logo,Naomi Klein,3.87,"17,966",647.No_Logo,https://d2arxad8u2l0g7.cloudfront.net/books/1441567914l/647.jpg,528,2000
 999733,Slavery by Another Name: The Re-Enslavement of Black Americans from the Civil War to World War II,Douglas A. Blackmon,4.27,"3,380",2319745.Slavery_by_Another_Name,https://d2arxad8u2l0g7.cloudfront.net/books/1320504147l/2319745.jpg,480,2008
@@ -2689,7 +2689,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999751,The Travels,Marco Polo,3.59,"3,075",574929.The_Travels,https://d2arxad8u2l0g7.cloudfront.net/books/1442800299l/574929.jpg,384,1298
 999752,Farthest North,Fridtjof Nansen,4.08,801,888369.Farthest_North,https://d2arxad8u2l0g7.cloudfront.net/books/1403170642l/888369.jpg,544,1898
 999753,Two Years Before the Mast: A Sailor's Life at Sea,Richard Henry Dana Jr.,3.95,"9,124",335397.Two_Years_Before_the_Mast,https://d2arxad8u2l0g7.cloudfront.net/books/1173843539l/335397.jpg,458,1840
-999754,South,Patrick McDonnell,4.25,625,3485600-south,https://d2arxad8u2l0g7.cloudfront.net/books/1315573758l/3485600.jpg,48,1919
+999754,South: The Story of Shackleton's Last Expedition 1914 - 1917,Ernest Shackleton,4.21,5470,143999.South,https://d2arxad8u2l0g7.cloudfront.net/books/1348115187l/143999.jpg,374,1919
 999755,A Short Walk in the Hindu Kush,Eric Newby,3.97,"3,534",118141.A_Short_Walk_in_the_Hindu_Kush,https://d2arxad8u2l0g7.cloudfront.net/books/1387738186l/118141.jpg,247,1958
 999756,Kon-Tiki,Thor Heyerdahl,4.09,"14,082",790171.Kon_Tiki,https://d2arxad8u2l0g7.cloudfront.net/books/1348547584l/790171.jpg,240,1951
 999757,"Travels and Voyages Into Africa, Asia, and America, the East and West-Indies, Syria, Jerusalem, and the Holy-Land",Jean B 1575 Mocquet,0.00,0,26581605-travels-and-voyages-into-africa-asia-and-america-the-east-and-west-in,https://d2arxad8u2l0g7.cloudfront.net/books/1444624776l/26581605.jpg,444,1897
