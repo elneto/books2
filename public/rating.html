@@ -32,7 +32,7 @@
 	</div>
 
   <!-- number of pages on top -->
-  <div id="numpages_cont"> 
+  <div id="numpages_cont_left"> 
     <div id="numpages"></div>
   </div>
 
@@ -124,7 +124,7 @@ d3.csv("both.csv", function(error, data) {
       .data(data)
     .enter().append("rect")
     .attr("class", "square")
-      .attr("x", function(d) {return x(d.order_page)*(size_square*8); })
+      .attr("x", function(d) {return x(d.order_page)*(size_square*8)+40; })
       .attr("width", size_square)
       .attr("y", function(d) {return y(d.order_rating)*(size_square/10);})
       .attr("height", size_square)
@@ -160,9 +160,9 @@ d3.csv("both.csv", function(error, data) {
       tt.style("visibility", "visible");
 
       //numpages
-      d3.select("#numpages").text(d.pages+" pages");
-      d3.select("#numpages_cont").style("left", x-15+"px");
-      //d3.select("#numpages_cont").style("visibility", "visible");
+      d3.select("#numpages").text(d.avg_rating);
+      d3.select("#numpages_cont_left").style("top", y-22+"px");
+      d3.select("#numpages_cont_left").style("visibility", "visible");
 
       return 0;
     }
