@@ -106,7 +106,6 @@ d3.csv("both.csv", function(error, data) {
             tmp_col = []; //clean the temp column
             d.order_rating = order_rating-1;
             tmp_col.push(d); //and insert the next one
-            console.log(d);
           }
         }
     	}
@@ -126,7 +125,6 @@ d3.csv("both.csv", function(error, data) {
           tmp_col = []; //clean the temp column
           tmp_col.push(d); //and insert the next one
         }
-   			//console.log(d);
    		}
 
     if (typeof d.ratings !== "undefined")
