@@ -58,6 +58,10 @@ var x = d3.scale.linear()
 var y = d3.scale.linear()
     .range([height, 0]);
 
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("top");
+
 var cs = d3.scale.linear(); //default scale 0,1
 var color_scale = chroma.scale(['lightgray', 'red']);
 //var color_scale = chroma.scale('Spectral');
@@ -74,15 +78,13 @@ d3.csv("both.csv", function(error, data) {
 	data.forEach(function(d) {
     d.pages = +d.pages;
     d.avg_rating = +d.avg_rating;
+    order_rating = 5.0;
+    d.order_rating = order_rating; //the only book with x pages, i.e, only one book has 20 pages
 
     if (d.pages <= previous_page)
     	{
         d.order_pages = order_pages;
-        d.order_rating = 5.0; 
         tmp_col.push(d); 
-
-        // console.log("<=");
-        // console.log(d);
     	}
     else //cambio de pagina
    		{
@@ -92,10 +94,6 @@ d3.csv("both.csv", function(error, data) {
         if (tmp_col.length >=1 ){ //more books with x pages
           //desc order by d.avg_rating
           tmp_col.sort(function(a,b){return parseFloat(b.avg_rating) - parseFloat(a.avg_rating);});
-          //create the d.order_rating
-          order_rating = 5.0;
-          d.order_rating = order_rating; //the only book with x pages, i.e, only one book has 20 pages
-
           for (var i=0; i<tmp_col.length; i++)
             {
               tmp_col[i].order_rating = order_rating;
@@ -104,18 +102,14 @@ d3.csv("both.csv", function(error, data) {
           tmp_col = []; //clean the temp column
           tmp_col.push(d); //and insert the next one
         }
-
-        // console.log("else");
-        // console.log(d);
    			
    		}
 
     if (typeof d.ratings !== "undefined")
     	d.ratings = parseInt(d.ratings.replace(/\,/g,'')); //remove commas
 
-    //console.log(++debug_total_datum);
   });
-
+  //console.log(d3.max(data, function(d) { return d.order_pages; }));
 	y.domain([0,5]);
 	x.domain([0,d3.max(data, function(d) { return d.order_pages; })]);
 	cs.domain([0,d3.max(data, function(d) { return d.ratings; })]);
@@ -126,7 +120,7 @@ d3.csv("both.csv", function(error, data) {
     .attr("class", "square")
       .attr("x", function(d) {return x(d.order_pages)*(size_square-1); })
       .attr("width", size_square)
-      .attr("y", function(d) {return y(d.order_rating);})
+      .attr("y", function(d) {return y(d.order_rating)+25;})
       .attr("height", size_square)
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
@@ -140,9 +134,6 @@ d3.csv("both.csv", function(error, data) {
           window.open("https://www.goodreads.com/search?q="+search)
           //window.open("https://www.goodreads.com/book/show/"+d.url, '_blank');
       })
-      // .on("mouseout", function(d){ 
-      //     d3.select(this).transition().duration(300).attr("height", size_square).attr("width", size_square);
-      //   })
       ;
 
   d3.select("#closett").on("click",function(d){return tt.style("visibility", "hidden");});
