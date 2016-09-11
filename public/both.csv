@@ -277,7 +277,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 274,Kim,Rudyard Kipling,3.72,"24,070",210834.Kim,https://d2arxad8u2l0g7.cloudfront.net/books/1387747342l/210834.jpg,366,1901
 275,Songs of Innocence and of Experience,William Blake,4.11,"26,602",171547.Songs_of_Innocence_and_of_Experience,https://d2arxad8u2l0g7.cloudfront.net/books/1348408738l/171547.jpg,56,1789
 276,The Man Who Loved Children,Christina Stead,3.60,"2,970",304344.The_Man_Who_Loved_Children,https://d2arxad8u2l0g7.cloudfront.net/books/1311987244l/304344.jpg,527,1940
-277,"Auden Poems, Moore Lithographs: An Exhibition of a Book Dedicated by Henry Moore to W.H. Auden with Related Drawings",W.H. Auden,0.00,0,5451483-auden-poems-moore-lithographs,,48,1930
+277,Auden: Poems,W.H. Auden,4.26,362,152532.Auden,https://d2arxad8u2l0g7.cloudfront.net/books/1320400081l/152532.jpg,256,1930
 278,A Midsummer Night's Dream,William Shakespeare,3.94,"327,426",1622.A_Midsummer_Night_s_Dream,https://d2arxad8u2l0g7.cloudfront.net/books/1327874534l/1622.jpg,204,1596
 279,The Prelude,William Wordsworth,3.86,"2,484",865350.The_Prelude,https://d2arxad8u2l0g7.cloudfront.net/books/1388659471l/865350.jpg,704,1850
 280,The Confusions of Young Törless,Robert Musil,3.77,"4,074",29718.The_Confusions_of_Young_T_rless,https://d2arxad8u2l0g7.cloudfront.net/books/1309376853l/29718.jpg,176,1906
@@ -800,7 +800,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 797,Tales of a parrot,Ziya'u'd-Din Nakhshabi,3.83,6,10808348-tales-of-a-parrot,https://d2arxad8u2l0g7.cloudfront.net/books/1300398715l/10808348.jpg,268,1560
 798,First Love,Ivan Turgenev,3.78,"5,726",3532.First_Love,https://d2arxad8u2l0g7.cloudfront.net/books/1442616229l/3532.jpg,124,1860
 799,"Tracker (Rylee Adamson, #6)",Shannon Mayer,4.26,"3,592",20737927-tracker,https://d2arxad8u2l0g7.cloudfront.net/books/1391616032l/20737927.jpg,270,
-800,"PILGRIM OF LOVE - FROM WASHINGTON IRVING'S ""TALES OF THE ALHAMBRA"": A BEAUTIFUL LOVE STORY BY WASHINGTON IRVING! (TALES FOR CHILDREN Book 2)",Washington Irving,0.00,0,25655372-pilgrim-of-love---from-washington-irving-s-tales-of-the-alhambra,https://d2arxad8u2l0g7.cloudfront.net/books/1433333228l/25655372.jpg,50,1859
+800,The Complete Tales,Washington Irving,3.98,178,50687.The_Complete_Tales,https://d2arxad8u2l0g7.cloudfront.net/books/1388197725l/50687.jpg,840,1859
 801,The Royal Physician's Visit,Per Olov Enquist,3.78,1848,275570.The_Royal_Physician_s_Visit,https://d2arxad8u2l0g7.cloudfront.net/books/1386922282l/275570.jpg,312,1999
 802,Ember (Ember #1),E.E. Martin,4.61,28,11967115-ember,https://d2arxad8u2l0g7.cloudfront.net/books/1328349225l/11967115.jpg,210,1942
 803,"Memed, My Hawk",Yashar Kemal,5.00,,31191405-memed-my-hawk,https://d2arxad8u2l0g7.cloudfront.net/books/1469130846l/31191405.jpg,368,1955
@@ -895,7 +895,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 892,The Song of Hiawatha,Henry Wadsworth Longfellow,3.90,"1,778",780875.The_Song_of_Hiawatha,https://d2arxad8u2l0g7.cloudfront.net/books/1391963647l/780875.jpg,184,1855
 893,Barchester Towers (Chronicles of Barsetshire #2),Anthony Trollope,4.01,"9,402",125321.Barchester_Towers,https://d2arxad8u2l0g7.cloudfront.net/books/1387980968l/125321.jpg,418,1855
 894,A Game of Thrones (A Song of Ice and Fire #1),George R.R. Martin,4.44,1257286,13496.A_Game_of_Thrones,https://d2arxad8u2l0g7.cloudfront.net/books/1436732693l/13496.jpg,835,1996
-895,"The Railway Children (Penguin Readers, Level 2)",Karen Holmes,3.24,17,6443455-the-railway-children,https://d2arxad8u2l0g7.cloudfront.net/books/1370839020l/6443455.jpg,48,1906
+895,The Railway Children,E. Nesbit,3.98,32853,164531.The_Railway_Children,https://d2arxad8u2l0g7.cloudfront.net/books/1328865877l/164531.jpg,208,1906
 896,The Jungle Book,Rudyard Kipling,3.95,"71,924",77270.The_Jungle_Book,https://d2arxad8u2l0g7.cloudfront.net/books/1327873594l/77270.jpg,277,1894
 897,"Red Dragon (Hannibal Lecter, #1)",Thomas Harris,4.00,"184,407",28877.Red_Dragon,https://d2arxad8u2l0g7.cloudfront.net/books/1390284698l/28877.jpg,348,1981
 898,The Murders in the Rue Morgue,Edgar Allan Poe,3.93,"15,126",3301759-the-murders-in-the-rue-morgue,https://d2arxad8u2l0g7.cloudfront.net/books/1409105459l/3301759.jpg,38,1841
@@ -1451,7 +1451,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1448,Almanac of the Dead,Leslie Marmon Silko,3.95,"2,021",52385.Almanac_of_the_Dead,https://d2arxad8u2l0g7.cloudfront.net/books/1386924233l/52385.jpg,768,1991
 1449,A Mirror for Witches,Esther Forbes,3.92,95,1042146.A_Mirror_for_Witches,https://d2arxad8u2l0g7.cloudfront.net/books/1396833377l/1042146.jpg,215,1928
 1450,The Slaves of Solitude,Patrick Hamilton,4.07,"1,180",176964.The_Slaves_of_Solitude,https://d2arxad8u2l0g7.cloudfront.net/books/1320547784l/176964.jpg,242,1947
-1451,"Self Kindness for Busy, Intelligent Women: 57 Ways to be Kind to Body Mind and Soul: 1",Liz Keaney,3.00,,21175332-self-kindness-for-busy-intelligent-women,https://d2arxad8u2l0g7.cloudfront.net/books/1394391272l/21175332.jpg,48,1964
+1451,The Soul of Kindness,Elizabeth  Taylor,3.96,262,1707951.The_Soul_of_Kindness,https://d2arxad8u2l0g7.cloudfront.net/books/1346088321l/1707951.jpg,219,1964
 1452,Galileo,Bertolt Brecht,3.71,"5,846",64410.Galileo,https://d2arxad8u2l0g7.cloudfront.net/books/1388231215l/64410.jpg,160,1945
 1453,Novel on Yellow Paper,Stevie Smith,3.60,235,408704.Novel_on_Yellow_Paper,https://d2arxad8u2l0g7.cloudfront.net/books/1347722652l/408704.jpg,264,1936
 1454,Take It or Leave It,Raymond Federman,4.00,65,266753.Take_It_or_Leave_It,https://d2arxad8u2l0g7.cloudfront.net/books/1347314631l/266753.jpg,456,1976
@@ -2033,7 +2033,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 99993,The Open Society in Theory and Practice,Dante L. Germino,0.00,0,5493969-the-open-society-in-theory-and-practice,https://d2arxad8u2l0g7.cloudfront.net/books/1348512950l/5493969.jpg,334,1945
 99994,Apology,Plato,4.13,"18,348",73945.Apology,https://d2arxad8u2l0g7.cloudfront.net/books/1212606317l/73945.jpg,127,-399
 99995,On the Genealogy of Morality & Other Writings,Friedrich Nietzsche,4.12,655,80448.On_the_Genealogy_of_Morality_Other_Writings,https://d2arxad8u2l0g7.cloudfront.net/books/1347590304l/80448.jpg,195,1887
-99996,"Memoirs of Jean Francois Paul de Gondi, Cardinal de Retz - Volume 3",Jean François Paul de Gondi,0.00,0,29062830-memoirs-of-jean-francois-paul-de-gondi-cardinal-de-retz---volume-3,,48,1717
+99996,Memoirs of Cardinal de Retz,Jean Francois Paul De Gondi De 1 Retz,0.00,0,30696722-memoirs-of-cardinal-de-retz,img/nopic.png,346,1717
 99997,Out of Africa,Isak Dinesen,3.96,"20,751",781787.Out_of_Africa,https://d2arxad8u2l0g7.cloudfront.net/books/1178296503l/781787.jpg,399,1937
 99998,Seven Pillars of Wisdom: A Triumph,T.E. Lawrence,4.01,"4,606",57936.Seven_Pillars_of_Wisdom,https://d2arxad8u2l0g7.cloudfront.net/books/1393786656l/57936.jpg,784,1926
 99999,The Myth of Sisyphus,Albert Camus,4.11,"8,646",91950.The_Myth_of_Sisyphus,https://d2arxad8u2l0g7.cloudfront.net/books/1347654509l/91950.jpg,192,1942
@@ -2464,7 +2464,6 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999526,The Pleasure of the Text,Roland Barthes,4.05,"3,546",765227.The_Pleasure_of_the_Text,https://d2arxad8u2l0g7.cloudfront.net/books/1311985999l/765227.jpg,67,1975
 999527,Infidel,Ayaan Hirsi Ali,4.19,"56,353",81227.Infidel,https://d2arxad8u2l0g7.cloudfront.net/books/1388256729l/81227.jpg,353,2007
 999528,Art Nouveau Documents: Modern Applied Arts 1902-1908,Heinrich Pudor,0.00,0,14640679-art-nouveau-documents,https://d2arxad8u2l0g7.cloudfront.net/books/1340796167l/14640679.jpg,256,1972
-999529,Stories In Art,H. Williams,0.00,0,4232122-stories-in-art,https://d2arxad8u2l0g7.cloudfront.net/books/1266601379l/4232122.jpg,48,1950
 999530,An Inconvenient Truth: The Planetary Emergency of Global Warming and What We Can Do About It,Al Gore,3.74,"5,173",8714.An_Inconvenient_Truth,https://d2arxad8u2l0g7.cloudfront.net/books/1385167858l/8714.jpg,328,2006
 999531,A Sand County Almanac and Sketches Here and There,Aldo Leopold,4.23,"17,484",210404.A_Sand_County_Almanac_and_Sketches_Here_and_There,https://d2arxad8u2l0g7.cloudfront.net/books/1283195046l/210404.jpg,269,1949
 999532,"The Theory of Economic Development: An Inquiry Into Profits, Capital, Credit, Interest, and the Business Cycle",Joseph Alois Schumpeter,4.07,89,134799.The_Theory_of_Economic_Development,https://d2arxad8u2l0g7.cloudfront.net/books/1416178728l/134799.jpg,244,1911
@@ -2480,7 +2479,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999542,The Las Vegas Desert Flower: An Alexandra Merritt Mystery,Donna Foley Mabry,4.67,3,5723962-the-las-vegas-desert-flower,https://d2arxad8u2l0g7.cloudfront.net/books/1348965803l/5723962.jpg,308,1998
 999543,"The Road Less Traveled: A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,4.02,"59,121",347852.The_Road_Less_Traveled,https://d2arxad8u2l0g7.cloudfront.net/books/1322673263l/347852.jpg,316,1978
 999544,"Other Inquisitions, 1937-1952",Jorge Luis Borges,4.35,886,929561.Other_Inquisitions_1937_1952,https://d2arxad8u2l0g7.cloudfront.net/books/1369825526l/929561.jpg,223,1952
-999545,Stories In Art,H. Williams,0.00,0,4232122-stories-in-art,https://d2arxad8u2l0g7.cloudfront.net/books/1266601379l/4232122.jpg,48,1950
+999545,The Story of Art,E.H. Gombrich,3.81,120233,222078.The_Story_of_Art,https://d2arxad8u2l0g7.cloudfront.net/books/1389274650l/222078.jpg,688,1950
 999546,How We Live: Contemporary Life in Contemporary Fiction: An Anthology,Penney Chapin Hills,3.25,4,2131226.How_We_Live,https://d2arxad8u2l0g7.cloudfront.net/books/1327459204l/2131226.jpg,1008,2003
 999547,Guerrilla Warfare,Ernesto Che Guevara,3.63,"1,950",153117.Guerrilla_Warfare,https://d2arxad8u2l0g7.cloudfront.net/books/1328043380l/153117.jpg,440,1961
 999548,"Superfiction, or The American Story Transformed: An Anthology",Joe David Bellamy,3.64,22,761975.Superfiction_or_The_American_Story_Transformed,https://d2arxad8u2l0g7.cloudfront.net/books/1178133101l/761975.jpg,293,1975
