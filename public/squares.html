@@ -130,8 +130,10 @@ d3.csv("both.csv", function(error, data) {
       .attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })
       .on("mouseover", function(d){ 
           //d3.select(this).transition().duration(300).attr("height", size_square*2).attr("width", size_square*2);
+          d3.select(this).attr("style", function(d) { return "fill:#e5e500"; })
           showTooltip(d, this, event.pageX, event.pageY);
         })
+      .on("mouseout", function(d){ d3.select(this).attr("style", function(d) { return "fill:"+color_scale(cs(d.ratings)).hex()+";"; })})
       .on("click", function(d){
           //window.open("https://www.goodreads.com/book/show/"+d.url, '_blank');
           var search = good_search_title_author(d.id);
