@@ -558,7 +558,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 555,Le jeu de l'amour et du hasard,Pierre de Marivaux,3.67,2646,316101.Le_jeu_de_l_amour_et_du_hasard,https://d2arxad8u2l0g7.cloudfront.net/books/1173710273l/316101.jpg,145,1763
 556,La Légende des siècles,Victor Hugo,4.14,88,3205394-la-l-gende-des-si-cles,https://d2arxad8u2l0g7.cloudfront.net/books/1336550837l/3205394.jpg,1030,1859
 557,The Last Books of Héctor Viel Temperley,Héctor Viel Temperley,4.20,10,13185220-the-last-books-of-h-ctor-viel-temperley,https://d2arxad8u2l0g7.cloudfront.net/books/1328384358l/13185220.jpg,96,1982
-558,4 poemas de Pablo Neruda y un amanecer en la isla/ 4 Poems of Pablo Neruda and a Dawn in the Island,Pablo Neruda,0.00,0,1430969.4_poemas_de_Pablo_Neruda_y_un_amanecer_en_la_isla_4_Poems_of_Pablo_Neruda_and_a_Dawn_in_the_Island,https://d2arxad8u2l0g7.cloudfront.net/books/1266800505l/1430969.jpg,36,1975
+558,The Poetry of Pablo Neruda,Pablo Neruda,4.44,13885,5936.The_Poetry_of_Pablo_Neruda,https://d2arxad8u2l0g7.cloudfront.net/books/1417605511l/5936.jpg,1040,1975
 559,The Burning Plain and Other Stories,Juan Rulfo,4.15,"7,771",38788.The_Burning_Plain_and_Other_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1388949726l/38788.jpg,191,1953
 560,"Los lanzallamas (Los siete locos, #2)",Roberto Arlt,4.08,382,214702.Los_lanzallamas,https://d2arxad8u2l0g7.cloudfront.net/books/1332200775l/214702.jpg,280,1931
 561,Calligrammes,Guillaume Apollinaire,4.00,5,30404977-calligrammes,https://d2arxad8u2l0g7.cloudfront.net/books/1465605512l/30404977.jpg,96,1918
@@ -1114,7 +1114,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1111,The Collected Tales of Nikolai Gogol,Nikolai Gogol,4.36,9418,252981.The_Collected_Tales_of_Nikolai_Gogol,https://d2arxad8u2l0g7.cloudfront.net/books/1403184138l/252981.jpg,435,1852
 1112,The Magic Toyshop,Angela Carter,3.88,"5,354",81026.The_Magic_Toyshop,https://d2arxad8u2l0g7.cloudfront.net/books/1388410534l/81026.jpg,200,1967
 1113,The Complete Short Stories of Jack London,Jack London,4.42,26,15740800-the-complete-short-stories-of-jack-london,https://d2arxad8u2l0g7.cloudfront.net/books/1341685821l/15740800.jpg,2557,1916
-1114,"The Twelve Labours of Hercules, Son of Jupiter and Alcmena",Unknown author,0.00,0,30910739-the-twelve-labours-of-hercules-son-of-jupiter-and-alcmena,,36,-600
+1114,"The Twelve Labours of Hercules, Son of Jupiter & Alcmena",Anonymous,3.36,28,18903844-the-twelve-labours-of-hercules-son-of-jupiter-alcmena?from_search=true,https://d2arxad8u2l0g7.cloudfront.net/books/1385211127l/18903844.jpg,28,-600
 1115,Wild at Heart,Barry Gifford,3.76,859,12867.Wild_at_Heart,https://d2arxad8u2l0g7.cloudfront.net/books/1348209142l/12867.jpg,160,1990
 1116,Wondrous Moment: Selected Poetry,Alexander Pushkin,4.20,137,5977679-wondrous-moment,https://d2arxad8u2l0g7.cloudfront.net/books/1400852307l/5977679.jpg,92,1837
 1117,The Hunting of the Snark,Lewis Carroll,4.08,3682,296866.The_Hunting_of_the_Snark,https://d2arxad8u2l0g7.cloudfront.net/books/1173486610l/296866.jpg,27,1876
@@ -2733,7 +2733,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999795,The Royal Road to Romance: Travelers' Tales Classics,Richard Halliburton,4.30,337,252453.The_Royal_Road_to_Romance,https://d2arxad8u2l0g7.cloudfront.net/books/1389466837l/252453.jpg,320,1925
 999796,The Long Walk: The True Story of a Trek to Freedom,Slavomir Rawicz,4.17,"10,963",9013.The_Long_Walk,https://d2arxad8u2l0g7.cloudfront.net/books/1417980460l/9013.jpg,256,1956
 999797,Mountaineering in the Sierra Nevada,Clarence King,3.85,47,337415.Mountaineering_in_the_Sierra_Nevada,https://d2arxad8u2l0g7.cloudfront.net/books/1344751789l/337415.jpg,312,1872
-999798,My Journey to Lhasa by Alexandra David-Néel l Summary & Study Guide,BookRags,4.67,3,20618191-my-journey-to-lhasa-by-alexandra-david-n-el-l-summary-study-guide,https://d2arxad8u2l0g7.cloudfront.net/books/1390418301l/20618191.jpg,37,1927
+999798,My Journey to Lhasa: The Classic Story of the Only Western Woman Who Succeeded in Entering the Forbidden City,Alexandra David-Néel,3.94,860,463297.My_Journey_to_Lhasa?from_search=true,https://d2arxad8u2l0g7.cloudfront.net/books/1348552103l/463297.jpg,376,1927
 999799,Imperial Life in the Emerald City: Inside Iraq's Green Zone,Rajiv Chandrasekaran,4.01,"4,606",22121.Imperial_Life_in_the_Emerald_City,https://d2arxad8u2l0g7.cloudfront.net/books/1388184155l/22121.jpg,320,2006
 999800,The Glass Castle,Jeannette Walls,4.22,"595,681",7445.The_Glass_Castle,https://d2arxad8u2l0g7.cloudfront.net/books/1400930557l/7445.jpg,288,2005
 999801,Journal of the Discovery of the Source of the Nile,John Hanning Speke,3.37,19,497490.Journal_of_the_Discovery_of_the_Source_of_the_Nile,https://d2arxad8u2l0g7.cloudfront.net/books/1175252045l/497490.jpg,590,1863
