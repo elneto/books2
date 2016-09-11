@@ -27,7 +27,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("url", help="url to crawl")
 args = parser.parse_args()
 
-sopa = BeautifulSoup(urllib2.urlopen(args.url).read())
+url = args.url.replace("?from_search=true", "")
+
+sopa = BeautifulSoup(urllib2.urlopen(url).read())
 title = sopa.find("h1", {"id": "bookTitle"}).get_text().strip()
 title = comillas(title)
 author = sopa.find("a", {"class": "authorName"}).span.get_text()
@@ -47,6 +49,9 @@ if pages is not None:
 	pages = pages.get_text()[:-6]
 else:
 	pages = "0"
+
+title = title.replace("\n", "")
+title = " ".join(title.split())
 
 line = title+','+author+','+rating+','+ratings+','+part_url+','+img+','+pages+','
 
