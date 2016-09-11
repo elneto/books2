@@ -31,6 +31,11 @@
 	  </div>
 	</div>
 
+  <!-- number of pages on top -->
+  <div id="numpages_cont"> 
+    <div id="numpages"></div>
+  </div>
+
 <script src="js/d3.v3.min.js"></script>
 <script src="js/chroma.min.js"></script>
 <script src="js/gb.js"></script>
@@ -150,6 +155,12 @@ d3.csv("both.csv", function(error, data) {
       d3.select("#tt-url").attr("href", "https://www.goodreads.com/book/show/"+d.url);
       tt.style("top", y+"px").style("left", x+"px");
       tt.style("visibility", "visible");
+
+      //numpages
+      d3.select("#numpages").text(d.pages+" pages");
+      d3.select("#numpages_cont").style("left", x-15+"px");
+      d3.select("#numpages_cont").style("visibility", "visible");
+
       return 0;
     }
 
