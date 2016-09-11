@@ -42,7 +42,7 @@ else:
 rating = sopa.find("span", {"itemprop": "ratingValue"}).get_text()
 ratings = sopa.find("span", {"itemprop": "ratingCount"})['title']
 ratings = comillas(ratings)
-parts_url = args.url.split('/')
+parts_url = url.split('/')
 part_url = parts_url[len(parts_url)-1]
 pages = sopa.find("span", {"itemprop": "numberOfPages"})
 if pages is not None:
