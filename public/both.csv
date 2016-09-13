@@ -468,7 +468,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 465,Theresa Raquin,Émile Zola,3.70,12399,18622291-theresa-raquin,https://d2arxad8u2l0g7.cloudfront.net/books/1384802982l/18622291.jpg,224,1867
 466,The Lady with the Dog and Other Stories,Anton Chekhov,4.01,540,18869130-the-lady-with-the-dog-and-other-stories,https://d2arxad8u2l0g7.cloudfront.net/books/1384928707l/18869130.jpg,138,1899
 467,Selected Poems,Anne Sexton,4.20,"1,340",481821.Selected_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1434818369l/481821.jpg,266,1585
-468,Endgame,Samuel Beckett,3.87,"10,003",12287.Endgame,https://d.gr-assets.com/books/1452534163l/12287.jpg,60,1957
+468,Endgame,Samuel Beckett,3.87,10078,12287.Endgame,https://d.gr-assets.com/books/1452534163l/12287.jpg,60,1957
 469,Memórias Póstumas de Brás Cubas,Machado de Assis,4.22,"8,918",87264.Mem_rias_P_stumas_de_Br_s_Cubas,https://d2arxad8u2l0g7.cloudfront.net/books/1348283742l/87264.jpg,165,1881
 470,The Blindness of the Heart,Julia Franck,3.37,"1,133",9486050-the-blindness-of-the-heart,https://d2arxad8u2l0g7.cloudfront.net/books/1328359532l/9486050.jpg,416,1998
 471,"The Sea, the Sea",Iris Murdoch,3.90,"10,882",11229.The_Sea_the_Sea,https://d2arxad8u2l0g7.cloudfront.net/books/1302898449l/11229.jpg,495,1978
@@ -2348,7 +2348,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999410,The Souls of Black Folk,W.E.B. Du Bois,4.21,"20,227",318742.The_Souls_of_Black_Folk,https://d2arxad8u2l0g7.cloudfront.net/books/1309202855l/318742.jpg,288,1903
 999411,Shadow and Act,Ralph Ellison,4.07,364,683078.Shadow_and_Act,https://d2arxad8u2l0g7.cloudfront.net/books/1347013279l/683078.jpg,352,1964
 999412,A Distant Mirror: The Calamitous 14th Century,Barbara W. Tuchman,4.12,20381,568236.A_Distant_Mirror,https://d2arxad8u2l0g7.cloudfront.net/books/1403200553l/568236.jpg,677,1978
-999413,Meditations on First Philosophy,René Descartes,3.69,"14,922",30658.Meditations_on_First_Philosophy,https://d2arxad8u2l0g7.cloudfront.net/books/1405624521l/30658.jpg,59,1641
+999413,Meditations on First Philosophy,René Descartes,3.69,15001,30658.Meditations_on_First_Philosophy,https://d2arxad8u2l0g7.cloudfront.net/books/1405624521l/30658.jpg,59,1641
 999414,Cours de philosophie positive,Auguste Comte,2.50,2,18554497-cours-de-philosophie-positive,,100,1842
 999415,On the Babylonian Captivity of the Church,Martin Luther,4.18,60,20342157-on-the-babylonian-captivity-of-the-church,https://d2arxad8u2l0g7.cloudfront.net/books/1388318390l/20342157.jpg,98,1520
 999416,Beelzebub's Tales to His Grandson (All and Everything #1),G.I. Gurdjieff,4.08,782,547608.Beelzebub_s_Tales_to_His_Grandson,https://d2arxad8u2l0g7.cloudfront.net/books/1348215716l/547608.jpg,1152,1950
@@ -2460,7 +2460,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999522,John Adams,David McCullough,4.06,"188,662",2203.John_Adams,https://d2arxad8u2l0g7.cloudfront.net/books/1327953700l/2203.jpg,751,2001
 999523,One Writer's Beginnings,Eudora Welty,4.05,"2,354",12590.One_Writer_s_Beginnings,https://d2arxad8u2l0g7.cloudfront.net/books/1348994705l/12590.jpg,104,1983
 999524,How Democracies Perish,Jean-François Revel,4.05,38,245411.How_Democracies_Perish,https://d2arxad8u2l0g7.cloudfront.net/books/1340587764l/245411.jpg,376,1983
-999525,Birinci Sürrealist Manifesto (1929),André Breton,3.83,6,13186038-birinci-s-rrealist-manifesto,https://d2arxad8u2l0g7.cloudfront.net/books/1323555452l/13186038.jpg,57,1924
+999525,Manifestoes of Surrealism,André Breton,3.95,1716,115164.Manifestoes_of_Surrealism,https://d2arxad8u2l0g7.cloudfront.net/books/1472344999l/115164.jpg,320,1924
 999526,The Pleasure of the Text,Roland Barthes,4.05,"3,546",765227.The_Pleasure_of_the_Text,https://d2arxad8u2l0g7.cloudfront.net/books/1311985999l/765227.jpg,67,1975
 999527,Infidel,Ayaan Hirsi Ali,4.19,"56,353",81227.Infidel,https://d2arxad8u2l0g7.cloudfront.net/books/1388256729l/81227.jpg,353,2007
 999528,The Writings of Robert Motherwell,Robert Motherwell,4.48,29,159379.The_Writings_of_Robert_Motherwell,https://d2arxad8u2l0g7.cloudfront.net/books/1347352163l/159379.jpg,397,1972
@@ -2993,7 +2993,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991058,A Prince of Our Disorder: The Life of T.E. Lawrence,John E. Mack,4.19,219,64682.A_Prince_of_Our_Disorder,https://d2arxad8u2l0g7.cloudfront.net/books/1388293815l/64682.jpg,624,1976
 9991059,The Dead Hand: The Untold Story of the Cold War Arms Race and its Dangerous Legacy,David E. Hoffman,4.08,"2,408",6623920-the-dead-hand,https://d2arxad8u2l0g7.cloudfront.net/books/1320419175l/6623920.jpg,592,2009
 9991060,George Washington on Leadership,Richard Brookhiser,3.67,207,2564808-george-washington-on-leadership,https://d2arxad8u2l0g7.cloudfront.net/books/1442849037l/2564808.jpg,272,1957
-9991061,Founding Brothers: The Revolutionary Generation by Joseph Ellis l Summary & Study Guide,BookRags,3.00,2,22360572-founding-brothers,https://d2arxad8u2l0g7.cloudfront.net/books/1401229753l/22360572.jpg,58,2000
+9991061,Founding Brothers: The Revolutionary Generation,Joseph J. Ellis,3.91,29444,7493.Founding_Brothers,https://d2arxad8u2l0g7.cloudfront.net/books/1388791106l/7493.jpg,290,2000
 9991062,"W.E.B. Du Bois: Biography of a Race, 1868-1919",David Levering Lewis,4.31,"1,454",17618.W_E_B_Du_Bois,https://d2arxad8u2l0g7.cloudfront.net/books/1328036936l/17618.jpg,735,1993
 9991063,The Man from New York: John Quinn and His Friends,Benjamin Lawrence Reid,5.00,,2595482-the-man-from-new-york,https://d2arxad8u2l0g7.cloudfront.net/books/1459570039l/2595482.jpg,708,1969
 9991064,Newjack: Guarding Sing Sing,Ted Conover,3.95,"2,837",53225.Newjack,https://d2arxad8u2l0g7.cloudfront.net/books/1403187756l/53225.jpg,352,2001
