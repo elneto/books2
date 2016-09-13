@@ -1246,7 +1246,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1243,The Good Person of Szechwan,Bertolt Brecht,3.68,22,28054831-the-good-person-of-szechwan,https://d2arxad8u2l0g7.cloudfront.net/books/1448996437l/28054831.jpg,147,1943
 1244,"Diamonds Are Forever (James Bond, #4)",Ian Fleming,3.58,"11,027",3760.Diamonds_Are_Forever,https://d2arxad8u2l0g7.cloudfront.net/books/1440633220l/3760.jpg,290,1956
 1245,Eye of the Needle,Ken Follett,4.16,"91,815",92364.Eye_of_the_Needle,https://d2arxad8u2l0g7.cloudfront.net/books/1327939511l/92364.jpg,368,1978
-1246,The Raymond Chandler Omnibus: The Big Sleep / Farewell My Lovely / The High Window / The Lady in the Lake,Raymond Chandler,4.48,196,124194.The_Raymond_Chandler_Omnibus,https://d2arxad8u2l0g7.cloudfront.net/books/1391043461l/124194.jpg,625,1940
+1246,"Farewell, My Lovely (Philip Marlowe #2)",Raymond Chandler,4.17,22102,2050.Farewell_My_Lovely,https://d2arxad8u2l0g7.cloudfront.net/books/1465778099l/2050.jpg,292,1940
 1247,"She (She, #1)",H. Rider Haggard,3.60,"7,748",682681.She,https://d2arxad8u2l0g7.cloudfront.net/books/1388347922l/682681.jpg,317,1887
 1248,Planetb2: Human War Against Nature,M C Raj,3.33,3,20592554-planetb2,,442,1884
 1249,Pygmalion,George Bernard Shaw,3.89,"70,874",7714.Pygmalion,https://d2arxad8u2l0g7.cloudfront.net/books/1453757285l/7714.jpg,134,1912
@@ -2792,7 +2792,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999855,Comfort Me with Apples: More Adventures at the Table,Ruth Reichl,4.01,"15,511",8725.Comfort_Me_with_Apples,https://d2arxad8u2l0g7.cloudfront.net/books/1339885200l/8725.jpg,302,2001
 999856,"Random Family: Love, Drugs, Trouble, and Coming of Age in the Bronx",Adrian Nicole LeBlanc,4.23,"8,991",385255.Random_Family,https://d2arxad8u2l0g7.cloudfront.net/books/1442198039l/385255.jpg,432,2003
 999857,The Valleys of the Assassins: and Other Persian Travels,Freya Stark,3.85,672,108629.The_Valleys_of_the_Assassins,https://d2arxad8u2l0g7.cloudfront.net/books/1320470869l/108629.jpg,320,1934
-999858,Entwined: Sisters and Secrets in the Silent World of Artist Judith Scott,Joyce  Scott,4.48,27,27163112-entwined,https://d2arxad8u2l0g7.cloudfront.net/books/1445792244l/27163112.jpg,240,1953
+999858,The Silent World,Jacques-Yves Cousteau,4.28,617,612512.The_Silent_World,https://d2arxad8u2l0g7.cloudfront.net/books/1312947183l/612512.jpg,266,1953
 999859,The Fall of Berlin 1945,Antony Beevor,4.25,"8,639",42661.The_Fall_of_Berlin_1945,https://d2arxad8u2l0g7.cloudfront.net/books/1312049741l/42661.jpg,490,2002
 999860,Alaska Wilderness: Exploring the Central Brooks Range,Robert Marshall,3.91,22,1764081.Alaska_Wilderness,https://d2arxad8u2l0g7.cloudfront.net/books/1348277921l/1764081.jpg,236,1956
 999861,"Manners, Customs, and Conditions of the North American Indians, Volume I",George Catlin,4.00,14,2152044.Manners_Customs_and_Conditions_of_the_North_American_Indians_Volume_I,https://d2arxad8u2l0g7.cloudfront.net/books/1328865525l/2152044.jpg,289,1841
@@ -2934,7 +2934,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999999,Paul Revere and the World He Lived In,Esther Forbes,4.19,196,452657.Paul_Revere_and_the_World_He_Lived_In,https://d2arxad8u2l0g7.cloudfront.net/books/1404956151l/452657.jpg,536,1942
 9991000,Voyagers to the West: A Passage in the Peopling of America on the Eve of the Revolution,Bernard Bailyn,3.91,103,901939.Voyagers_to_the_West,https://d2arxad8u2l0g7.cloudfront.net/books/1387668548l/901939.jpg,720,1987
 9991001,John Quincy Adams and the Foundations of American Foreign Policy,Samuel Flagg Bemis,4.23,22,2361563.John_Quincy_Adams_and_the_Foundations_of_American_Foreign_Policy,https://d2arxad8u2l0g7.cloudfront.net/books/1366400535l/2361563.jpg,588,1949
-9991002,Benjamin Henry Latrobe,Talbot Faulkner Hamlin,4.50,2,2267465.Benjamin_Henry_Latrobe,,633,1956
+9991002,Benjamin Henry Latrobe,Talbot Faulkner Hamlin,4.50,2,2267465.Benjamin_Henry_Latrobe,img/nopic.png,633,1956
 9991003,Peter the Great: His Life and World,Robert K. Massie,4.22,"8,360",130363.Peter_the_Great,https://d2arxad8u2l0g7.cloudfront.net/books/1171992814l/130363.jpg,909,1980
 9991004,The Fate of Liberty: Abraham Lincoln and Civil Liberties,Mark E. Neely Jr.,3.44,64,336488.The_Fate_of_Liberty,https://d2arxad8u2l0g7.cloudfront.net/books/1369158201l/336488.jpg,304,1991
 9991005,The Visible Hand: The Managerial Revolution in American Business,Alfred D. Chandler Jr.,3.92,165,29993.The_Visible_Hand,https://d2arxad8u2l0g7.cloudfront.net/books/1327653012l/29993.jpg,624,1977
@@ -2958,7 +2958,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991023,The Growth of American Thought,Merle Curti,4.14,7,4353469-the-growth-of-american-thought,https://d2arxad8u2l0g7.cloudfront.net/books/1416182394l/4353469.jpg,939,1943
 9991024,A Nation Under Our Feet: Black Political Struggles in the Rural South from Slavery to the Great Migration,Steven Hahn,3.99,452,110244.A_Nation_Under_Our_Feet,https://d2arxad8u2l0g7.cloudfront.net/books/1348719929l/110244.jpg,624,2003
 9991025,"Twilight of the Old Order 1774-1778 (Age of the French Revolution, Vol 1)",Claude Manceron,4.43,21,3902048-twilight-of-the-old-order-1774-1778,https://d2arxad8u2l0g7.cloudfront.net/books/1370413055l/3902048.jpg,650,1967
-9991026,A History of American Magazines,Frank Luther Mott,4.50,2,4938420-a-history-of-american-magazines,,595,1939
+9991026,A History of American Magazines,Frank Luther Mott,4.50,2,4938420-a-history-of-american-magazines,img/nopic.png,595,1939
 9991027,Days of Sorrow and Pain: Leo Baeck and the Berlin Jews,Leonard Baker,3.89,9,998087.Days_of_Sorrow_and_Pain,https://d2arxad8u2l0g7.cloudfront.net/books/1386389419l/998087.jpg,396,1978
 9991028,A Life's Work: On Becoming a Mother,Rachel Cusk,3.60,535,522426.A_Life_s_Work,https://d2arxad8u2l0g7.cloudfront.net/books/1312001649l/522426.jpg,228,2001
 9991029,"George Bancroft, Brahmin Rebel",Russel B. Nye,3.00,3,2595715-george-bancroft-brahmin-rebel,,340,1945
