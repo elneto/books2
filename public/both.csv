@@ -55,7 +55,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 54,Les Misérables,Victor Hugo,4.13,"527,759",24280.Les_Mis_rables,https://d2arxad8u2l0g7.cloudfront.net/books/1411852091l/24280.jpg,1463,1862
 55,To Kill a Mockingbird,Harper Lee,4.24,"2,964,495",2657.To_Kill_a_Mockingbird,https://d.gr-assets.com/books/1361975680l/2657.jpg,324,1960
 56,Paradise Lost,John Milton,3.79,"97,539",15997.Paradise_Lost,https://d.gr-assets.com/books/1455618673l/15997.jpg,453,1667
-57,The Complete Works of Edgar Allan Poe,Edgar Allan Poe,4.50,4614,9507278-the-complete-works-of-edgar-allan-poe,https://d2arxad8u2l0g7.cloudfront.net/books/1335026116l/9507278.jpg,236,1975
+57,The Complete Tales and Poems of Edgar Allan Poe (Coterie Classics with Free Audiobook),Edgar Allan Poe,4.12,17,29762566-the-complete-tales-and-poems-of-edgar-allan-poe,https://d2arxad8u2l0g7.cloudfront.net/books/1459622363l/29762566.jpg,186,1975
 58,Pale Fire,Vladimir Nabokov,4.19,"28,372",7805.Pale_Fire,https://d.gr-assets.com/books/1388155863l/7805.jpg,248,1962
 59,A Passage to India,E.M. Forster,3.65,"46,739",45195.A_Passage_to_India,https://d2arxad8u2l0g7.cloudfront.net/books/1421883612l/45195.jpg,376,1924
 60,The Idiot,Fyodor Dostoyevsky,4.17,"80,734",12505.The_Idiot,https://d2arxad8u2l0g7.cloudfront.net/books/1327865902l/12505.jpg,667,1868
@@ -616,7 +616,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 613,"Spain, Take This Chalice from Me and Other Poems: Parallel Text edition",César Vallejo,4.25,109,1839960.Spain_Take_This_Chalice_from_Me_and_Other_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1348328290l/1839960.jpg,352,1937
 614,The First Man,Albert Camus,3.92,"4,036",15694.The_First_Man,https://d2arxad8u2l0g7.cloudfront.net/books/1374680457l/15694.jpg,359,1994
 615,Sonetos,Francisco de Quevedo,4.00,3,20498618-sonetos,https://d2arxad8u2l0g7.cloudfront.net/books/1389279695l/20498618.jpg,23,1625
-616,The Poetry of Luis Cernuda,Luis Cernuda,4.50,2,370460.The_Poetry_of_Luis_Cernuda,,171,1963
+616,The Poetry of Luis Cernuda,Luis Cernuda,4.50,2,370460.The_Poetry_of_Luis_Cernuda,img/nopic.png,171,1963
 617,"Demian. Siddartha. (Sepan Cuantos, #630)",Hermann Hesse,4.13,2259,393420.Demian_Siddartha_,https://d2arxad8u2l0g7.cloudfront.net/books/1328224601l/393420.jpg,209,1919
 618,"L'otage, suivi de Le pain dur, et de Le père humilié",Paul Claudel,3.40,5,11490193-l-otage-suivi-de-le-pain-dur-et-de-le-p-re-humili,https://d2arxad8u2l0g7.cloudfront.net/books/1335382186l/11490193.jpg,440,1955
 619,Les Amours jaunes,Tristan Corbière,3.84,64,5097184-les-amours-jaunes,https://d2arxad8u2l0g7.cloudfront.net/books/1327786283l/5097184.jpg,311,1873
@@ -956,7 +956,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 953,"Barefoot Season (Blackberry Island, #1)",Susan Mallery,3.87,"7,196",12777901-barefoot-season,https://d2arxad8u2l0g7.cloudfront.net/books/1325891756l/12777901.jpg,368,
 954,The Unknown Soldier,Väinö Linna,3.96,"2,466",422728.The_Unknown_Soldier,https://d2arxad8u2l0g7.cloudfront.net/books/1359743681l/422728.jpg,338,1954
 955,The Serious Game,Hjalmar Söderberg,3.95,"1,462",551028.The_Serious_Game,https://d2arxad8u2l0g7.cloudfront.net/books/1353574207l/551028.jpg,240,1912
-956,The Red Room,Joan Barbara Simon,4.50,2,7374424-the-red-room,https://d2arxad8u2l0g7.cloudfront.net/books/1348832791l/7374424.jpg,172,1879
+956,The Red Room,August Strindberg,3.38,1397,6452930-the-red-room,https://d2arxad8u2l0g7.cloudfront.net/books/1347624615l/6452930.jpg,317,1879
 957,Bokhandlaren som slutade bada,Fritiof Nilsson Piraten,3.62,32,3908118-bokhandlaren-som-slutade-bada,https://d2arxad8u2l0g7.cloudfront.net/books/1368971281l/3908118.jpg,282,1937
 958,Dance of the Dwarfs,Geoffrey Household,3.65,92,102052.Dance_of_the_Dwarfs,https://d2arxad8u2l0g7.cloudfront.net/books/1171484345l/102052.jpg,160,1945
 959,"The Emigrants (The Emigrants, #1)",Vilhelm Moberg,4.16,"2,685",165035.The_Emigrants,https://d2arxad8u2l0g7.cloudfront.net/books/1388243146l/165035.jpg,400,1949
@@ -1028,7 +1028,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1025,The Master of Ballantrae,Robert Louis Stevenson,3.71,4182,223175.The_Master_of_Ballantrae,https://d2arxad8u2l0g7.cloudfront.net/books/1172852381l/223175.jpg,388,1889
 1026,The Hearts and Lives of Men,Fay Weldon,3.77,341,647691.The_Hearts_and_Lives_of_Men,https://d2arxad8u2l0g7.cloudfront.net/books/1412980580l/647691.jpg,357,1987
 1027,The Real Life of Sebastian Knight,Vladimir Nabokov,3.94,"3,403",71552.The_Real_Life_of_Sebastian_Knight,https://d2arxad8u2l0g7.cloudfront.net/books/1348436904l/71552.jpg,181,1941
-1028,The Short Stories of Thomas Hardy. Vol. 2,Thomas Hardy,4.50,2,14468281-the-short-stories-of-thomas-hardy-vol-2,https://d2arxad8u2l0g7.cloudfront.net/books/1348690137l/14468281.jpg,588,1928
+1028,Short Stories,Thomas Hardy,3.85,79,699470.Short_Stories,https://d2arxad8u2l0g7.cloudfront.net/books/1347726378l/699470.jpg,96,1928
 1029,Water Music,T.C. Boyle,4.15,"2,976",24726.Water_Music,https://d2arxad8u2l0g7.cloudfront.net/books/1440289641l/24726.jpg,437,1982
 1030,The Complete Poems,Emily Brontë,4.11,"1,849",13223.The_Complete_Poems,https://d2arxad8u2l0g7.cloudfront.net/books/1348005052l/13223.jpg,262,1850
 1031,The Winter's Tale,William Shakespeare,3.68,"17,937",44133.The_Winter_s_Tale,https://d2arxad8u2l0g7.cloudfront.net/books/1327893509l/44133.jpg,279,1623
@@ -1131,7 +1131,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1128,Theogony/Works and Days,Hesiod,3.72,"8,101",27418.Theogony_Works_and_Days,https://d2arxad8u2l0g7.cloudfront.net/books/1388209545l/27418.jpg,79,-700
 1129,An Occurrence at Owl Creek Bridge,Ambrose Bierce,4.01,"14,888",920649.An_Occurrence_at_Owl_Creek_Bridge,https://d2arxad8u2l0g7.cloudfront.net/books/1453993106l/920649.jpg,36,1890
 1130,The Poem of the Cid,Unknown,3.79,28,452471.The_Poem_of_the_Cid,https://d2arxad8u2l0g7.cloudfront.net/books/1223664244l/452471.jpg,160,1195
-1131,Edward Lear's Book of Nonsense and More Nonsense,Edward Lear,4.50,4,752245.Edward_Lear_s_Book_of_Nonsense_and_More_Nonsense,,224,1846
+1131,A Book of Nonsense - More Nonsense (Nonsense Books #1),Edward Lear,3.72,860,868668.A_Book_of_Nonsense_More_Nonsense,https://d2arxad8u2l0g7.cloudfront.net/books/1320477265l/868668.jpg,288,1846
 1132,"Orpheus and Eurydice: A Grecian Tragedy, Plato's Version",Anonymous,0.00,0,29814489-orpheus-and-eurydice,img/nopic.png,162,8
 1133,The Works of George Peele (Classic Reprint),George Peele,2.00,1,26917334-the-works-of-george-peele,img/nopic.png,316,1596
 1134,Foliage; Or Poems Original and Translated,Leigh Hunt,0.00,0,26601905-foliage-or-poems-original-and-translated,https://d2arxad8u2l0g7.cloudfront.net/books/1444630386l/26601905.jpg,296,1859
@@ -1628,7 +1628,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1625,The Accidental,Ali Smith,3.27,"6,631",127630.The_Accidental,https://d2arxad8u2l0g7.cloudfront.net/books/1425382189l/127630.jpg,306,2005
 1626,"Case Histories (Jackson Brodie, #1)",Kate Atkinson,3.81,"54,311",16243.Case_Histories,https://d2arxad8u2l0g7.cloudfront.net/books/1451442186l/16243.jpg,389,2007
 1627,The Secret Scripture,Sebastian Barry,3.74,"11,083",3419808-the-secret-scripture,https://d2arxad8u2l0g7.cloudfront.net/books/1325714117l/3419808.jpg,300,2008
-1628,World's Fair Nurse,Dorothy Daniels,4.50,2,13505540-world-s-fair-nurse,https://d2arxad8u2l0g7.cloudfront.net/books/1384569055l/13505540.jpg,127,1985
+1628,World's Fair,E.L. Doctorow,3.80,2886,24910.World_s_Fair,https://d2arxad8u2l0g7.cloudfront.net/books/1388805728l/24910.jpg,304,1985
 1629,Clockers,Richard Price,4.06,"6,590",45794.Clockers,https://d2arxad8u2l0g7.cloudfront.net/books/1170298592l/45794.jpg,608,1992
 1630,Snow,Orhan Pamuk,3.54,"27,755",11691.Snow,https://d2arxad8u2l0g7.cloudfront.net/books/1357684424l/11691.jpg,463,2002
 1631,"Home (Gilead, #2)",Marilynne Robinson,3.95,"14,216",2924318-home,https://d2arxad8u2l0g7.cloudfront.net/books/1426188598l/2924318.jpg,325,2008
@@ -1691,7 +1691,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 1688,The Night Manager,John le Carré,3.78,"5,888",1735330.The_Night_Manager,https://d2arxad8u2l0g7.cloudfront.net/books/1348724026l/1735330.jpg,597,1993
 1689,If Nobody Speaks of Remarkable Things,Jon McGregor,3.90,"5,416",103345.If_Nobody_Speaks_of_Remarkable_Things,https://d2arxad8u2l0g7.cloudfront.net/books/1440279416l/103345.jpg,288,2002
 1690,"Fleshmarket Close (Inspector Rebus, #15)",Ian Rankin,3.96,"6,491",205650.Fleshmarket_Close,https://d2arxad8u2l0g7.cloudfront.net/books/1172676537l/205650.jpg,482,2004
-1691,One of the Children: Gay Black Men in Harlem,William G. Hawkeswood,4.50,2,474977.One_of_the_Children,https://d2arxad8u2l0g7.cloudfront.net/books/1175057630l/474977.jpg,240,1992
+1691,The Children of Men,P.D. James,3.69,29931,41913.The_Children_of_Men,https://d2arxad8u2l0g7.cloudfront.net/books/1388271989l/41913.jpg,241,1992
 1692,Drop City,T.C. Boyle,3.82,9391,24724.Drop_City,https://d2arxad8u2l0g7.cloudfront.net/books/1327936131l/24724.jpg,497,2003
 1693,Dart,Alice Oswald,4.04,290,1037864.Dart,https://d2arxad8u2l0g7.cloudfront.net/books/1180416457l/1037864.jpg,46,2002
 1694,Krik? Krak!,Edwidge Danticat,4.09,"5,431",600404.Krik_Krak_,https://d2arxad8u2l0g7.cloudfront.net/books/1306476363l/600404.jpg,224,1995
@@ -2312,7 +2312,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999374,Canon of Medicine Volume 1,ابن سينا - Ibn Sina,4.50,2,20444116-canon-of-medicine-volume-1,https://d2arxad8u2l0g7.cloudfront.net/books/1388938029l/20444116.jpg,650,1025
 999375,"Roosevelt: The Lion and the Fox, 1882-1940 (Roosevelt #1)",James MacGregor Burns,3.90,243,685849.Roosevelt,https://d2arxad8u2l0g7.cloudfront.net/books/1328876437l/685849.jpg,592,1956
 999376,Microbe Hunters,Paul de Kruif,4.05,"1,777",582171.Microbe_Hunters,https://d2arxad8u2l0g7.cloudfront.net/books/1434084164l/582171.jpg,384,1926
-999377,Jewish Values in Psychotherapy: Essays on Vital Issues of Man's Search for Meaning,Levi Meier,4.50,2,625350.Jewish_Values_in_Psychotherapy,,200,1984
+999377,Man's Search for Meaning,Viktor E. Frankl,4.32,154016,4069.Man_s_Search_for_Meaning?ac=1,https://d2arxad8u2l0g7.cloudfront.net/books/1467136625l/4069.jpg,165,1984
 999378,The Tao of Physics: An Exploration of the Parallels between Modern Physics and Eastern Mysticism,Fritjof Capra,3.95,"12,689",10238.The_Tao_of_Physics,https://d2arxad8u2l0g7.cloudfront.net/books/1327908532l/10238.jpg,366,1975
 999379,Reason: Why Liberals Will Win the Battle for America,Robert B. Reich,3.84,400,476247.Reason,https://d2arxad8u2l0g7.cloudfront.net/books/1420776077l/476247.jpg,272,1953
 999380,"Enciclopedia, o Dizionario ragionato delle scienze, delle arti e dei mestieri",Denis Diderot,4.08,36,23166545-enciclopedia-o-dizionario-ragionato-delle-scienze-delle-arti-e-dei-mes,https://d2arxad8u2l0g7.cloudfront.net/books/1410124494l/23166545.jpg,611,1751
@@ -2400,7 +2400,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999462,The Essays of Henry D. Thoreau: Selected and Edited by Lewis Hyde,Henry David Thoreau,4.11,47,16901.The_Essays_of_Henry_D_Thoreau,https://d2arxad8u2l0g7.cloudfront.net/books/1388890756l/16901.jpg,448,1862
 999463,The Symposium,Plato,4.00,"24,494",81779.The_Symposium,https://d2arxad8u2l0g7.cloudfront.net/books/1359922039l/81779.jpg,131,-370
 999464,Eichmann in Jerusalem: A Report on the Banality of Evil,Hannah Arendt,4.18,"7,367",52090.Eichmann_in_Jerusalem,https://d2arxad8u2l0g7.cloudfront.net/books/1404513286l/52090.jpg,312,1963
-999465,The Life and Letters of Benjamin Franklin,Benjamin Franklin,4.50,8,3421955-the-life-and-letters-of-benjamin-franklin,,378,1790
+999465,The Life and Letters of Benjamin Franklin,Benjamin Franklin,4.50,8,3421955-the-life-and-letters-of-benjamin-franklin,img/nopic.png,378,1790
 999466,Orientalism,Edward W. Said,4.06,"10,368",355190.Orientalism,https://d2arxad8u2l0g7.cloudfront.net/books/1409777781l/355190.jpg,395,1978
 999467,Catiline Orations of Cicero - Literal Translation,Marcus Tullius Cicero,3.79,210,12637657-catiline-orations-of-cicero---literal-translation,https://d2arxad8u2l0g7.cloudfront.net/books/1348454628l/12637657.jpg,106,-63
 999468,The Hasheesh Eater,Fitz Hugh Ludlow,2.00,,26626800-the-hasheesh-eater,https://d2arxad8u2l0g7.cloudfront.net/books/1442821347l/26626800.jpg,228,1857
@@ -2616,7 +2616,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999679,The Function of the Orgasm (Discovery of the Orgone #1),Wilhelm Reich,3.98,332,339389.The_Function_of_the_Orgasm,https://d2arxad8u2l0g7.cloudfront.net/books/1391143635l/339389.jpg,400,1973
 999680,Looking at the Dance,Edwin Denby,4.33,3,6775559-looking-at-the-dance,img/nopic.png,384,1949
 999681,Intelligent Life in the Universe,Carl Sagan,4.24,264,275567.Intelligent_Life_in_the_Universe,https://d2arxad8u2l0g7.cloudfront.net/books/1173336202l/275567.jpg,509,1966
-999682,Hallow This Ground,Colin Rafferty,4.50,12,25788661-hallow-this-ground,https://d2arxad8u2l0g7.cloudfront.net/books/1435169785l/25788661.jpg,208,1956
+999682,This Hallowed Ground: The story of the Union Side of the Civil War,Bruce Catton,4.34,621,101648.This_Hallowed_Ground,https://d2arxad8u2l0g7.cloudfront.net/books/1348361307l/101648.jpg,448,1956
 999683,Motivation and Personality,Abraham H. Maslow,4.15,933,1297177.Motivation_and_Personality,https://d2arxad8u2l0g7.cloudfront.net/books/1387734804l/1297177.jpg,336,1954
 999684,Patterns of Culture,Ruth Benedict,3.77,983,973859.Patterns_of_Culture,https://d2arxad8u2l0g7.cloudfront.net/books/1349037691l/973859.jpg,320,1934
 999685,Art and Culture: Critical Essays,Clement Greenberg,3.82,271,30606.Art_and_Culture,https://d2arxad8u2l0g7.cloudfront.net/books/1333579458l/30606.jpg,288,1961
@@ -2805,7 +2805,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 999868,Grizzly Years: In Search of the American Wilderness,Doug Peacock,4.18,916,250095.Grizzly_Years,https://d2arxad8u2l0g7.cloudfront.net/books/1388381675l/250095.jpg,304,1990
 999869,One Man's Mountains: Essays and Verses,Tom Patey,4.38,32,1872738.One_Man_s_Mountains,https://d2arxad8u2l0g7.cloudfront.net/books/1189550798l/1872738.jpg,287,1971
 999870,"One Summer: America, 1927",Bill Bryson,4.05,"28,063",17262366-one-summer,https://d2arxad8u2l0g7.cloudfront.net/books/1380292864l/17262366.jpg,456,2004
-999871,The Republican Era 1869 1901 a Study in Administrative History,Leonard D White,4.50,2,26656648-the-republican-era-1869-1901-a-study-in-administrative-history,https://d2arxad8u2l0g7.cloudfront.net/books/1444610810l/26656648.jpg,420,1959
+999871,"The Republican Era, 1869-1901",Leonard Dupee White,4.00,3,26593981-the-republican-era-1869-1901,https://d2arxad8u2l0g7.cloudfront.net/books/1442415637l/26593981.jpg,396,1959
 999872,Nixonland: The Rise of a President and the Fracturing of America,Rick Perlstein,4.09,"5,428",2393575.Nixonland,https://d2arxad8u2l0g7.cloudfront.net/books/1347835266l/2393575.jpg,895,2008
 999873,Toms River: A Story of Science and Salvation,Dan Fagin,4.03,"2,025",15798109-toms-river,https://d2arxad8u2l0g7.cloudfront.net/books/1360096482l/15798109.jpg,560,2013
 999874,The Emperor of All Maladies: A Biography of Cancer,Siddhartha Mukherjee,4.27,"45,867",7170627-the-emperor-of-all-maladies,https://d2arxad8u2l0g7.cloudfront.net/books/1280771091l/7170627.jpg,571,2010
@@ -3050,7 +3050,7 @@ id,title,author,avg_rating,ratings,url,img,pages,year
 9991115,The Content of Our Character: A New Vision of Race In America,Shelby Steele,3.89,289,55549.The_Content_of_Our_Character,https://d2arxad8u2l0g7.cloudfront.net/books/1429850066l/55549.jpg,192,1989
 9991116,"Disruption of American Democracy, 1856-61",Roy Franklin Nichols,4.50,2,20501201-disruption-of-american-democracy-1856-61,https://d2arxad8u2l0g7.cloudfront.net/books/1389313132l/20501201.jpg,605,1948
 9991117,Malcolm X: A Life of Reinvention,Manning Marable,4.19,"9,797",7940589-malcolm-x,https://d2arxad8u2l0g7.cloudfront.net/books/1347690389l/7940589.jpg,608,2011
-9991118,The Measure of a Man,Amelia E. Barr,4.50,2,10912688-the-measure-of-a-man,https://d2arxad8u2l0g7.cloudfront.net/books/1349003791l/10912688.jpg,240,1954
+9991118,"The Measure of Man on Freedom, Human Values, Survival, and the Modern Temper",Joseph Wood Krutch,3.70,10,17733580-the-measure-of-man-on-freedom-human-values-survival-and-the-modern-te,https://d2arxad8u2l0g7.cloudfront.net/books/1365189687l/17733580.jpg,261,1954
 9991119,The Denial of Death,Ernest Becker,4.20,"4,039",2761.The_Denial_of_Death,https://d2arxad8u2l0g7.cloudfront.net/books/1388432490l/2761.jpg,336,1973
 9991120,The War of Independence,Claude H. Van Tyne,0.00,0,2643433-the-war-of-independence,https://d2arxad8u2l0g7.cloudfront.net/books/1347983996l/2643433.jpg,532,1929
 9991121,The Price of Power: Kissinger in the Nixon White House,Seymour M. Hersh,4.01,139,198829.The_Price_of_Power,https://d2arxad8u2l0g7.cloudfront.net/books/1441266722l/198829.jpg,700,1982
