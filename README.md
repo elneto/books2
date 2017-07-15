@@ -5,5 +5,7 @@ It takes the ratings from goodreads and it was born from the idea of finding goo
 
 You can send suggestions or comments to <a href="mailto:neto@tuco.co">neto[at]tuco.co</a> or follow me at <a href="https://twitter.com/soyfantomas">@soyfantomas</a>
 
+<a href="http://tuco.co/books/index.html">Visit the project here</a>
+
 ![Screenshot](/public/img/rating.png?raw=true "Screenshot")
 
