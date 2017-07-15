@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>The Greatest Books Visualized</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="css/styles2.css">
+    <style>
+    
+    </style>
+</head>
+
+<body>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html">The Greatest Books Visualized</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">Order by rating</a></li>
+                    <li class="active"><a href="numpages.html" >Order by number of pages</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="container">
+        <!-- Main component for a primary marketing message or call to action -->
+        <!-- <div class="jumbotron">
+            <h1>The Greatest Books Visualized</h1>
+            <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
+            <p>To see the difference between static and fixed top navbars, just scroll.</p>
+            <p>
+                <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
+            </p>
+        </div> -->
+        <div id="theviz"></div>
+        <!-- A tool tip -->
+        <div id="tooltip">
+            <img src="img/close.gif" id="closett">
+            <img id="tt-img" src="" width=50>
+            <div id="tt-text">
+                <div id="tt-title"></div>
+                <div id="tt-author"></div><small><div id="tt-pages"></div></small>
+                <div id="tt-ratings"></div>
+                <a href="" id="tt-url" target="_blank">Read more</a>
+                <!-- &nbsp;|&nbsp; -->
+                <!-- <a href="#" id="tt-red">Remove</a> -->
+            </div>
+        </div>
+        <!-- number of pages on top -->
+        <div id="numpages_cont">
+            <div id="numpages"></div>
+        </div>
+    </div>
+    <!-- /container -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="js/d3.v3.min.js"></script>
+    <script src="js/chroma.min.js"></script>
+    <script src="js/gb.js"></script>
+    <script>
+    function good_search_title_author(id) {
+        for (var i = 0; i < gb.length; i++) {
+            if (gb[i].id == id)
+                return gb[i].title + ' ' + gb[i].author
+        }
+    }
+
+    var size_square = 7;
+
+    var width = 960,
+        height = 400;
+
+    var svg = d3.select("#theviz").append("svg")
+        .attr("width", width * size_square)
+        .attr("height", height * size_square);
+
+    var x = d3.scale.linear()
+        .range([0, width]);
+
+    var y = d3.scale.linear()
+        .range([height, 0]);
+
+    var xAxis = d3.svg.axis()
+        .scale(x)
+        .orient("top");
+
+    var cs = d3.scale.linear(); //default scale 0,1
+    var color_scale = chroma.scale(['lightgray', 'red']);
+    //var color_scale = chroma.scale('Spectral');
+
+    var tt = d3.select("#tooltip");
+
+    d3.csv("both.csv", function(error, data) {
+        //d3.tsv("bbeverpicsTotalPages.tsv", function(error, data) {
+        data.sort(function(a, b) {
+            return parseInt(a.pages) - parseInt(b.pages);
+        });
+        order_pages = 0;
+        previous_page = 0;
+        tmp_col = [];
+
+        data.forEach(function(d) {
+            d.pages = +d.pages;
+            d.avg_rating = +d.avg_rating;
+            order_rating = 5.0;
+            d.order_rating = order_rating; //the only book with x pages, i.e, only one book has 20 pages
+
+            if (d.pages <= previous_page) {
+                d.order_pages = order_pages;
+                tmp_col.push(d);
+            } else //cambio de pagina
+            {
+                d.order_pages = ++order_pages;
+                previous_page = d.pages;
+
+                if (tmp_col.length >= 1) { //more books with x pages
+                    //desc order by d.avg_rating
+                    tmp_col.sort(function(a, b) {
+                        return parseFloat(b.avg_rating) - parseFloat(a.avg_rating);
+                    });
+                    for (var i = 0; i < tmp_col.length; i++) {
+                        tmp_col[i].order_rating = order_rating;
+                        order_rating -= 0.1;
+                    }
+                    tmp_col = []; //clean the temp column
+                    tmp_col.push(d); //and insert the next one
+                }
+
+            }
+
+            if (typeof d.ratings !== "undefined")
+                d.ratings = parseInt(d.ratings.replace(/\,/g, '')); //remove commas
+
+        });
+        //console.log(d3.max(data, function(d) { return d.order_pages; }));
+        y.domain([0, 5]);
+        x.domain([0, d3.max(data, function(d) {
+            return d.order_pages;
+        })]);
+        cs.domain([0, d3.max(data, function(d) {
+            return d.ratings;
+        })]);
+
+        svg.selectAll(".square")
+            .data(data)
+            .enter().append("rect")
+            .attr("class", "square")
+            .attr("x", function(d) {
+                return x(d.order_pages) * (size_square - 1);
+            })
+            .attr("width", size_square)
+            .attr("y", function(d) {
+                return y(d.order_rating) + 25;
+            })
+            .attr("height", size_square)
+            .attr("style", function(d) {
+                return "fill:" + color_scale(cs(d.ratings)).hex() + ";";
+            })
+            .on("mouseover", function(d) {
+                //d3.select(this).transition().duration(300).attr("height", size_square*2).attr("width", size_square*2);
+                d3.select(this).attr("style", function(d) {
+                    return "fill:#e5e500";
+                })
+                showTooltip(d, this, event.pageX+5, event.pageY+5);
+            })
+            .on("mouseout", function(d) {
+                d3.select(this).attr("style", function(d) {
+                    return "fill:" + color_scale(cs(d.ratings)).hex() + ";";
+                })
+            })
+            .on("click", function(d) {
+                //window.open("https://www.goodreads.com/book/show/"+d.url, '_blank');
+                var search = good_search_title_author(d.id);
+                search = search.replace(' ', '+');
+                window.open("https://www.goodreads.com/search?q=" + search)
+                    //window.open("https://www.goodreads.com/book/show/"+d.url, '_blank');
+            });
+
+        d3.select("#closett").on("click", function(d) {
+            return tt.style("visibility", "hidden");
+        });
+
+        function showTooltip(d, node, x, y) {
+            if (d.img != "0")
+                d3.select("#tt-img").attr("src", d.img);
+            else
+                d3.select("#tt-img").attr("src", "img/nopic.png");
+            d3.select("#tt-title").text(d.title + ' (' + d.id + ')'); //debug id
+            d3.select("#tt-author").text(d.author);
+            d3.select("#tt-pages").text(d.pages + " pages");
+            d3.select("#tt-ratings").text(d.avg_rating + " from " + addCommas(d.ratings) + " reviews");
+            d3.select("#tt-url").attr("href", "https://www.goodreads.com/book/show/" + d.url);
+            tt.style("top", y + "px").style("left", x + "px");
+            tt.style("visibility", "visible");
+
+            //numpages
+            d3.select("#numpages").text(d.pages + " pages");
+            d3.select("#numpages_cont").style("left", x - 15 + "px");
+            d3.select("#numpages_cont").style("visibility", "visible");
+
+            return 0;
+        }
+
+        function addCommas(nStr) {
+            nStr += '';
+            var x = nStr.split('.');
+            var x1 = x[0];
+            var x2 = x.length > 1 ? '.' + x[1] : '';
+            var rgx = /(\d+)(\d{3})/;
+            while (rgx.test(x1)) {
+                x1 = x1.replace(rgx, '$1' + ',' + '$2');
+            }
+            return x1 + x2;
+        }
+
+    });
+    </script>
+
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96533717-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+
+</html>
